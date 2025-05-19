@@ -1,0 +1,101 @@
+merchant_id,merchant_name,join_date,city_id
+3e2b6,Bagel Bros,14122015,8
+2b5d7,Bagel House,16082017,4
+2a1c4,BBQ Corner,3072016,2
+e8c2b,BBQ Nation,14052020,5
+f8a3d,BBQ Spot,17032019,2
+2e8a5,Burger Barn,4022016,8
+4e2d1,Burger Bliss,26052015,5
+5c1f8,Burger Factory,29072019,5
+0c5d8,Burger Joint,12052018,8
+b4a8f,Burrito Bar,8012020,2
+9f4a2,Burrito Express,22042013,8
+0e1b3,Chicken Shack,27092016,2
+9d5f2,Chili Express,23052018,2
+6d0f7,Chili House,2112022,5
+0e7a4,Crepe Corner,5062018,2
+e7a2f,Crepe Delight,1092021,4
+c5e2a,Curry Corner,12032017,5
+b9e8c,Curry Delight,5032019,8
+b2d8e,Curry House,29092015,8
+2a9c5,Curry Spot,26072013,5
+0e1f9,Dim Sum Delight,13122021,2
+7d4e1,Dim Sum Palace,31082018,5
+e9a1c,Donut Den,9102015,8
+3b7f0,Donut Palace,11122016,2
+7f2c1,Dumpling Delight,7092019,5
+b0e7f,Dumpling World,24032017,2
+d1e9b,Falafel Express,9052020,2
+6a9c1,Falafel Stop,18082014,2
+9b4c2,Fish & Chips Co.,29102014,1
+b9e5f,Fish Shack,2032015,8
+2f3d7,French Bistro,19072014,5
+6f1c4,French Toast Cafe,7062016,2
+0c2d7,Fried Chicken Express,2032017,4
+7c1a9,Fried Chicken Hub,23072016,8
+b0a4f,Gourmet Express,6122014,5
+4a3e6,Gourmet Grill,15032014,1
+a4f0b,Hot Dog Express,2112013,8
+d3b6a,Hot Dog Hut,12082020,1
+6a0c3,Indian Curry House,11092020,5
+a3e8b,Indian Spice,15082019,8
+c5a8e,Korean BBQ,21012016,2
+2d7a9,Korean Kitchen,25072017,1
+8e9a0,Mediterranean Delight,15062013,8
+1f5b7,Mediterranean Grill,23022021,5
+b7a3e,Noodle Corner,28122018,2
+9b5a0,Noodle Nest,16042013,5
+d4f7a,Noodle Spot,8072022,2
+3c7e9,Pancake House,8122022,6
+f7d1a,Pancit Hub,15092021,8
+8f7c2,Pancit Palace,2102017,2
+d4f0a,Pasta Mania,19052014,2
+1d4f2,Pho Express,12082022,8
+c8d3e,Pho Haven,5122020,5
+8b7a3,Pie Paradise,13042015,2
+9c8e2,Pie Town,27092022,5
+3f7e4,Pizza Express,6062019,3
+4b1d7,Pizza Haven,7122019,5
+7c5b9,Pizza Palace,14122020,5
+6f5a0,Pizza Spot,19012020,1
+f9e4c,Poke Bar,27082017,5
+4a7c1,Poke Express,14072021,5
+4f0c5,Ramen Express,5022019,2
+2f7b5,Ramen House,4052019,8
+7f4d2,Rice Bowl House,13062019,2
+d6e4a,Rice Express,23042018,1
+4d9f1,Salad Bowl,9092013,5
+3b1c6,Salad Express,1092015,5
+9f6b0,Salad King,26112015,2
+6d8e2,Salad Stop,22092021,8
+0c6e4,Sandwich Express,8082017,6
+8a2c6,Sandwich Hub,4082014,1
+a6c9f,Seafood Bay,2012020,8
+5f1d3,Seafood Express,19012021,5
+1c2e6,Shawarma Express,17072022,7
+1a5f4,Shawarma Shack,30012013,5
+5e7b2,Smoothie Bar,21032019,2
+c9f0b,Smoothie King,25022019,5
+a1b5e,Steak Corner,2032017,4
+4c9a2,Steak Express,18112013,8
+b3e8f,Sushi Delight,11062014,2
+8f2a6,Sushi Haven,31012014,4
+5b8d2,Sushi Stop,12022014,2
+a9f4e,Sushi World,23082013,2
+e8b3c,Taco Delight,4042015,5
+f3b8d,Taco Express,28082018,1
+a5c3b,Taco Town,17042018,5
+7d3c1,Taco Villa,18052020,6
+2a3e9,Tapas Corner,5012015,1
+5e0b4,Tapas Express,2102016,2
+1a3f7,Tasty Garden,11072017,8
+7e2d8,Teriyaki Bowl,1072016,8
+3d9c8,Teriyaki Express,28082016,8
+7a8e0,Thai Delight,30092016,2
+f1c7a,Thai Orchid,19042013,5
+5b3d8,Veggie Delight,17072018,8
+9a8c5,Veggie World,31052014,5
+e3b2d,Waffle House,15052021,8
+5d9e3,Waffle World,22032017,2
+8d5f9,Wings Express,7072018,2
+6c3f2,Wings Spot,27032014,5

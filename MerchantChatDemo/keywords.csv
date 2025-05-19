@@ -1,0 +1,4478 @@
+,keyword,view,menu,checkout,order
+0,fried spring rolls,37816,11185,3882,153
+1,spring rolls,8977,2903,1453,143
+2,crispy spring rolls,11922,3604,1627,147
+3,egg rolls,9587,1879,1130,75
+4,fried lumpia,32437,9716,3036,233
+5,popiah goreng,35553,12272,7363,269
+6,lumpia,25878,5232,3478,338
+7,lumpia goreng,29424,6052,3930,286
+8,chả giò,4375,1205,733,71
+9,lumpiang shanghai,8009,2295,1556,101
+10,vietnamese spring rolls,16090,3490,2255,161
+11,thai spring rolls,38880,15481,9078,796
+12,popiah,8492,2586,882,60
+13,fried popiah,44692,8338,4236,278
+14,spring roll snack,13921,2181,903,64
+15,vegetable spring rolls,21241,6154,4076,148
+16,mini spring rolls,37295,14324,8455,761
+17,lumpia philippines,39264,9410,5284,211
+18,fried roll',45170,15922,7630,704
+19,lemon pepper wings,11417,1726,506,38
+20,chicken wings,6691,1407,797,62
+21,lemon wings,5940,2059,1199,45
+22,wings 6 pcs,19559,5053,2028,113
+23,spicy wings,5120,1929,1250,44
+24,ayam lemon lada,46138,16290,5210,446
+25,lemon pepper ayam,27077,10053,6837,569
+26,cánh gà sốt chanh tiêu,40187,11896,4515,266
+27,lemon chicken wings,21284,7725,3561,302
+28,fried wings,9134,3227,2056,158
+29,buffalo wings,38686,7245,2092,183
+30,hot wings,29173,7155,3285,147
+31,garlic wings,45345,14924,7350,388
+32,honey wings,13619,3574,1183,96
+33,chicken wing snack,34720,8499,4093,241
+34,ayam goreng lemon,15069,4638,1328,108
+35,6 wings,11381,4025,2604,221
+36,sayap ayam lemon,35597,6300,3334,174
+37,crispy wings',36189,13326,5897,321
+38,general tso’s chicken,3291,1271,420,22
+39,general tso chicken,18594,3780,1734,165
+40,sweet spicy chicken,2093,616,382,18
+41,chinese chicken,45939,17135,11108,1105
+42,ayam general tso,6298,1634,727,35
+43,ayam manis pedas,45835,14030,5067,270
+44,gà sốt Tso,33337,7731,2069,184
+45,general chicken,41548,6380,1683,110
+46,chicken with sauce,27821,10804,4297,378
+47,kung pao chicken,36107,8796,2298,141
+48,tangy chicken,8448,2621,1621,115
+49,general tsao,46287,13164,5529,339
+50,tso’s chicken,47311,11324,6487,360
+51,general sauce chicken,16150,3358,1911,87
+52,chinese takeout chicken,4935,1736,555,23
+53,ayam saus manis,44017,15065,7983,461
+54,ayam saus pedas,25827,5321,3271,244
+55,general tso,6440,2496,1671,115
+56,bacon wrapped dog,44805,14960,6206,469
+57,hot dog bacon,24541,6548,2676,159
+58,bacon hotdog,45679,8445,3051,292
+59,bacon sausage,18369,4294,1082,95
+60,hotdog gulung bacon,4767,1197,646,51
+61,hotdog balut ng bacon,36355,6390,1790,151
+62,sosis gulung bacon,45578,15551,7635,509
+63,hotdog wrapped in bacon,48195,9826,6165,473
+64,bacon frank,33236,9018,2828,173
+65,bacon hot dog,21233,7806,3066,288
+66,bánh mì xúc xích cuộn thịt xông khói,32096,7123,3731,271
+67,hotdog snack,44152,13910,7765,726
+68,sausage bacon wrap,22912,6564,2133,160
+69,street food hot dog,24874,9296,4294,356
+70,frankfurter bacon,10040,1506,1035,102
+71,grilled hot dog bacon,35811,9354,3175,174
+72,bacon cheesy dog,7610,1173,319,23
+73,kulfi,47346,18267,6169,559
+74,indian ice cream,27914,5215,1623,101
+75,pistachio kulfi,45750,13649,5790,433
+76,mango kulfi,25444,5757,2058,134
+77,malai kulfi,16522,5327,3443,240
+78,matka kulfi,18322,5054,1576,106
+79,homemade kulfi,43177,12645,3795,180
+80,kulfi stick,31723,9138,3579,343
+81,ice cream bar kulfi,28033,5700,3322,151
+82,kulfi india,24480,9311,6294,601
+83,kulfi dessert,43510,16794,5814,395
+84,ice cream india,13337,4312,1776,131
+85,kulfi ais krim,34474,6522,4330,173
+86,ais krim india,6767,2574,1131,57
+87,kulfi sejuk,27447,5895,3658,181
+88,kulfi susu,48999,16356,5401,267
+89,indian dessert,28152,8613,5013,329
+90,fried fish sandwich,49558,16399,8751,653
+91,fish sandwich,33779,13156,6509,504
+92,crispy fish sandwich,4080,1385,793,78
+93,fish burger,15628,3526,1992,153
+94,ikan sandwich goreng,6668,1125,433,29
+95,fish fillet sandwich,28080,4779,1773,103
+96,fish sammie,26257,6896,2908,139
+97,sandwich ikan,41793,6882,4083,317
+98,bánh mì cá chiên,43171,11437,3042,156
+99,fish bun,10490,2886,925,44
+100,ikan goreng sandwich,31883,4897,2988,101
+101,sandwich ikan goreng,46816,14093,4283,173
+102,ikan goreng roti,33386,11776,4992,382
+103,fishwich,16961,3750,1283,82
+104,tartar sandwich,48476,11212,3308,187
+105,fried fish bun,35200,10968,5282,506
+106,fish filet sandwich,5610,1599,882,86
+107,ikan burger,9468,1736,1204,100
+108,garlic naan,11743,4164,1949,150
+109,naan garlic,23237,8904,4456,355
+110,roti naan,34846,6207,4210,385
+111,roti bawang putih,46880,17538,7554,367
+112,naan bawang putih,36871,9489,5087,309
+113,roti india,47381,18184,10799,789
+114,roti naan garlic,12940,4350,1278,66
+115,roti tandoor,41284,10140,5708,520
+116,bánh mì naan tỏi,12079,3080,2032,148
+117,naan bread,39215,11771,7966,435
+118,garlic roti,25985,4905,2298,189
+119,tandoori naan,40293,11710,4975,264
+120,indian bread,16343,3798,2376,195
+121,garlic flatbread,45306,7536,2361,202
+122,naan dengan bawang putih,15374,6009,3948,296
+123,naan viet,31698,4973,1334,124
+124,naan goreng,30782,12144,6247,285
+125,hot wings,25519,5091,3398,311
+126,spicy wings,23594,5811,2547,191
+127,chicken wings spicy,27972,10577,5687,401
+128,wings pedas,19819,5022,2769,200
+129,hot wings 6 pcs,653,245,144,11
+130,ayam pedas,25848,7425,4137,235
+131,buffalo wings,32170,5333,1647,57
+132,chili wings,37094,13266,7736,731
+133,wings goreng pedas,18697,2950,819,58
+134,cánh gà cay,40687,14656,6633,557
+135,hot chicken wings,40809,15524,10047,625
+136,sayap ayam pedas,19117,4218,2078,120
+137,wings goreng,23887,6314,4035,172
+138,thai chili wings,20954,3978,1578,130
+139,wings panas,2529,385,145,10
+140,sambal wings,32346,8843,4931,277
+141,wings nyam nyam,36552,14316,6650,361
+142,ayam goreng pedas,8697,3079,1970,166
+143,double patty burger,12661,4301,1485,109
+144,cheeseburger,22451,7973,2530,245
+145,double cheeseburger,2561,512,233,17
+146,burger double,14138,2955,1494,68
+147,double beef burger,12288,3988,2108,158
+148,burger daging dua,29375,8484,5624,479
+149,burger dua lapis,45554,16916,8166,397
+150,burger dua daging,11448,2113,1437,86
+151,burger keju dua,3162,1218,576,49
+152,burger besar,20339,4215,1413,77
+153,double meat burger,2879,834,401,22
+154,bánh mì kẹp thịt đôi,37600,6702,2285,103
+155,hamburger double,18657,2911,1068,65
+156,burger besar,7798,2291,579,33
+157,deluxe burger,20785,6094,2927,236
+158,burger ganda,47351,12564,7153,351
+159,burger sapi dua,14952,4290,2678,160
+160,burger double stack,16559,5033,2597,154
+161,mushroom & herb crepe,9200,2009,679,26
+162,savory crepe,48444,9181,3793,323
+163,mushroom crepe,38958,6250,3754,351
+164,crepe jamur,31177,6476,2024,188
+165,crepe herba,37430,6080,1991,194
+166,crepe gurih,9259,2610,1385,89
+167,bánh crepe nấm,24488,7241,3761,271
+168,jamur dan herba,10124,1999,826,65
+169,crepe savory,14091,4951,2935,260
+170,french crepe,43238,13474,9007,695
+171,herb crepe,45343,8057,5188,238
+172,crepe sayur,49466,11493,5778,380
+173,herbed crepe,18848,4363,2838,189
+174,jamur herb crepe,29898,11082,3265,148
+175,breakfast crepe,13814,5521,1514,71
+176,roti crepe isi,44278,12174,3191,196
+177,crepe isi jamur,16435,3419,2157,107
+178,crepe gulung,47014,12993,8430,800
+179,crepe savory jamur,24071,4403,1347,65
+180,nutella & banana crepe,16348,4060,2180,147
+181,banana nutella crepe,30354,9071,4479,329
+182,crepe pisang nutella,39892,15847,8299,552
+183,crepe nutella dan pisang,4670,756,357,33
+184,crepe manis,31341,5360,2889,246
+185,sweet crepe,42792,11360,5761,574
+186,dessert crepe,3407,653,264,21
+187,crepe coklat pisang,46172,9211,3651,364
+188,bánh crepe chuối nutella,35153,7790,4270,265
+189,nutella banana,25599,8973,4334,272
+190,crepe snack,32130,8316,3865,280
+191,nutella crepes,2120,669,406,22
+192,crepe coklat,30481,10073,6150,311
+193,crepe buah,49683,14079,6158,435
+194,crepe pisang,44735,12038,3111,179
+195,crepe sarapan,20583,3281,986,58
+196,nutella dessert,3191,587,387,22
+197,lemonade,12872,4024,2512,90
+198,fresh lemonade,2258,582,267,18
+199,lemon drink,34597,7342,4621,271
+200,air lemon,33012,6773,2043,175
+201,jus lemon,12810,2126,583,45
+202,nước chanh,13262,2124,565,50
+203,lemon juice,26547,4190,1654,163
+204,minuman lemon,28496,10227,5152,434
+205,lemon soda,20006,6194,2588,229
+206,limonada,14243,2577,975,82
+207,ice lemonade,49402,16742,8982,790
+208,lemon ais,19571,7507,4551,359
+209,soda lemon,35887,13981,5887,408
+210,limeade,649,229,84,3
+211,lemon honey,35405,9760,6289,290
+212,lemon refreshment,20858,4169,1774,121
+213,lemon minuman,47909,14039,5662,196
+214,lemon cooler,3774,952,658,26
+215,chilled lemonade,40534,14430,8861,637
+216,lemon sirap,21074,4135,2015,86
+217,chili cheese fries,30042,5932,3490,136
+218,cheesy fries,11487,2427,1165,108
+219,fries with cheese,6413,1127,684,67
+220,kentang keju pedas,39642,10615,5333,402
+221,kentang chili keju,819,313,200,19
+222,kentang goreng keju,8154,2095,698,55
+223,french fries with chili,11122,2811,1394,100
+224,loaded fries,47595,18585,10892,833
+225,chili fries,21921,6771,3609,146
+226,spicy cheese fries,10090,3991,1760,157
+227,chili keju goreng,5745,1580,442,16
+228,kentang pedas,40235,12074,8071,534
+229,fries topping keju,42423,8428,4584,290
+230,hot cheese fries,31419,8125,5417,270
+231,chili keju fries,23807,6612,3005,245
+232,chili cheese kentang,4819,1567,545,41
+233,snack fries,33366,11809,3769,285
+234,beef bulgogi rice bowl,7283,2687,938,49
+235,bulgogi beef,41701,9541,2903,183
+236,bulgogi bowl,19846,6657,2354,81
+237,korean beef bowl,11642,2473,1267,118
+238,daging bulgogi,36421,7001,2414,183
+239,nasi daging korea,39257,15493,7804,511
+240,rice bowl bulgogi,43648,9489,4110,353
+241,bulgogi daging,12056,2534,1117,106
+242,cơm thịt bò bulgogi,22835,5062,2972,294
+243,beef rice bowl,23163,8940,2640,174
+244,korean rice bowl,27427,8924,4375,309
+245,bulgogi rice,47041,11374,5920,452
+246,mangkuk nasi bulgogi,36804,7066,2654,101
+247,daging korea,6475,1394,545,47
+248,bulgogi vietnam,31491,8112,2390,128
+249,nasi bulgogi sapi,31679,5988,3089,251
+250,bulgogi ricebox,33392,5918,3108,196
+251,rice box bulgogi,41652,8213,4819,312
+252,bucket of wings,43775,16684,5028,499
+253,chicken wings bucket,14118,4502,2735,255
+254,10 pcs wings,26072,4269,1751,86
+255,bucket wings 10,11948,2558,1568,98
+256,wings ayam 10 pcs,44929,9949,3151,240
+257,chicken bucket,14127,2562,890,68
+258,sayap ayam 10,37306,7595,2396,172
+259,wings goreng banyak,25098,7020,2114,206
+260,cánh gà 10 cái,33141,7231,2331,109
+261,ayam goreng bucket,41313,15529,4279,161
+262,wings set besar,11400,3378,1585,109
+263,fried wings bucket,44864,8479,3338,233
+264,spicy wings bucket,16443,3033,1869,145
+265,wings party pack,49514,14967,10116,990
+266,wings family pack,23543,5693,1608,159
+267,wings combo,8989,2338,855,35
+268,wings 10 keping,18728,4583,1650,89
+269,beef shawarma plate,33163,7935,3945,155
+270,shawarma beef,23319,8080,4164,267
+271,shawarma sapi,13947,5311,2631,90
+272,beef wrap plate,23786,7215,3410,265
+273,nasi daging shawarma,45100,10316,4471,306
+274,shawarma platter,9195,2640,1819,83
+275,shawarma dish,34934,11206,7505,315
+276,shawarma dengan nasi,46608,13033,6787,513
+277,daging shawarma,47038,13088,8563,310
+278,bánh mì thịt bò shawarma,9325,1411,356,20
+279,middle eastern beef plate,18758,3285,1905,141
+280,shawarma rice plate,7199,2752,1800,141
+281,beef kebab rice,35057,12593,5904,513
+282,shawarma meal,37298,14774,9894,980
+283,plate of beef shawarma,33377,7153,4510,433
+284,shawarma sapi nasi,24137,5025,1442,86
+285,classic cheese pizza,22090,7473,3812,335
+286,cheese pizza,10261,1782,728,66
+287,pizza keju,31918,11787,6215,467
+288,pizza klasik,15148,2552,704,57
+289,pizza margherita,45173,11653,6031,437
+290,keju pizza,13933,2242,732,72
+291,pizza keju klasik,37780,7450,1996,196
+292,classic pizza,33074,10437,3812,323
+293,pizza biasa,34236,12998,5497,224
+294,bánh pizza phô mai,43911,8898,4555,449
+295,pizza simple,5503,839,537,47
+296,pizza mozarella,1543,578,324,30
+297,pizza base cheese,10086,3220,944,41
+298,cheese lovers pizza,25662,4731,3251,300
+299,pizza margherita klasik,34611,9139,5728,537
+300,pizza topping keju,1888,550,138,10
+301,spaghetti bolognese,27428,6127,4201,237
+302,pasta bolognese,25484,8646,3465,340
+303,spaghetti daging,35500,11297,4619,289
+304,spaghetti meat sauce,46400,13398,8779,415
+305,spaghetti sauce merah,2543,766,514,44
+306,pasta merah,29198,4518,1741,128
+307,mì Ý sốt bò băm,23517,7778,5306,473
+308,spaghetti klasik,11846,2968,1687,157
+309,spageti bolognese,48824,16405,4641,422
+310,spageti daging cincang,39137,11814,3564,124
+311,spaghetti klasik daging,34877,7057,4588,247
+312,spaghetti bolognese asli,28285,9195,6422,517
+313,pasta beef tomato,1666,265,92,4
+314,spaghetti tomato meat,9229,1590,982,55
+315,classic cheeseburger,19195,6997,2348,206
+316,cheeseburger,42956,16979,9465,927
+317,burger keju,5874,2240,1009,90
+318,burger klasik,28672,9920,5488,431
+319,burger daging keju,15025,2557,1387,128
+320,burger cheese,40524,11597,6606,332
+321,bánh mì kẹp thịt phô mai,33859,8073,3414,321
+322,keju burger,40446,10523,3663,175
+323,cheeseburger klasik,39316,7870,2633,233
+324,burger biasa,18387,5672,1499,96
+325,burger sapi keju,8305,3165,939,54
+326,burger keju sederhana,12273,3213,877,31
+327,burger dengan keju,31439,10846,5125,247
+328,burger classic,25780,9424,3962,281
+329,cheese beef burger,3957,1502,1006,99
+330,cheeseburger simple,5087,1895,1002,52
+331,pancit palabok,35850,10920,4753,436
+332,palabok,18553,5479,2314,133
+333,filipino noodle,14116,2862,1948,192
+334,bihon palabok,15166,2383,1015,96
+335,mie palabok,20844,4799,1417,77
+336,mie filipina,3749,1461,748,36
+337,mie kuah palabok,28607,9463,5842,389
+338,mi xào kiểu philippines,30620,7358,1968,165
+339,pancit special,45838,10065,4065,318
+340,pancit mie,26038,6788,3146,144
+341,mie bihon saus oranye,34716,9294,4517,306
+342,palabok noodles,14509,2669,872,47
+343,mie nasi filipina,39165,13074,6392,449
+344,pancit mie kuah,21178,5414,2947,192
+345,filipino rice noodles,1889,394,249,15
+346,bihun palabok,38403,10758,6734,438
+347,mie pancit,47402,12439,6850,263
+348,pancit kuah,32371,8562,3534,250
+349,beef striploin bowl,11401,4386,1739,160
+350,striploin beef bowl,38850,6278,3531,328
+351,beef rice bowl,29742,11466,4652,203
+352,steak rice bowl,17030,4240,1817,155
+353,daging striploin,44435,14499,7056,623
+354,nasi daging panggang,28276,4777,2362,191
+355,mangkuk daging,40387,15408,6514,476
+356,beef steak bowl,14773,2396,1022,91
+357,steak bowl,18652,7169,2727,123
+358,cơm thịt bò nướng,28893,7324,4732,352
+359,rice bowl steak,34870,13618,6708,403
+360,striploin bowl,28227,6900,2047,110
+361,nasi sapi striploin,42463,13964,7317,489
+362,striploin grilled rice,19039,5276,2615,218
+363,beef grilled bowl,42568,13312,5265,266
+364,daging sapi bowl,15929,3689,2119,149
+365,mangkuk nasi sapi,13214,4315,2667,140
+366,celery & ranch,24776,9185,5095,496
+367,celery sticks with ranch,43462,16487,5493,247
+368,sayur celery ranch,47623,13932,6322,311
+369,celery and dip,21402,6181,2753,129
+370,snack celery ranch,27836,7030,2063,162
+371,ranch dipping sauce,29074,10213,4678,163
+372,ranch dressing celery,24392,9431,4000,383
+373,snek celery,36885,13151,5688,218
+374,rau cần tây và sốt ranch,15706,6105,3423,332
+375,sayuran ranch,15728,3529,1710,169
+376,veggie sticks with ranch,25281,9922,3266,306
+377,ranch dip,40218,10870,7126,382
+378,ranch sauce,6180,1603,688,34
+379,celery dengan ranch,37760,13894,5804,348
+380,celery sauce snack,37508,6178,1789,157
+381,ranch vegetable dip,28628,5721,3148,206
+382,grilled chicken caesar salad,36575,7642,2431,124
+383,chicken caesar salad,16570,6165,4038,225
+384,caesar salad,26235,4324,2486,96
+385,grilled caesar,20588,7950,2636,154
+386,salad ayam panggang,21501,5831,2878,120
+387,salad ayam caesar,32598,10728,3095,216
+388,salad ayam,33049,7252,4802,300
+389,salad dressing caesar,28254,5773,3210,119
+390,grilled chicken salad,33405,12295,5200,406
+391,gà nướng salad,7836,2750,710,53
+392,caesar salad ayam bakar,10836,1668,1152,70
+393,chicken salad caesar style,29484,8549,5908,474
+394,ayam panggang caesar,8732,1671,503,42
+395,salad ayam western,43693,12897,7183,434
+396,salad klasik ayam,10507,2004,1280,73
+397,ayam salad caesar,7174,1926,927,41
+398,spicy salmon roll,1475,227,94,6
+399,salmon maki,34332,13186,9118,667
+400,spicy salmon sushi,23260,7405,3021,203
+401,gulungan salmon pedas,4269,1273,777,76
+402,sushi salmon pedas,17409,5373,1555,92
+403,sushi gulung salmon,7531,2113,792,77
+404,maki salmon pedas,6658,2641,792,27
+405,spicy roll,31960,11322,2875,173
+406,cá hồi cay cuộn,34709,5441,3126,243
+407,sushi gulung pedas,29369,6263,3289,215
+408,spicy sushi roll,11142,2776,911,69
+409,salmon sushi,33358,5041,2897,275
+410,spicy fish roll,47619,16576,10503,579
+411,spicy salmon maki,9695,3542,2048,74
+412,gulungan sushi salmon,6013,1630,411,16
+413,maki pedas salmon,3670,1396,800,66
+414,shoyu ramen,25066,5669,2991,138
+415,soy sauce ramen,29042,11090,3287,258
+416,ramen shoyu,43201,13004,4803,452
+417,ramen kecap,22456,8709,3559,144
+418,mie ramen shoyu,5456,948,586,42
+419,ramen jepang shoyu,31385,9274,4370,304
+420,ramen kuah kecap,41045,6553,4389,239
+421,mì ramen shoyu,17873,5226,2718,266
+422,ramen klasik,41999,11310,4229,286
+423,ramen soy,25612,7697,2517,241
+424,mie jepang shoyu,5953,1333,661,56
+425,kuah shoyu ramen,39779,11687,6219,361
+426,japanese shoyu ramen,13660,4561,2123,147
+427,ramen rasa kecap asin,12345,4741,2392,178
+428,ramen light broth,10473,2024,519,30
+429,ramen dengan kecap asin,33978,12938,8271,414
+430,unagi nigiri (2 pcs),10075,2118,1302,47
+431,unagi sushi,9895,2106,624,26
+432,grilled eel sushi,48235,17799,12150,1086
+433,sushi belut,42561,11236,3184,129
+434,sushi unagi,27896,9236,2658,190
+435,unagi 2 pcs,1564,428,224,10
+436,nigiri belut,44624,10701,5127,226
+437,unagi 2 potong,39871,10432,4545,171
+438,sushi jepang unagi,1159,342,99,4
+439,eel sushi,40079,11694,4851,463
+440,sushi belut panggang,47047,17546,5971,334
+441,cá chình sushi,12384,3151,1069,104
+442,unagi ikan,12677,4356,1756,69
+443,sushi belut dua,24339,8942,2458,227
+444,eel nigiri,45631,16552,5325,463
+445,sushi unagi klasik,7842,2084,1183,111
+446,unagi sushi jepang,5098,869,316,29
+447,spicy tofu stew (soondubu),28371,6403,2847,182
+448,soondubu,7299,1420,667,23
+449,tofu soup,23518,5982,3329,231
+450,spicy tofu soup,14068,3067,1784,108
+451,jjigae tofu pedas,38904,10740,5025,188
+452,sup tahu korea,43997,8035,4601,448
+453,sup pedas tahu,7432,1748,1105,74
+454,korean tofu stew,39823,7026,3127,159
+455,mì đậu phụ cay,4000,1251,833,59
+456,sundubu,49146,13935,4129,376
+457,soondubu jjigae,39680,9939,6946,318
+458,tahu pedas korea,17504,4671,1408,66
+459,sup tahu pedas,14312,3577,1919,78
+460,spicy soondubu,32059,5014,2479,165
+461,korean stew tofu,28190,7266,2192,216
+462,korean soup spicy,44490,13482,4597,272
+463,tahu stew korea,2144,454,256,13
+464,chili dog,5613,1873,687,28
+465,hot dog chili,23791,8133,4341,343
+466,hotdog dengan chili,44192,10130,5082,186
+467,hotdog daging cincang,5480,1699,995,65
+468,sosis chili,46919,17588,6426,421
+469,chili sausage,36604,11663,5012,316
+470,bánh mì xúc xích sốt cay,5764,995,283,11
+471,chili beef hotdog,1897,331,175,11
+472,hotdog sambal,41080,14220,7308,420
+473,hotdog isi daging cincang,4185,927,622,48
+474,chili frank,21171,3840,1649,88
+475,hotdog pedas,23926,4502,2983,209
+476,chili frankfurter,35683,12557,3299,211
+477,chili cheese dog,13014,3613,2029,189
+478,sosis dengan sambal,5595,1864,1263,114
+479,hotdog saus chili,19779,3983,2436,230
+480,pho ga (chicken pho),16658,3205,1292,88
+481,pho ayam,35133,9390,5601,500
+482,chicken pho,26764,4967,1846,126
+483,vietnamese chicken noodles,17684,6890,3578,284
+484,sup ayam vietnam,25318,4268,2966,181
+485,mì phở gà,1823,481,170,11
+486,pho chicken,35135,13721,6799,572
+487,chicken noodle soup vietnam,47941,14654,4835,387
+488,sup pho ayam,21962,4687,1912,173
+489,ayam pho,7732,2637,1384,108
+490,kuah pho ayam,928,370,140,9
+491,pho gà,43949,11898,7414,733
+492,soup vietnam ayam,4737,1704,1179,70
+493,chicken rice noodle soup,44183,15024,7996,601
+494,vietnamese pho,18349,5255,3108,156
+495,ayam kuah pho,29706,9118,5376,364
+496,pho ga asli,3991,1430,990,74
+497,avocado cucumber roll,39552,11069,5254,268
+498,veggie sushi,38669,10850,4822,259
+499,sushi vegetarian,16266,5659,3115,157
+500,gulungan timun alpukat,34629,7086,4424,182
+501,sushi timun dan alpukat,47757,12147,4220,203
+502,sushi sayuran,516,122,82,6
+503,vegetarian sushi roll,24131,6850,3732,161
+504,maki timun alpukat,30227,10889,7306,381
+505,avocado sushi,30457,8394,4466,157
+506,cucumber roll,48366,17124,8818,377
+507,sushi timun,2041,749,349,12
+508,bánh sushi bơ dưa chuột,11439,2678,716,70
+509,cucumber avocado maki,36268,14132,6365,430
+510,sushi vegetarian sehat,19051,6286,3649,344
+511,vegan sushi,31858,7612,2652,154
+512,gulungan sushi vegetarian,36132,9418,5127,456
+513,fries,38403,7548,4455,387
+514,french fries,4109,1483,384,22
+515,kentang goreng,13966,4417,1366,47
+516,kentang,29520,8752,5004,251
+517,fried potatoes,16107,3217,865,53
+518,crispy fries,31589,5356,3054,288
+519,fast food fries,30697,8210,5031,374
+520,shoestring fries,16509,6276,2076,128
+521,kentang renyah,43828,14716,4631,167
+522,potato fries,23061,7372,4726,195
+523,fries snack,46451,15063,4597,425
+524,kentang goreng renyah,15584,4941,2429,193
+525,frites,5366,1652,876,41
+526,khoai tây chiên,48179,17630,7880,499
+527,kentang goreng crispy,9251,3133,1653,91
+528,fries simple,38435,7468,2445,183
+529,kentang goreng biasa,25691,4840,2975,247
+530,side fries,49297,13488,8169,716
+531,kentang goreng snack,14493,2925,1513,84
+532,noodle stir fry with chicken,29068,8423,5034,206
+533,chicken stir fry noodles,41774,12815,4818,346
+534,mie goreng ayam,10630,2880,1600,98
+535,mie ayam tumis,4565,1126,514,46
+536,stir-fried noodles,46224,17603,7615,286
+537,mie goreng,47004,8146,2763,157
+538,hủ tiếu xào gà,47853,18591,11344,520
+539,stir fry mie ayam,18240,5244,2017,120
+540,stirfried chicken noodles,26613,6422,3224,195
+541,fried noodles with chicken,47731,8293,3775,256
+542,yakisoba ayam,27901,10284,6952,428
+543,pancit canton with chicken,16114,5114,2659,178
+544,noodle chicken dish,49544,16134,8451,582
+545,mi xào gà,19459,5031,2633,114
+546,mi goreng ayam pedas,22215,5105,1313,107
+547,mi tumis ayam,21131,6441,3106,142
+548,ayam mie goreng,43862,15397,4236,221
+549,duck confit,13987,2739,1602,141
+550,confit duck,47048,7127,4376,385
+551,bebek confit,47230,14997,10449,990
+552,bebek panggang,35752,5416,3415,335
+553,duck leg confit,43737,15834,5327,368
+554,slow cooked duck,11736,2659,1796,146
+555,duck meat dish,8578,2482,1489,81
+556,thịt vịt nấu chậm,3369,592,150,6
+557,bebek empuk,20759,3267,1772,75
+558,confit de canard,15470,3769,1504,108
+559,duck gourmet,2513,865,557,29
+560,roasted duck leg,43173,14672,4006,365
+561,bebek rebus,17326,2710,1752,140
+562,duck dish,22363,5969,2733,135
+563,duck confit recipe,46554,11342,6921,599
+564,duck cooked in fat,13551,4860,2200,99
+565,itik confit,37610,11398,6406,243
+566,hidangan bebek,2757,1037,377,20
+567,falafel wrap,27051,6143,2709,230
+568,vegetarian wrap,46300,7752,4191,180
+569,chickpea wrap,34220,13121,4947,433
+570,roti falafel,40101,12518,3388,186
+571,bungkus falafel,27288,8172,4126,234
+572,bánh mì falafel,10283,2292,961,65
+573,falafel sandwich,11776,3994,1382,86
+574,falafel roti gulung,42074,6651,3399,133
+575,falafel pita,49625,10823,2811,227
+576,pita falafel,31798,12052,6869,597
+577,falafel vegetarian,19156,4687,2010,170
+578,vegetarian middle eastern wrap,40265,8853,3262,199
+579,gulungan sayur falafel,9190,2378,1163,98
+580,falafel roll,13409,4096,2001,194
+581,roti isi falafel,21947,7469,4431,228
+582,vegan wrap,5631,1829,1133,108
+583,roti falafel vegetarian,33868,9307,6212,317
+584,blueberry pancakes,38267,9594,5771,508
+585,pancakes blueberry,7508,1531,431,19
+586,pancake buah,39376,12548,3932,249
+587,pancake beri biru,21789,3927,1484,112
+588,pancake bluberi,46180,16617,4463,420
+589,blueberry flapjack,40607,12928,3765,334
+590,pancake sarapan,36445,10743,4823,242
+591,hotcakes blueberry,12923,2532,1221,117
+592,bánh kếp việt quất,32265,6393,4105,337
+593,blueberry hotcakes,978,356,239,19
+594,pancake manis,26944,8009,3424,194
+595,sarapan pancake buah,46461,10371,6521,508
+596,fruit pancakes,12836,4028,2324,136
+597,bluberi pancakes,13015,2317,1186,96
+598,sweet pancakes,33673,12594,5146,442
+599,pancake brunch,48628,9261,2447,143
+600,strawberry frosted donut,35289,8066,3411,220
+601,strawberry donut,47093,16724,10291,542
+602,donut stroberi,17427,6154,4142,326
+603,donat pink,12982,2884,1834,181
+604,donut topping stroberi,19748,7427,3372,327
+605,frosted donut,17641,4693,1293,128
+606,pink donut,38060,6174,2100,153
+607,glazed strawberry donut,42449,15756,6464,433
+608,bánh donut dâu tây,31422,10420,3714,332
+609,donat topping manis,42186,16704,6123,591
+610,strawberry icing donut,2092,616,308,12
+611,sweet strawberry donut,46559,13504,5528,289
+612,donat glaze stroberi,25238,8895,2692,259
+613,frosted doughnut,38939,14729,5146,252
+614,donat warna pink,34217,10351,3922,252
+615,donat manis,34247,7561,1893,178
+616,stuffed grape leaves,10885,2321,1118,56
+617,dolma,27386,7688,3352,261
+618,grape leaves rice,42910,9173,4895,450
+619,daun anggur isi,16618,4128,1159,105
+620,vine leaves stuffed,16698,6642,3784,256
+621,nasi dalam daun anggur,31799,5757,2493,121
+622,rice stuffed grape leaves,5825,1599,686,68
+623,bánh lá nho nhồi cơm,3836,1508,571,53
+624,stuffed leaves,18615,3173,2202,92
+625,middle eastern appetizer,36257,7165,3061,214
+626,dolma daun anggur,48700,8664,5977,458
+627,gulungan daun anggur,21655,3406,1516,97
+628,daun anggur gulung,36856,10060,4606,210
+629,stuffed vine leaves,24244,5660,3899,371
+630,vegetarian dolma,37496,9377,3604,193
+631,jeera rice,12457,4454,2331,104
+632,cumin rice,25647,9493,3031,135
+633,nasi jeera,48485,16643,6712,566
+634,nasi jintan,39964,8130,2834,263
+635,nasi rempah,17349,4720,3297,252
+636,jeera pulao,1708,413,247,20
+637,nasi dengan jintan,37674,14752,4984,419
+638,beras jeera,19781,6554,3786,313
+639,nasi india,35344,5641,1942,116
+640,cơm jeera,2547,646,311,16
+641,rice with cumin seeds,5506,1050,608,43
+642,cumin flavored rice,32744,6693,4026,296
+643,rice spice jeera,24723,6828,3446,211
+644,jeera fragrant rice,29387,6193,3365,231
+645,indian cumin rice,30975,5770,3580,163
+646,nasi wangi jeera,28642,8418,3777,255
+647,grilled asparagus,564,89,22,1
+648,asparagus panggang,40134,10909,7362,261
+649,sayur bakar asparagus,10851,2465,655,59
+650,roasted asparagus,11170,3473,2103,196
+651,grilled green vegetables,45280,10324,4298,263
+652,grilled veggie,47900,8021,2520,143
+653,asparagus grill,4921,1048,468,16
+654,asparagus sayur panggang,6579,2172,1209,64
+655,măng tây nướng,23963,9105,5841,401
+656,panggang asparagus,27094,6588,4607,360
+657,asparagus sehat,27566,9649,5446,221
+658,grilled side veg,1122,200,65,3
+659,asparagus roasted,23584,4529,2916,276
+660,asparagus oven baked,4829,1228,669,52
+661,asparagus dish,2534,475,267,15
+662,garlic butter shrimp,36254,13404,8539,435
+663,shrimp garlic butter,36117,6289,3987,232
+664,udang mentega bawang putih,26706,9638,6189,451
+665,udang garlic butter,2481,901,319,20
+666,udang saus mentega,49766,12885,4638,429
+667,udang goreng mentega,24001,6186,2948,120
+668,tôm bơ tỏi,9868,1966,716,57
+669,garlic shrimp,46580,10563,6837,378
+670,buttery garlic shrimp,39077,11904,3535,234
+671,seafood garlic butter,23560,5343,1994,76
+672,garlic sauce prawn,27330,6019,3851,240
+673,udang saus bawang putih,25019,7242,3168,137
+674,udang bakar garlic,27207,6472,3055,269
+675,shrimp butter sauce,43339,14821,5767,539
+676,garlic prawns,9430,1993,762,34
+677,nutella banana waffle,4866,960,487,34
+678,waffle nutella banana,28885,6917,3075,248
+679,banana nutella waffle,36949,7021,2588,189
+680,waffle pisang nutella,33994,12132,6608,279
+681,wafel coklat pisang,42257,12323,7612,276
+682,nutella waffle,41669,6829,2418,91
+683,waffle manis,49482,11874,6922,512
+684,waffle dessert,48823,8535,3941,223
+685,banana waffle,36462,5809,2873,126
+686,waffle dengan nutella,7342,2153,1088,68
+687,bánh waffle chuối nutella,25159,8818,4817,355
+688,nutella pisang,49721,16235,8953,502
+689,sweet waffle,12946,4345,2157,177
+690,waffle topping banana,31159,11351,5700,512
+691,waffle topping coklat,49387,8061,2148,92
+692,nutella pisang manis,11988,2972,2055,122
+693,chicken tikka masala,16301,3304,1431,86
+694,ayam tikka masala,12478,2720,1031,45
+695,kari tikka ayam,39421,9525,5297,248
+696,indian chicken curry,28022,6745,2526,204
+697,ayam kari india,20799,7299,3993,245
+698,kari ayam masala,44557,11163,2869,161
+699,chicken masala,7809,1215,707,29
+700,kari merah ayam,37037,10077,2777,276
+701,cà ri gà tikka,35597,7657,3844,241
+702,tikka masala,41900,7822,3211,253
+703,curry chicken tikka,42432,14312,4881,416
+704,ayam rempah india,19542,6944,3002,175
+705,kari india ayam,44534,14869,5316,368
+706,ayam kari pedas,12811,4288,2463,177
+707,chicken tikka,34034,7280,3635,203
+708,masala chicken dish,28432,6509,4385,389
+709,lamb curry,13767,3315,2073,87
+710,curry kambing,40010,15870,7565,525
+711,kari domba,39553,11030,5261,375
+712,kari kambing,19785,7673,2134,76
+713,lamb masala,11336,3508,1924,74
+714,lamb vindaloo,38344,12017,3145,232
+715,kari daging kambing,28090,10542,7217,344
+716,lamb stew curry,31534,11124,6145,397
+717,kari kambing india,9493,3157,1032,40
+718,cà ri cừu,27703,8219,3687,341
+719,gulai kambing,5574,1666,807,29
+720,spicy lamb curry,1798,594,209,12
+721,kari kambing pedas,47746,7441,2824,236
+722,kambing kuah kari,14508,5444,2049,122
+723,kari domba india,5659,908,614,42
+724,lamb coconut curry,47233,7457,2602,254
+725,mutton curry,37290,5682,2445,221
+726,plum soda,46163,14746,4497,383
+727,soda plum,46533,11166,4709,318
+728,minuman soda buah,37396,10311,5959,582
+729,soda asam manis,6563,2030,638,62
+730,minuman soda asam,9176,1968,1051,63
+731,nước mận soda,48777,19004,6512,637
+732,soda buah,38434,10978,7118,328
+733,soda asam jawa,47267,8490,4723,308
+734,soda buah plum,9368,3151,1909,165
+735,soda ringan buah,29152,7230,2846,142
+736,sweet plum drink,35237,8515,2537,112
+737,plum fizz,49275,7555,2466,166
+738,soda plum asam,33911,10300,4492,186
+739,soda berperisa buah,44592,11748,5378,432
+740,sparkling plum drink,7117,1197,480,44
+741,plum cooler,14343,4787,3191,129
+742,soda manis,24149,4604,1260,78
+743,ebi tempura roll,21806,7154,2390,181
+744,sushi ebi tempura,33764,12398,3966,344
+745,gulungan ebi tempura,16336,3533,1795,97
+746,tempura udang roll,16880,3482,1110,82
+747,maki ebi,40584,12368,8428,310
+748,ebi roll,2921,1001,312,17
+749,udang tempura roll,48451,18992,5321,299
+750,sushi udang goreng,13689,2432,1338,131
+751,ebi maki,47779,15221,7047,516
+752,ebi roll goreng,31477,5048,2505,115
+753,ebi sushi,44170,6789,2941,222
+754,sushi ebi goreng,29180,8628,4361,298
+755,ebi gulung,45092,8126,2711,256
+756,ebi tempura maki,19549,7462,5048,458
+757,tempura roll,17429,3642,1855,151
+758,maki udang tempura,48432,10420,2961,163
+759,tempura prawn sushi,43040,12542,8705,702
+760,cuộn sushi tôm chiên,19662,4130,2727,154
+761,spinach & strawberry salad,45071,13387,4012,193
+762,salad bayam stroberi,4423,1107,590,41
+763,salad buah dan sayur,32208,10595,3111,223
+764,salad stroberi,19051,3664,1965,112
+765,salad hijau manis,27833,8714,2538,98
+766,spinach fruit salad,42610,16051,10496,931
+767,bayam stroberi,3539,772,365,28
+768,salad daun bayam,40874,11168,6679,277
+769,strawberry salad,39074,9053,4971,220
+770,salad sayur buah,14207,3443,2254,166
+771,spinach berry salad,11195,2437,911,44
+772,gỏi rau chân vịt dâu,34870,7419,4896,333
+773,healthy fruit veggie salad,13818,5472,3207,188
+774,green salad with berries,41684,13286,8763,494
+775,spinach strawberry mix,49707,19563,13645,921
+776,caprese baguette,25664,5064,3195,198
+777,caprese sandwich,7196,1824,1235,101
+778,baguette caprese,33660,9829,5449,508
+779,tomato mozzarella sandwich,44325,8272,5092,446
+780,roti isi caprese,18993,7063,4752,443
+781,bánh mì caprese,11531,3017,1322,87
+782,caprese toast,40974,16105,6421,558
+783,caprese panini,39563,9293,4672,418
+784,sandwich keju tomat,20367,3303,2062,150
+785,baguette isi keju tomat,19445,6644,4547,438
+786,caprese roti,41750,14877,10354,755
+787,tomato basil baguette,7425,1728,691,66
+788,roti keju tomat,46889,17710,10046,393
+789,caprese baguette sandwich,44710,16268,9248,730
+790,caprese roti panjang,38482,10698,3570,309
+791,seared tuna steak,18058,3246,1046,81
+792,tuna panggang,42776,16131,11268,536
+793,tuna bakar,37560,12164,4796,165
+794,steak tuna,49498,15744,8822,870
+795,grilled tuna steak,45877,10151,3953,323
+796,ikan tuna bakar,47363,18405,7061,286
+797,tuna sear,6328,1908,626,53
+798,pan-seared tuna,16242,5171,2692,178
+799,daging tuna,32157,10116,5014,264
+800,cá ngừ nướng,19503,4936,2849,174
+801,tuna fillet,1185,212,141,6
+802,tuna grill,6271,1699,839,44
+803,steak ikan tuna,35410,7236,4063,340
+804,seared fish,15706,3522,1338,76
+805,tuna dish,30572,11104,7485,361
+806,tuna steak sehat,8033,2510,822,66
+807,tuna medium rare,1906,335,190,10
+808,tuna steak panggang,13649,4520,2715,153
+809,bbq ribs full rack,28573,8792,2876,125
+810,iga bakar bbq,7794,2030,1187,59
+811,full rack ribs,29645,5467,3741,205
+812,iga panggang,4565,1721,777,60
+813,iga sapi bakar,23428,8116,4922,450
+814,bbq ribs lengkap,16126,3353,1016,74
+815,iga bbq penuh,28821,10703,4268,386
+816,ribs set besar,23428,6892,2546,164
+817,sườn nướng nguyên tảng,34730,8009,4721,340
+818,iga besar bbq,16839,3521,1464,130
+819,grilled pork ribs,4523,1253,622,41
+820,iga daging bbq,33765,11817,4935,202
+821,bbq pork ribs,34313,11674,4073,331
+822,ribs platter,21127,6346,2236,177
+823,bbq full slab,33127,9990,6057,312
+824,iga bakar lengkap,25174,8194,2550,105
+825,full rack iga,13087,2657,681,68
+826,chai latte,33010,8649,4889,321
+827,teh chai latte,7944,3006,1482,97
+828,chai milk tea,21698,7652,5010,285
+829,teh susu rempah,37867,13648,4455,237
+830,minuman chai,36583,7593,2109,161
+831,masala chai,26668,6219,2728,156
+832,chai spiced latte,44587,11723,7373,257
+833,teh susu india,32389,9210,4570,428
+834,trà sữa masala,48239,12555,4336,347
+835,chai dengan susu,36954,12280,6855,353
+836,teh rempah,27583,6725,1714,110
+837,chai india,16558,4841,1738,153
+838,chai drink,9870,1729,837,75
+839,hot chai latte,17295,3233,2148,107
+840,chai panas,25550,8518,2768,136
+841,chai milk,28191,6114,2812,206
+842,chai ais,45148,9991,4526,386
+843,iced chai latte,21364,6105,1636,157
+844,warm spiced tea,16938,3518,2344,106
+845,spicy pork belly bbq,36755,6196,1820,160
+846,grilled pork belly,9113,2516,834,61
+847,pork belly BBQ,2706,532,181,11
+848,pork belly pedas,21793,7206,3340,265
+849,samgyeopsal pedas,11003,4299,2062,71
+850,BBQ perut babi,18369,5717,3214,305
+851,daging babi panggang pedas,28053,9154,3053,230
+852,babi bakar pedas,17297,6604,3051,262
+853,thịt ba chỉ nướng cay,11958,3877,1866,86
+854,spicy grilled pork,40120,7670,3936,309
+855,pork BBQ spicy,18792,2933,1548,132
+856,BBQ babi,34383,5411,2733,250
+857,pork belly grilled,42044,6353,1601,99
+858,perut babi bakar,27318,8039,3294,238
+859,korean pork belly,26014,8751,4677,235
+860,samgyeopsal spicy,7777,2451,793,38
+861,BBQ babi pedas,16383,2491,1663,71
+862,spicy chicken burrito,1848,675,372,23
+863,burrito ayam pedas,26423,4956,2727,229
+864,chicken burrito,36067,6370,3232,133
+865,burrito ayam,33205,11556,7394,545
+866,burrito spicy chicken,38671,9925,2751,240
+867,ayam burrito pedas,1141,371,99,6
+868,burrito dengan ayam pedas,14984,3079,1473,101
+869,spicy wrap chicken,40313,10020,5206,330
+870,spicy mexican burrito,29150,4624,2947,194
+871,bánh burrito gà cay,14643,4513,1319,107
+872,burrito daging ayam pedas,9148,2179,950,49
+873,ayam gulung tortilla,28433,5754,3365,273
+874,burrito mexico ayam,34127,11410,7368,570
+875,burrito wrap ayam,26439,10297,5517,525
+876,burrito isi ayam,9425,3388,2342,229
+877,jasmine tea pot,31464,4886,2806,191
+878,jasmine tea,7070,1948,875,48
+879,teh melati,16203,2816,861,69
+880,teh pot melati,31098,8246,2135,150
+881,pot teh melati,13149,4563,2005,157
+882,jasmine loose leaf tea,34111,7759,4816,405
+883,hot jasmine tea,1540,352,180,8
+884,melati tea,14157,4901,1655,71
+885,pot of tea,23637,8336,4684,434
+886,trà hoa nhài,11053,2710,1850,73
+887,teh melati hangat,29325,4486,1712,139
+888,teh harum,31212,11310,7781,479
+889,bunga melati teh,37649,13905,8780,822
+890,teh wangi jasmine,2201,749,467,41
+891,jasmine tea serving,39079,6699,3744,159
+892,jasmine pot,6710,2228,1355,114
+893,teh jasmine,41060,16186,9329,866
+894,beef & onion dumplings (8),25226,7437,1865,125
+895,dumpling daging dan bawang,32690,12639,7340,533
+896,dumpling 8 pcs,32681,5944,2784,156
+897,beef dumplings,20621,7130,3103,232
+898,bánh bao nhân bò hành,4664,1096,592,52
+899,dumpling isi daging,49873,16973,10389,1003
+900,pangsit isi daging,35828,8897,2548,244
+901,dumpling sapi,15762,5130,1637,107
+902,dumpling beef onion,20770,7687,2164,135
+903,dumpling isi sapi bawang,21702,3400,1935,187
+904,beef gyoza,25699,10255,5696,299
+905,pangsit sapi,16703,6520,3831,291
+906,8 dumplings,49045,9242,5103,448
+907,dumpling goreng daging,2041,412,205,19
+908,pangsit goreng,9632,1818,483,44
+909,spicy salmon poke,31330,7046,1950,164
+910,poke salmon pedas,34368,12425,6281,450
+911,spicy poke bowl,14605,3690,1577,155
+912,spicy salmon bowl,19336,5608,2885,160
+913,poke bowl ikan pedas,9063,1601,997,67
+914,poke bowl salmon,24887,6554,3357,237
+915,bánh poke cá hồi cay,13187,4747,2450,218
+916,salmon poke spicy,38538,14704,10130,364
+917,poke ikan pedas,17464,3682,2060,156
+918,salmon rice bowl,29996,9114,3154,138
+919,spicy fish poke,20568,6691,1928,81
+920,poke bowl with salmon,31723,8255,2289,209
+921,spicy sashimi bowl,45899,7937,4794,182
+922,rice poke salmon,23159,9184,2727,173
+923,poke bowl pedas,27655,4959,2154,114
+924,lentil shepherd’s pie,48562,17648,11937,712
+925,shepherd pie lentil,2612,601,323,24
+926,pie lentil,49705,17984,7914,641
+927,vegetarian shepherd’s pie,25126,5646,1479,111
+928,lentil pie,35770,12413,5771,305
+929,pai kacang dal,41462,13239,7982,604
+930,pai sayur,31296,11885,3898,167
+931,pai daging vegetarian,9381,2574,1367,115
+932,bánh thịt hầm đậu lăng,33011,9241,3327,316
+933,pie sayuran,1179,177,118,5
+934,pai lentil panggang,2964,986,267,22
+935,lentil casserole,10574,4022,2804,186
+936,lentil baked pie,10200,1907,1294,110
+937,pie kentang lentil,9191,1818,487,48
+938,shepherd pie vegan,542,88,25,1
+939,pai lentil veggie,23420,4512,1900,182
+940,mac & cheese,49899,18913,7899,379
+941,macaroni and cheese,46863,12272,8408,398
+942,makaroni keju,3896,1343,928,41
+943,mac n cheese,2720,1019,320,16
+944,mac and cheese,35772,6865,2239,77
+945,mac keju,3884,1057,489,43
+946,pasta keju,36628,13811,7600,262
+947,baked mac & cheese,46583,14331,7812,486
+948,mac cheese creamy,18357,3470,1228,101
+949,mỳ ống phô mai,42245,13324,7073,537
+950,mac cheesy,18403,7082,4327,215
+951,macaroni cheese,15259,2472,1420,108
+952,mac keju panggang,39483,14935,9226,858
+953,mac cheesy bowl,25422,9800,5838,311
+954,keju makaroni,14403,2515,1734,122
+955,pasta creamy cheese,45198,12593,5344,499
+956,mac & cheese bowl,18132,5460,2046,196
+957,bacon mushroom burger,45426,13315,3581,297
+958,burger bacon jamur,43387,7572,3118,144
+959,burger daging bacon,8278,1338,447,41
+960,burger jamur,37273,7431,4325,213
+961,bacon cheeseburger,23103,8924,3448,188
+962,burger isi jamur dan bacon,14740,4509,1619,87
+963,bánh mì kẹp thịt xông khói và nấm,12456,2380,1566,126
+964,burger bacon,27515,9848,5600,305
+965,mushroom beef burger,13036,3583,2459,137
+966,jamur bacon burger,29167,7650,3440,268
+967,daging burger bacon,4146,1334,367,15
+968,burger topping jamur,43547,9530,6154,414
+969,gourmet burger,17790,5130,3223,230
+970,burger spesial,47552,13340,8193,321
+971,chicago dog,32565,11817,3511,282
+972,chicago hotdog,36851,7488,4162,170
+973,hot dog gaya chicago,47678,18705,9275,510
+974,sosis chicago,36470,13534,6729,398
+975,bánh mì xúc xích kiểu chicago,40063,14725,4745,347
+976,hotdog style chicago,45616,18144,6140,367
+977,hotdog spesial,27324,5051,3334,157
+978,chicago street dog,20099,5708,2781,154
+979,hot dog khas chicago,4893,975,631,29
+980,sosis lengkap,37772,5738,2784,255
+981,spicy chicago dog,38491,9806,3842,355
+982,chicago frankfurter,6512,1279,692,35
+983,sosis ala amerika,42213,9028,2566,234
+984,hotdog topping lengkap,42269,6714,2122,112
+985,hotdog jumbo,25885,5724,3498,312
+986,roasted veggie salad bowl,13122,5073,3342,265
+987,salad sayur panggang,33659,9808,2766,239
+988,roasted vegetable bowl,12361,4384,1969,85
+989,mangkuk salad sayuran bakar,40548,15459,8917,865
+990,grilled veggie salad,8974,3585,2418,104
+991,veggie bowl,40488,7820,3011,135
+992,salad sayur bakar,48823,9359,5563,320
+993,salad sayuran,34665,5435,1818,67
+994,salad sayur sehat,38333,11661,6993,405
+995,gỏi rau củ nướng,49021,15404,10760,725
+996,vegetable salad bowl,6566,1355,890,41
+997,healthy veggie bowl,18841,3539,1298,45
+998,salad vegetarian,11695,3029,766,30
+999,warm veggie salad,47622,9085,4695,423
+1000,salad panggang,43720,8120,3764,338
+1001,roasted veg mix bowl,13831,2537,1447,119
+1002,california roll,49375,11088,6052,455
+1003,california maki,18404,7151,4686,386
+1004,sushi california,17137,3814,2372,221
+1005,gulungan california,33653,5823,2664,235
+1006,california sushi roll,16143,5550,3384,236
+1007,maki crabstick,6736,1812,763,46
+1008,crabstick sushi,33109,12238,7315,500
+1009,sushi gulung,46812,13850,5736,547
+1010,california sushi gulung,25134,4896,1965,80
+1011,cuộn sushi california,10723,3193,1844,138
+1012,cali roll,28148,7803,3183,113
+1013,kani maki,11007,4280,1969,76
+1014,sushi kepiting,36511,10426,6997,363
+1015,sushi crab roll,6992,2554,858,57
+1016,sushi gulungan california,49476,18274,10798,402
+1017,sushi sayur california,18797,3016,887,46
+1018,barbacoa soft tacos,30254,9744,3457,320
+1019,barbacoa tacos,35831,9151,2561,192
+1020,soft taco beef,6026,1782,914,43
+1021,taco barbacoa lembut,28630,5917,2802,192
+1022,taco daging lembut,28684,4628,2655,116
+1023,taco lembut daging sapi,43923,7949,2738,254
+1024,taco barbacoa,15442,3052,1813,109
+1025,bánh taco thịt bò mềm,7392,1844,898,84
+1026,taco gaya mexico,49733,16612,10573,413
+1027,mexican soft taco,5045,1625,983,67
+1028,taco sapi lembut,8147,1845,1283,65
+1029,beef soft taco,10811,2878,1611,100
+1030,taco lembut,10196,3186,1723,73
+1031,taco isi daging,47002,16978,9441,712
+1032,barbacoa taco wrap,17373,5499,3319,266
+1033,sautéed mushrooms,47721,12757,7589,287
+1034,jamur tumis,22526,5602,2084,207
+1035,tumis jamur,9521,1866,1003,81
+1036,mushrooms cooked,10472,3382,951,77
+1037,sauté mushrooms,38754,9566,6018,524
+1038,jamur goreng ringan,21618,3890,1214,46
+1039,jamur masak mentega,19881,7225,3258,294
+1040,nấm xào bơ tỏi,46812,7126,3153,252
+1041,garlic butter mushrooms,17095,2734,1244,110
+1042,jamur wajan,22705,5809,2517,236
+1043,tumisan jamur,45013,13494,8379,449
+1044,sautéed fungi,21349,7627,4841,245
+1045,garlic mushroom,45357,17218,7564,272
+1046,pan-cooked mushrooms,9521,2975,1944,81
+1047,jamur sederhana,14358,2650,1177,87
+1048,jamur masak cepat,13457,3985,1602,56
+1049,potato wedges,7124,1387,792,57
+1050,kentang wedges,5412,2015,966,55
+1051,kentang potong besar,30296,9143,3695,361
+1052,potato thick cut,5500,1256,525,24
+1053,crispy wedges,43538,13454,8615,302
+1054,kentang goreng tebal,38457,10901,7437,405
+1055,potongan kentang besar,12576,4904,2811,232
+1056,kentang baji,22715,5019,3123,107
+1057,khoai tây múi cau,11703,2775,1666,59
+1058,baked wedges,41718,6391,2509,219
+1059,kentang goreng potong,42038,12051,3894,180
+1060,kentang oven,25763,6715,1695,111
+1061,seasoned wedges,34831,7361,1993,157
+1062,kentang pedas wedges,40376,14965,9314,504
+1063,wedges goreng,48439,17583,5950,375
+1064,spicy chicken teriyaki,31619,9174,3560,202
+1065,chicken teriyaki pedas,44552,14212,5072,430
+1066,ayam teriyaki pedas,23730,7601,2114,97
+1067,teriyaki ayam spicy,11480,3971,1660,95
+1068,teriyaki pedas,43127,8097,4130,233
+1069,ayam saus teriyaki pedas,43990,14888,5765,284
+1070,spicy teriyaki bowl,47128,7962,3987,188
+1071,gà sốt teriyaki cay,36207,10177,2710,190
+1072,ayam panggang teriyaki,35811,12761,4643,311
+1073,spicy grilled teriyaki chicken,46942,9346,3791,168
+1074,hot teriyaki chicken,34959,12235,4233,262
+1075,ayam manis pedas,17552,6605,4452,251
+1076,teriyaki spicy sauce,26058,6546,3034,186
+1077,chocolate chip pancakes,44123,16891,11049,801
+1078,pancake coklat chip,1730,560,164,15
+1079,pancake choco chip,40492,13781,7768,772
+1080,choc chip pancakes,13540,2308,1225,71
+1081,chocolate pancake,15833,5026,2152,199
+1082,sweet pancake choco,20522,6225,4172,349
+1083,pancake manis,48843,18344,8590,329
+1084,bánh pancake socola chip,15817,3401,2046,86
+1085,sarapan pancake,9943,1540,533,39
+1086,pancake topping coklat,5567,1311,631,33
+1087,pancake mini coklat,15294,5085,3330,292
+1088,dessert pancake,49005,15965,10736,905
+1089,chocolatey pancakes,21490,8310,4593,407
+1090,pancake keju coklat,22761,7002,2685,142
+1091,pancake anak,28592,8613,3848,312
+1092,vegan black bean burger,40061,6170,3558,226
+1093,burger kacang hitam vegan,27886,10620,2672,187
+1094,black bean veggie burger,29431,9654,6453,573
+1095,burger vegetarian,46289,13695,7120,489
+1096,burger vegan,37502,7820,3546,174
+1097,plant-based burger,48226,14274,9747,818
+1098,bánh mì chay đậu đen,18143,5657,1576,153
+1099,burger tanpa daging,7921,2044,847,73
+1100,veggie patty burger,46217,11416,4974,340
+1101,burger vegan sehat,19081,3076,1144,69
+1102,burger tanpa daging sapi,43840,14739,8243,676
+1103,burger sehat vegan,1296,220,89,4
+1104,burger protein nabati,41633,16518,4263,340
+1105,burger kacang-kacangan,38153,12369,8302,447
+1106,garlic parmesan wings (6 pcs),12262,2726,1213,59
+1107,chicken wings parmesan,44512,17554,11233,761
+1108,wings keju bawang putih,42100,15859,6602,255
+1109,sayap ayam garlic parmesan,27693,10235,5711,262
+1110,wings garlic keju,31053,9083,4121,149
+1111,parmesan wings 6 pcs,44969,7179,2489,159
+1112,6 wings garlic,48977,9090,5041,479
+1113,ayam goreng parmesan,49112,12184,5725,335
+1114,wings rasa bawang keju,2108,770,264,12
+1115,cánh gà phô mai tỏi,8014,2947,1962,128
+1116,garlic cheese wings,20684,5506,1789,99
+1117,sayap ayam rasa keju,11459,2458,1013,54
+1118,garlic butter wings,29568,11766,6255,614
+1119,wings gurih,20356,7029,2700,170
+1120,birria quesa tacos,31131,11991,7887,599
+1121,birria tacos,48310,9766,2674,112
+1122,taco birria keju,42961,15107,10041,348
+1123,tacos isi daging rebus,8672,2707,1498,120
+1124,birria cheese tacos,8802,3478,2237,134
+1125,taco daging keju,45002,9757,5358,416
+1126,keju tacos birria,3105,773,461,40
+1127,bánh taco thịt hầm phô mai,37743,14305,3853,265
+1128,cheesy birria tacos,7319,2479,1641,118
+1129,taco juicy beef,32318,11033,5281,435
+1130,taco keju,31763,8794,5088,282
+1131,taco panggang birria,46353,13758,5798,448
+1132,taco leleh keju,11246,3592,1531,73
+1133,tacos quesabirria,36266,11592,4794,461
+1134,grilled chicken shawarma plate,24986,4014,1616,100
+1135,ayam shawarma panggang,4169,1378,346,16
+1136,shawarma chicken plate,11387,2530,933,64
+1137,nasi ayam shawarma,36520,8046,3923,251
+1138,daging ayam grill shawarma,35055,8654,4464,258
+1139,platter ayam shawarma,47979,11816,6265,464
+1140,grilled shawarma bowl,7402,2059,1035,50
+1141,ayam panggang gaya timur tengah,19849,6649,2774,269
+1142,cơm thịt gà nướng shawarma,26990,7263,2038,134
+1143,shawarma panggang,23079,6588,3785,370
+1144,grilled shawarma meal,24770,4640,1543,145
+1145,plate shawarma ayam,19520,5551,1477,91
+1146,ayam shawarma lengkap,36460,14203,4663,272
+1147,vegetable chow mein,34714,5923,1938,118
+1148,chow mein sayur,42766,13309,8133,376
+1149,mie chow mein,13862,4924,3142,123
+1150,mie goreng sayuran,48848,14675,5647,432
+1151,vegetarian chow mein,5691,1845,1234,54
+1152,stir-fried veggie noodles,43765,10306,6015,491
+1153,chow mein vegetarian,47700,8463,2322,140
+1154,mi xào rau củ,13710,2252,1386,137
+1155,mie tumis sayur,12529,4285,1099,97
+1156,chinese noodle veggie,11837,3980,1800,123
+1157,chowmein sayur,20822,6907,2931,156
+1158,chow mein tanpa daging,18620,5527,3052,186
+1159,veggie lo mein,5504,1320,572,26
+1160,mie chow mein sayur,43485,14166,5528,419
+1161,noodle goreng sayur,24914,6301,2885,193
+1162,spicy turkey chili,23592,6680,1712,81
+1163,chili kalkun pedas,15300,5915,3132,252
+1164,turkey chili,7473,1268,650,44
+1165,kalkun cincang pedas,39327,13157,8099,800
+1166,spicy chili bowl,25077,7607,4036,217
+1167,spicy minced turkey,21118,7415,5085,373
+1168,chili daging turkey,41339,7292,4525,287
+1169,chili kalkun,24866,6438,2349,214
+1170,spicy stew turkey,28116,10653,6200,261
+1171,thịt gà tây cay hầm,45919,14566,6605,571
+1172,turkey bean chili,9905,3194,1140,93
+1173,chili turkey bowl,49603,16801,10669,562
+1174,kalkun saus pedas,20119,5766,1748,80
+1175,spicy ground turkey chili,26054,5626,2981,187
+1176,chili turkey pedas,23403,5281,1413,92
+1177,beer-battered haddock,40322,14058,5910,285
+1178,ikan haddock goreng bir,18526,6728,3805,162
+1179,battered haddock,44569,8605,3713,191
+1180,haddock fish fry,24404,4625,2736,162
+1181,haddock beer coating,18190,5447,2601,253
+1182,ikan bir goreng,25828,4376,1515,135
+1183,ikan tepung bir,38334,10806,5361,189
+1184,cá chiên bột bia,38432,6879,3315,140
+1185,haddock crunchy beer,26972,8111,3521,218
+1186,fish fry bir,2198,577,214,21
+1187,beer fried fish,44602,17035,4509,257
+1188,ikan goreng beer,18747,4648,2937,160
+1189,goreng ikan bir,3768,1431,992,56
+1190,fish and chips haddock,24330,7714,4837,406
+1191,haddock goreng rangup,14299,2666,1641,145
+1192,mini donuts,24173,3773,2212,162
+1193,donat mini,29027,6860,4047,376
+1194,mini doughnuts,45164,7414,1932,140
+1195,donat kecil,45483,13766,5462,470
+1196,donat cemilan,34222,11774,7996,560
+1197,donat manis mini,40484,10064,2535,182
+1198,sweet mini donuts,6538,2426,891,67
+1199,bánh donut nhỏ,28985,8809,3124,107
+1200,donat mini goreng,34563,5582,3741,349
+1201,mini sugar donuts,10844,3769,1055,89
+1202,baby donuts,33022,6717,3190,137
+1203,small donuts,2685,1013,368,32
+1204,snack donuts,45759,12947,6687,472
+1205,donat mini rasa,46357,10056,3704,235
+1206,donat mini topping,46477,9840,5892,303
+1207,mini donuts sugar coated,11849,2401,725,67
+1208,truffle burger,45062,13225,6193,486
+1209,burger truffle,24392,6637,4084,147
+1210,burger keju truffle,12999,1993,888,80
+1211,truffle beef burger,20018,3032,1923,109
+1212,truffle cheese burger,34893,10532,5145,365
+1213,burger jamur truffle,19616,4155,1433,106
+1214,burger sapi truffle,19029,3314,1429,118
+1215,bánh mì kẹp nấm truffle,27931,5585,3804,240
+1216,gourmet truffle burger,13034,2620,664,24
+1217,burger mewah,19682,3158,1124,67
+1218,truffle sauce burger,34082,11021,4879,341
+1219,truffle burger daging,49526,16478,6407,450
+1220,truffle infused burger,4424,996,506,23
+1221,burger mahal,22659,8954,4775,177
+1222,burger premium,30511,5515,3467,234
+1223,pickled cabbage,21513,8273,2124,98
+1224,acar kubis,1635,417,155,5
+1225,kol asam,49637,12446,7129,282
+1226,kubis fermentasi,2305,676,290,12
+1227,cabbage pickles,708,251,157,15
+1228,sauerkraut,5593,2176,1436,93
+1229,pickled slaw,4415,951,412,32
+1230,kubis acar,2016,379,192,15
+1231,kubis asin,18752,3317,1655,133
+1232,dưa cải muối,29431,5835,1856,110
+1233,fermented cabbage,36393,9736,4590,368
+1234,side pickled cabbage,8632,1445,655,27
+1235,cabbage side dish,32265,10889,3269,294
+1236,pickled veggie,11253,4137,1118,102
+1237,sour cabbage,39771,9977,4163,142
+1238,preserved cabbage,44816,7102,2355,92
+1239,sayur kubis asin,49800,14129,5414,276
+1240,pineapple fried rice,28441,9191,5736,568
+1241,nasi goreng nanas,22760,7180,4234,413
+1242,nasi nanas goreng,44689,12018,3386,262
+1243,thai pineapple rice,25076,8391,4207,341
+1244,nasi goreng buah,1153,245,73,5
+1245,nasi goreng thai nanas,37469,12891,5183,187
+1246,nasi goreng manis,40131,7983,2008,191
+1247,cơm chiên dứa,31318,6552,4464,260
+1248,nasi goreng khas thai,20256,5005,1281,48
+1249,sweet fried rice,19385,6645,2980,243
+1250,tropical fried rice,47624,8062,5162,221
+1251,nasi goreng unik,29235,7977,3139,156
+1252,nasi nanas thai,36032,10805,7549,703
+1253,fried rice nanas,3728,1176,356,17
+1254,green curry with jasmine rice,11710,1766,545,32
+1255,green curry rice,27419,8574,4716,207
+1256,kari hijau dengan nasi jasmine,12031,3066,1361,115
+1257,kari hijau ayam,38840,7021,4097,397
+1258,thai green curry rice,47498,14881,8899,498
+1259,nasi kari hijau,44479,12107,7839,510
+1260,kari hijau thailand,22156,5976,2329,212
+1261,kari sayur hijau,41047,12933,7619,656
+1262,cà ri xanh với cơm,3379,746,513,23
+1263,green curry bowl,27990,10011,5609,557
+1264,nasi wangi kari hijau,49273,12365,7735,666
+1265,thai curry rice,38986,12583,6706,314
+1266,kari hijau pedas,33258,5256,3134,125
+1267,jasmine rice curry,30441,8428,3481,226
+1268,rainbow slaw,19076,5347,2148,161
+1269,salad pelangi,9467,2884,1308,73
+1270,slaw warna warni,38706,8076,2549,177
+1271,vegetable slaw,40265,9956,2863,176
+1272,slaw sayuran,41105,6289,3710,177
+1273,coleslaw mix,19691,3551,1065,37
+1274,slaw colorful,36872,14663,6888,621
+1275,gỏi rau trộn sắc màu,7620,2591,1453,62
+1276,veggie slaw,24991,8759,2536,100
+1277,coleslaw sehat,13239,5195,2172,209
+1278,rainbow salad,44385,8665,4223,397
+1279,slaw segar,13361,4252,1143,78
+1280,cabbage mix slaw,39041,10179,4178,337
+1281,salad kol warna-warni,17763,4464,1355,101
+1282,slaw ringan,15147,4292,1909,105
+1283,fresh veggie slaw,30880,5267,3335,166
+1284,margherita personal pizza,920,202,112,7
+1285,pizza margherita kecil,28888,7713,4462,431
+1286,personal size margherita,49791,10809,6089,539
+1287,mini margherita pizza,2387,697,468,39
+1288,margherita pizza individual,17236,6814,3078,255
+1289,personal pan pizza,15220,4729,3036,231
+1290,pizza keju tomat,8209,1930,1098,100
+1291,bánh pizza nhỏ margherita,23841,5195,1815,132
+1292,pizza satu orang,13144,4816,1993,91
+1293,single serve pizza,28689,9223,5144,218
+1294,classic cheese pizza,13869,4889,3019,241
+1295,margherita small pizza,35352,13325,7064,378
+1296,pizza margherita solo,37353,14894,6199,457
+1297,pizza personal klasik,3507,852,394,38
+1298,fried shrimp dumplings (6),2787,462,245,10
+1299,dumpling udang goreng,20836,5960,1684,86
+1300,dumpling 6 pcs,22835,7320,3917,150
+1301,shrimp dumpling goreng,35787,8565,3890,142
+1302,gyoza udang,27106,6261,2546,229
+1303,fried wonton udang,8342,1885,1066,57
+1304,pangsit udang goreng,9450,3464,900,61
+1305,fried dumpling isi udang,546,161,87,6
+1306,bánh há cảo chiên,36704,5651,2415,183
+1307,dumpling udang 6 biji,9989,3116,1200,106
+1308,shrimp fried dumplings,2274,689,476,36
+1309,pangsit goreng 6,25382,4006,1247,101
+1310,gorengan udang dumpling,18127,6220,4100,212
+1311,shrimp gyoza,4669,1707,1117,62
+1312,crispy dumplings shrimp,22350,7357,2569,113
+1313,lamb rogan josh,17374,6362,4226,262
+1314,kari kambing rogan josh,25170,5042,2720,252
+1315,domba rogan josh,29097,11477,7271,412
+1316,lamb curry rogan,28151,8969,3792,247
+1317,indian lamb curry,41685,9357,3217,135
+1318,rogan josh,19440,7673,3603,182
+1319,rogan josh kari domba,12610,4320,1679,144
+1320,daging kambing rogan,19271,6702,3752,291
+1321,thịt cừu rogan josh,24266,4405,2769,122
+1322,kari india domba,921,304,164,6
+1323,spicy lamb curry,2759,1042,564,27
+1324,lamb masala,35066,13548,9268,584
+1325,rogan josh klasik,21557,8352,4889,475
+1326,rogan kambing,35583,10469,3394,262
+1327,rogan josh pedas,26727,10604,7415,319
+1328,butter chicken,28763,4712,1594,77
+1329,chicken makhani,10885,2089,1194,85
+1330,ayam mentega,34173,10970,4226,228
+1331,kari ayam mentega,38772,7441,4000,368
+1332,ayam butter,21087,6941,3388,205
+1333,indian butter chicken,4248,896,289,19
+1334,kari india ayam,15168,3250,983,92
+1335,ayam saus mentega,13380,4213,1862,96
+1336,ayam makhani,23116,3705,1657,73
+1337,gà bơ Ấn Độ,14750,5705,2224,85
+1338,kari ayam creamy,28849,6094,2193,121
+1339,chicken creamy curry,22506,7375,4843,249
+1340,ayam kuah butter,5927,1752,785,37
+1341,ayam india,40202,8490,3039,174
+1342,butter chicken curry,32139,8425,3323,114
+1343,butter sauce chicken,34481,7378,3883,273
+1344,smoked salmon bagel,26642,9112,4936,307
+1345,bagel salmon asap,22891,7794,2470,111
+1346,bagel isi salmon,13185,3703,1225,106
+1347,salmon bagel,30353,11192,3819,314
+1348,bánh vòng cá hồi hun khói,20236,4224,1557,58
+1349,roti bagel salmon,1391,373,170,15
+1350,sandwich salmon asap,43633,13894,8475,599
+1351,smoked fish bagel,48232,12911,6242,255
+1352,bagel with cream cheese and salmon,20285,6780,2023,138
+1353,salmon lox bagel,22054,4192,1632,93
+1354,bagel isi ikan asap,42439,13909,6737,598
+1355,salmon breakfast bagel,14289,3115,988,59
+1356,bagel topping salmon,45283,7426,2875,193
+1357,kombucha,47120,9749,4253,244
+1358,teh kombucha,17972,3486,1541,77
+1359,kombucha drink,12980,3026,1600,130
+1360,kombucha minuman,14128,2847,923,44
+1361,kombucha tea,35274,12417,5321,440
+1362,fermented tea,47782,16927,10054,520
+1363,probiotic tea,36493,13511,5686,485
+1364,kombucha botol,927,296,155,13
+1365,nước lên men kombucha,48548,8777,4566,279
+1366,minuman kesehatan,44405,14151,3795,218
+1367,teh asam kombucha,41338,12355,6632,279
+1368,health tea,41626,14743,3972,274
+1369,minuman sehat kombucha,35382,10156,6892,500
+1370,kombucha soda,33579,9210,5358,291
+1371,sparkling kombucha,47128,16248,11060,858
+1372,kombucha fermentasi,44656,17360,4643,192
+1373,falafel & couscous bowl,28957,9115,4771,255
+1374,falafel couscous,40892,11789,4126,257
+1375,mangkuk falafel couscous,42291,8936,5174,473
+1376,falafel grain bowl,45347,14027,6834,555
+1377,couscous dengan falafel,40584,15568,10042,984
+1378,couscous veggie bowl,32349,11036,3542,171
+1379,couscous bowl vegetarian,40255,9079,3687,140
+1380,bánh falafel và couscous,26942,9287,3506,203
+1381,healthy grain bowl,15777,2834,1389,94
+1382,falafel salad bowl,18381,5704,2831,280
+1383,mangkuk sayur falafel,40723,8819,3458,325
+1384,falafel dengan couscous,11448,1763,615,45
+1385,couscous wrap bowl,20151,7737,3623,301
+1386,veggie grain falafel,35976,14262,9537,350
+1387,sangria (non-alcoholic),28230,4588,2189,145
+1388,sangria non alkohol,49079,17667,10521,494
+1389,mocktail sangria,37061,13850,3549,255
+1390,sangria buah,22384,6705,2128,126
+1391,sangria tanpa alkohol,40483,8521,2741,136
+1392,jus buah sangria,15997,4323,1625,59
+1393,non-alcoholic sangria,1844,303,179,17
+1394,nước sangria không cồn,47629,13305,3388,133
+1395,fruity sangria,18052,5851,3742,133
+1396,sangria segar,40733,14442,4889,378
+1397,sangria mix juice,31204,6759,4326,281
+1398,sangria virgin,25395,9546,5365,191
+1399,minuman buah dingin,25641,5140,3330,315
+1400,sangria mix non-alkohol,16683,3830,1016,95
+1401,sangria tropical drink,45821,10521,7064,616
+1402,coconut water,3511,669,198,15
+1403,air kelapa,33667,6086,4167,389
+1404,air kelapa muda,32285,5793,1761,122
+1405,jus kelapa,47445,11444,7007,501
+1406,nước dừa,37153,8210,5220,283
+1407,coconut drink,16829,5179,2225,152
+1408,fresh coconut water,5751,1069,288,14
+1409,coconut hydration,18065,5539,1584,129
+1410,coconut refreshment,10849,1765,554,24
+1411,kelapa segar,46482,12442,4613,185
+1412,es kelapa muda,2372,548,382,24
+1413,minuman kelapa,21754,8667,2284,203
+1414,coconut healthy drink,23856,5783,3682,244
+1415,kelapa botol,16263,2534,1429,97
+1416,tropical coconut water,13467,4308,2254,127
+1417,coconut juice,18542,3690,1815,99
+1418,air kelapa alami,6897,1882,910,34
+1419,classic french toast,7304,1802,699,45
+1420,roti panggang telur,26440,10569,6720,260
+1421,french toast klasik,30111,6032,3192,277
+1422,roti telur manis,1893,622,395,23
+1423,roti bakar gaya perancis,27269,7284,4842,392
+1424,bánh mì nướng Pháp,18201,5779,1871,128
+1425,french toast breakfast,3917,1524,479,18
+1426,toast manis,19785,4060,1302,113
+1427,roti susu telur,39318,10139,6150,385
+1428,roti bakar lembut,42332,8077,5250,279
+1429,sarapan roti manis,49760,18364,9075,540
+1430,classic sweet toast,47480,11281,3117,135
+1431,roti celup telur,18546,4766,1228,65
+1432,roti bakar brunch,22199,4124,1935,77
+1433,roti gaya perancis,40137,15773,5690,544
+1434,cherry pie,40976,13234,3653,146
+1435,pai ceri,8342,3125,1699,89
+1436,cherry dessert,36115,9428,4655,291
+1437,pie buah ceri,18795,7203,2317,220
+1438,kue pai ceri,5460,904,445,43
+1439,bánh tart anh đào,13717,5063,2094,193
+1440,sweet cherry pie,15570,2650,843,41
+1441,pie buah merah,45390,17662,6090,360
+1442,pai manis ceri,41574,15623,3915,221
+1443,pai klasik buah,43553,15261,3978,341
+1444,kue cherry pie,11021,4242,2855,209
+1445,cherry tart,13893,4205,1539,144
+1446,dessert buah ceri,37825,9675,6613,236
+1447,pie isi ceri,16604,3114,1413,67
+1448,cherry pie slice,5723,1784,1171,93
+1449,cheesy breadsticks,15537,2542,1030,40
+1450,breadstick keju,19238,6608,4485,368
+1451,breadsticks with cheese,30103,5170,2707,206
+1452,roti keju panjang,30547,6457,2386,109
+1453,garlic cheese sticks,34888,8215,2413,172
+1454,breadsticks rasa keju,28873,11298,3218,304
+1455,stik keju,16677,6442,1658,128
+1456,cheesy garlic sticks,34394,6097,2017,105
+1457,bánh mì que phô mai,677,152,38,1
+1458,roti panjang keju,39240,12818,8643,703
+1459,breadstick lembut keju,44482,12333,5829,390
+1460,keju bread stick,11899,2185,717,55
+1461,keju panggang roti,39085,13483,4998,332
+1462,cheese stick bread,28855,5662,2689,132
+1463,roti celup keju,7904,2934,967,71
+1464,tempura udon,49269,17324,6894,647
+1465,udon tempura,45305,17903,8138,532
+1466,mie udon goreng,32586,11267,6032,332
+1467,udon dengan tempura,21326,5759,3286,142
+1468,udon kuah tempura,3064,1157,746,27
+1469,udon udang goreng,6085,1891,487,32
+1470,udon Jepang,15904,4385,1718,80
+1471,udon soup with shrimp,9208,3168,1871,76
+1472,bánh canh tempura,38825,7113,2460,126
+1473,mie kuah udon tempura,9234,3648,1665,56
+1474,tempura noodle bowl,5708,1795,938,71
+1475,udon udang,5670,1895,645,28
+1476,tempura noodle soup,2662,404,220,13
+1477,mie tempura jepang,8913,1452,886,72
+1478,udon kuah jepang,35167,13392,6398,575
+1479,house special pho,27580,8358,5067,444
+1480,pho spesial,30166,7925,5324,455
+1481,special pho,14545,5503,3593,174
+1482,pho house special,716,125,44,4
+1483,pho daging lengkap,7509,1312,824,50
+1484,đặc biệt phở,37295,7966,2422,199
+1485,vietnamese pho special,17235,3769,2186,80
+1486,pho komplit,23367,8548,2560,160
+1487,pho dengan daging campur,14037,2395,1008,60
+1488,pho kombo,39895,13897,6577,411
+1489,sup mie vietnam spesial,32182,8982,4538,238
+1490,pho daging campur,49722,19298,12056,1059
+1491,house pho,12716,4651,3005,290
+1492,pho signature,15328,6094,2248,147
+1493,pho klasik lengkap,49509,8253,5131,410
+1494,combo pho bowl,4447,1589,1053,59
+1495,pancit sotanghon,49917,18254,9052,680
+1496,sotanghon,49031,11989,3332,290
+1497,bihon sotanghon,38058,12506,3974,219
+1498,pancit glass noodles,6859,2506,1626,121
+1499,sotanghon guisado,46938,14493,3756,307
+1500,mie bihon filipina,22836,5165,3161,193
+1501,mie bening sotanghon,29850,9530,5230,425
+1502,sotanghon pancit,12402,3473,1191,91
+1503,pancit mie halus,43496,10242,3097,209
+1504,miến xào Philippines,38502,5931,2653,142
+1505,mie tipis filipina,7144,1702,1061,47
+1506,pancit bihon,31592,6766,3777,135
+1507,filipino noodle glass,22690,6474,3349,179
+1508,pancit mie transparan,24741,5515,2741,195
+1509,pancit soup glass noodles,49441,16213,5618,350
+1510,spicy miso ramen,30248,9770,4916,353
+1511,ramen miso pedas,2730,1046,354,28
+1512,mie ramen miso,35516,11426,3055,113
+1513,spicy ramen,18598,5764,2546,236
+1514,ramen pedas,20344,4533,3154,127
+1515,miso ramen,13385,2070,1376,132
+1516,ramen miso kuah pedas,8030,1942,519,39
+1517,mì ramen miso cay,29521,6628,3416,117
+1518,ramen kuah pedas,24596,6242,3132,242
+1519,miso soup ramen,42313,15396,10079,806
+1520,ramen jepang pedas,37461,13544,6135,370
+1521,ramen korea miso pedas,2277,601,313,14
+1522,miso ramen hot,48682,17220,8626,459
+1523,ramen spicy broth,34317,12126,8082,753
+1524,ramen dengan miso pedas,16318,5982,2289,216
+1525,gourmet grilled cheese,34136,6978,2455,175
+1526,grilled cheese sandwich,44600,8410,4355,258
+1527,roti bakar keju premium,12131,3734,1490,101
+1528,grilled cheese mewah,13706,3925,2340,163
+1529,keju panggang spesial,45059,15659,4560,313
+1530,grilled cheese roti isi,21385,8199,2622,113
+1531,gourmet cheese toast,33107,11887,4773,414
+1532,bánh mì phô mai nướng,27351,5019,2877,121
+1533,toast keju spesial,1656,254,137,12
+1534,sandwich keju bakar,7046,2776,964,78
+1535,roti keju,32140,7886,5372,387
+1536,grilled toast cheese,17064,5392,3557,338
+1537,gourmet cheese melt,44835,13385,8158,430
+1538,breakfast burrito,2293,388,179,17
+1539,burrito sarapan,27245,8243,5330,400
+1540,morning burrito,29227,10522,4813,371
+1541,burrito isi telur,49881,10399,4467,350
+1542,burrito telur dan daging,4051,852,514,21
+1543,roti gulung sarapan,41450,12212,5611,446
+1544,sarapan burrito wrap,20892,4781,1820,149
+1545,bánh burrito bữa sáng,42925,12537,7595,361
+1546,burrito pagi,6793,1552,769,33
+1547,burrito telur pagi,4446,865,391,21
+1548,burrito isi lengkap,5241,1827,610,42
+1549,burrito bacon telur,37627,9480,4466,154
+1550,burrito wrap sarapan,33819,5901,2904,188
+1551,burrito breakfast roll,40559,12872,8884,626
+1552,classic bagel with cream cheese,19944,4240,1657,133
+1553,bagel krim keju,5018,1102,490,47
+1554,bagel keju,2309,866,243,23
+1555,bagel klasik,6544,1397,688,44
+1556,roti bagel dengan cream cheese,17960,5095,2924,261
+1557,bánh vòng phô mai,49051,13676,4784,296
+1558,bagel cream,39392,13930,7501,654
+1559,cream cheese sandwich,37798,13185,8024,463
+1560,bagel sarapan,954,144,55,2
+1561,bagel oles keju,21790,5209,2911,147
+1562,bagel isi lembut,33917,13560,7739,750
+1563,bagel dan keju,3383,1145,343,14
+1564,breakfast bagel cheese,36643,12669,7539,419
+1565,bagel klasik cream,8559,1917,1012,82
+1566,bagel pagi,12640,4361,3020,209
+1567,salmon teriyaki,43295,15538,10123,980
+1568,salmon saus teriyaki,27172,6898,2612,134
+1569,ikan salmon teriyaki,26386,5684,1703,74
+1570,grilled salmon teriyaki,36070,12022,4671,319
+1571,teriyaki ikan salmon,45688,8522,5398,229
+1572,teriyaki salmon bowl,12393,4377,2601,143
+1573,bánh cá hồi sốt teriyaki,17530,5714,3623,239
+1574,salmon Jepang,10446,3575,2011,125
+1575,salmon teriyaki grilled,29613,11486,5809,331
+1576,salmon panggang saus manis,48517,11056,6265,553
+1577,ikan teriyaki,40772,11836,3722,311
+1578,teriyaki fish,1310,280,183,11
+1579,salmon rice teriyaki,10957,2248,1028,101
+1580,salmon sweet soy,19246,3300,1635,62
+1581,chili cheese dog,10929,2902,1179,105
+1582,hot dog chili keju,2549,673,330,11
+1583,chili dog,4146,1457,621,45
+1584,hotdog keju dan sambal,45174,10663,5819,315
+1585,sosis chili cheese,29885,7722,3122,201
+1586,hotdog saus keju pedas,20541,5211,3381,128
+1587,chili dog with cheese,25255,8817,2219,150
+1588,bánh mì xúc xích sốt cay phô mai,25186,6469,2579,145
+1589,hotdog isi keju dan sambal,3103,671,312,19
+1590,cheesy chili dog,26803,4550,1440,53
+1591,hotdog topping pedas,27109,7008,4888,188
+1592,hotdog beef chili cheese,39071,8353,3174,246
+1593,frankfurter keju sambal,30237,8291,3175,138
+1594,classic fish & chips,13876,3626,1901,130
+1595,fish and chips,5821,983,304,23
+1596,ikan goreng dan kentang,25684,7418,4820,471
+1597,fish n chips,3220,640,255,18
+1598,ikan kentang goreng,33316,8889,3272,176
+1599,fish fry with fries,18210,5692,3668,276
+1600,classic fish fry,4368,1557,753,70
+1601,bánh cá chiên khoai tây,38719,12731,4471,163
+1602,ikan goreng kentang,4284,894,586,36
+1603,fish & fries,7943,2294,1060,36
+1604,fish fillet and fries,44394,6663,2209,184
+1605,fish set meal,10029,2608,1726,159
+1606,fish and chips klasik,34783,11184,3882,345
+1607,british fish & chips,41422,10547,7243,445
+1608,seafood and fries,48496,8527,5553,443
+1609,spicy jalapeno burger,6283,2357,947,39
+1610,burger jalapeno pedas,30016,8088,4250,327
+1611,burger spicy jalapeno,6381,1387,734,28
+1612,jalapeno cheeseburger,19408,3820,1323,94
+1613,burger cabai hijau,14469,4075,2512,172
+1614,burger keju jalapeno,33034,12147,5734,236
+1615,burger pedas,49738,8384,5645,356
+1616,spicy chili burger,48254,18575,5973,526
+1617,bánh mì kẹp ớt jalapeno cay,11031,1850,1072,51
+1618,burger daging pedas,45404,16249,9380,400
+1619,hot burger,19785,6040,2970,244
+1620,jalapeno beef burger,37614,12677,7239,657
+1621,burger spicy beef,17956,4660,1761,61
+1622,burger dengan jalapeno,2887,690,269,25
+1623,jalapeno burger pedas,4747,1250,528,40
+1624,spicy tuna roll,30213,9355,5833,431
+1625,spicy tuna maki,43802,11212,6118,246
+1626,sushi tuna pedas,33088,6923,4298,181
+1627,gulungan tuna pedas,6466,1942,1130,86
+1628,tuna roll spicy,20846,3825,1417,129
+1629,maki tuna pedas,43103,7473,3487,180
+1630,sushi tuna roll,39929,11719,7709,459
+1631,bánh cuộn cá ngừ cay,36349,14153,7314,567
+1632,spicy sushi roll,42922,16222,8152,314
+1633,spicy tuna sushi,17570,5424,2346,138
+1634,tuna sushi gulung,7033,2668,1489,145
+1635,sushi pedas ikan,29782,5056,1885,77
+1636,tuna roll pedas,1298,501,189,12
+1637,tuna sushi pedas,26215,5072,1390,109
+1638,maki tuna spicy,46082,9130,3515,129
+1639,superfood power bowl,27133,7133,2244,216
+1640,bowl sehat superfood,28181,4308,2268,193
+1641,superfood bowl,35543,13316,6395,219
+1642,healthy power bowl,4182,849,347,15
+1643,salad bowl superfood,1818,458,169,16
+1644,mangkuk nutrisi,2442,382,163,14
+1645,energy bowl,27548,9258,5129,233
+1646,power salad bowl,15977,5313,2433,130
+1647,superfood grain bowl,5780,898,482,21
+1648,bánh bát dưỡng chất,18295,5545,2940,101
+1649,mixed grain salad,4948,1963,1178,51
+1650,vegan power bowl,24006,8220,4255,359
+1651,mangkuk protein nabati,47950,16595,8611,664
+1652,mangkuk super sehat,8187,1810,846,47
+1653,plant-based bowl,40692,9573,5911,247
+1654,pho bo (beef noodle soup),47272,7699,5342,266
+1655,pho bo,43103,14889,6571,453
+1656,sup mie sapi vietnam,19887,5573,2084,188
+1657,vietnamese beef pho,35808,7348,4112,407
+1658,pho daging sapi,9753,2459,873,53
+1659,pho kuah sapi,12395,4201,1909,97
+1660,bánh phở bò,24271,8346,4802,456
+1661,pho vietnam,16109,3704,1675,126
+1662,beef noodle soup,11495,3757,1087,59
+1663,pho sapi,25740,6949,4401,285
+1664,pho klasik,22554,3984,2409,141
+1665,sup pho bo,2550,515,309,27
+1666,mie sapi kuah vietnam,24783,6683,1947,126
+1667,pho daging,9489,3375,1820,72
+1668,pho soup,42033,12966,7177,468
+1669,volcano roll,43989,8717,2394,87
+1670,gulungan volcano,8470,1396,392,38
+1671,volcano sushi,20626,7209,3300,203
+1672,spicy volcano roll,2023,610,367,20
+1673,sushi gulung pedas,37765,11877,6890,415
+1674,lava roll,22256,5647,2795,109
+1675,maki volcano,40437,15623,7552,340
+1676,sushi pedas meleleh,30151,6269,4003,308
+1677,bánh sushi núi lửa,36727,10746,5185,213
+1678,gulung lava sushi,46641,10010,3754,313
+1679,volcano maki,29877,4805,3101,230
+1680,volcano roll spicy,34015,7769,3727,234
+1681,hot sushi roll,47855,16704,6546,322
+1682,spicy tuna volcano,30881,10990,5121,484
+1683,sushi ekstra pedas,21198,7757,3182,222
+1684,guacamole & chips,5529,2022,978,62
+1685,guac and chips,27476,6976,2035,194
+1686,nachos guacamole,4175,923,484,33
+1687,tortilla chips with guacamole,35665,7648,3171,212
+1688,keripik dan guacamole,4029,651,427,42
+1689,kentang tortilla saus guac,29129,11431,4551,391
+1690,guacamole snack,48754,15593,7743,627
+1691,bánh tortilla kèm sốt bơ,4615,1600,1066,40
+1692,guac dipping,18864,6132,3121,137
+1693,guac snack set,5766,2228,687,41
+1694,guacamole + chips,35500,12817,5211,410
+1695,avocado dip with chips,33216,9816,5864,308
+1696,chips salsa guac,39253,12382,5683,321
+1697,side guacamole,40888,7619,2430,205
+1698,vegetable biryani,36020,11463,7080,328
+1699,nasi biryani sayur,19431,6337,1951,71
+1700,biryani vegetarian,21389,7956,4166,227
+1701,sayur biryani,32311,7592,4421,309
+1702,veggie biryani,36950,6878,2159,154
+1703,biryani tanpa daging,49072,14565,6908,574
+1704,biryani nasi sayur,11442,2211,1183,104
+1705,biryani sayuran,48418,15006,3781,203
+1706,cơm biryani rau củ,40145,12884,8619,534
+1707,nasi rempah sayur,3588,994,492,29
+1708,biryani india vegetarian,43316,14848,3953,381
+1709,nasi bumbu sayuran,36415,5533,1417,96
+1710,biryani sehat,26226,8758,6099,580
+1711,vegetable masala rice,42070,8894,3745,313
+1712,pancit malabon,48618,16202,7328,280
+1713,pancit noodle malabon,13102,2775,1436,133
+1714,malabon style pancit,31305,6530,4128,157
+1715,mie pancit malabon,9616,3270,1901,82
+1716,mie filipina kuah kental,21210,5829,1886,142
+1717,mie seafood pancit,4058,1112,758,39
+1718,filipino thick noodles,29468,5878,2909,118
+1719,bánh pancit malabon,5237,1773,989,47
+1720,mie kuning pancit,29755,10633,3942,284
+1721,mie filipina pekat,44578,10848,5875,564
+1722,pancit creamy,1759,265,123,8
+1723,pancit special,38549,12062,6035,282
+1724,bihon malabon,45373,7528,3689,145
+1725,mie khas filipina,38225,12481,3393,118
+1726,guacamole,44041,9652,4038,339
+1727,guac,4979,1282,813,42
+1728,saus alpukat,38640,12028,6651,280
+1729,guacamole dip,43669,13943,9753,951
+1730,alpukat tumbuk,14280,3408,1871,129
+1731,avocado salsa,7052,2089,997,54
+1732,guac spread,35645,9467,2667,206
+1733,sốt bơ nghiền,14674,3829,1984,138
+1734,avocado dip,17692,3193,1396,67
+1735,guacamole sauce,42572,16522,4616,421
+1736,mashed avocado,26876,9705,6582,519
+1737,creamy guac,13047,2004,1203,113
+1738,guacamole klasik,43305,12815,4493,198
+1739,side guacamole,35136,11813,7996,562
+1740,guac dressing,12978,2725,1380,52
+1741,vanilla custard donut,23110,4610,1280,56
+1742,donut vanila custard,41492,6957,3756,321
+1743,donat isi vanilla,48450,10583,6112,411
+1744,donat vanilla custard,25796,10205,3471,194
+1745,vanilla cream donut,24357,5739,1544,124
+1746,donat krim vanilla,39972,12115,4085,212
+1747,bánh donut nhân kem vani,16947,4900,2074,169
+1748,donut isi krim manis,41458,14223,4672,188
+1749,creamy vanilla donut,22763,3757,1825,164
+1750,vanilla filled donut,23414,6480,2044,137
+1751,custard donut,30880,7256,1843,183
+1752,donut lembut vanilla,12012,1938,1199,98
+1753,vanilla donut,44024,11970,4885,444
+1754,donut isi manis,35110,13470,8500,540
+1755,soy braised beef noodles,35510,10605,3786,198
+1756,mie daging kecap,33021,11178,4790,310
+1757,soy beef noodles,5424,1595,1115,81
+1758,beef noodle soy sauce,14879,5704,3030,192
+1759,daging sapi tumis kecap,10930,4207,1430,110
+1760,mie sapi rebus kecap,47019,11649,5738,230
+1761,mì bò kho xì dầu,34252,6697,2714,256
+1762,mie kuah daging,32017,10843,7170,471
+1763,mie dengan sapi kecap,30903,6234,4002,333
+1764,mie sapi soy,14475,5661,3250,311
+1765,beef soy noodle soup,34716,12691,3269,256
+1766,noodle beef braised,36288,10690,4171,265
+1767,daging kuah kecap,46655,14109,6002,421
+1768,pork siu mai,37336,12002,6074,254
+1769,siomay babi,20340,3694,2243,148
+1770,dimsum babi,43952,14007,8540,542
+1771,pork shumai,35252,10722,7204,647
+1772,siew mai pork,574,113,70,3
+1773,dumpling babi,27534,9329,2810,253
+1774,bánh xíu mại heo,5588,2061,1193,49
+1775,siu mai isi daging babi,36267,10917,5000,184
+1776,siomai daging,33426,9385,4317,289
+1777,pork dimsum,14115,4980,3142,118
+1778,steamed pork dumpling,47764,17956,5771,198
+1779,shumai babi,11213,3432,2397,122
+1780,pangsit kukus babi,1618,294,120,6
+1781,siu mai klasik,3815,1214,641,38
+1782,mango pudding,43883,12512,6149,378
+1783,puding mangga,17132,4163,1410,126
+1784,pudding buah mangga,5753,943,250,19
+1785,mango dessert,43108,16733,11353,592
+1786,mangga manis pudding,47493,12229,3488,300
+1787,mango custard,2334,717,436,37
+1788,bánh pudding xoài,20819,5842,2373,116
+1789,dessert buah mangga,14515,3146,2045,79
+1790,mango milk pudding,5157,1026,268,22
+1791,mango jelly dessert,36776,9318,3064,144
+1792,puding buah,34160,6247,3120,190
+1793,pudding lembut mangga,42056,10783,4576,400
+1794,dessert mangga,48128,8487,5060,175
+1795,mango flan,41833,7007,4590,370
+1796,pancit canton with chicken,18034,3391,1037,91
+1797,pancit ayam,19900,7761,5175,338
+1798,mie canton ayam,43614,15768,7324,632
+1799,pancit goreng ayam,20726,5938,3314,178
+1800,mie goreng filipina,4852,1054,461,32
+1801,mie pancit ayam,37381,10720,4192,159
+1802,gà xào mì,13742,2590,1733,146
+1803,pancit chicken style,45092,8750,3091,246
+1804,pancit dengan daging ayam,8407,2908,1493,54
+1805,pancit bihon ayam,41816,11828,7560,402
+1806,mie filipina ayam,13506,3520,1872,103
+1807,chicken stir-fried noodles,31437,10687,4938,288
+1808,pancit special ayam,20172,5465,2175,131
+1809,bagel with peanut butter & banana,7278,2183,857,85
+1810,bagel selai kacang dan pisang,15520,2488,1137,46
+1811,roti bagel pisang kacang,29585,10691,5548,295
+1812,banana peanut bagel,19470,4499,1683,135
+1813,bagel isi pisang dan peanut butter,34882,5674,2877,173
+1814,bánh vòng chuối bơ đậu,39120,8469,3558,148
+1815,banana bagel,18983,4608,2340,105
+1816,bagel peanut combo,37480,9919,4054,367
+1817,bagel topping selai kacang,31217,7641,3147,172
+1818,peanut banana toast,3426,584,285,22
+1819,sandwich bagel kacang,3373,1328,496,46
+1820,bagel sarapan sehat,23217,4151,2579,238
+1821,cookies & cream donut,37874,6158,1674,91
+1822,donut cookies n cream,39649,11727,6043,429
+1823,donat oreo,48100,11840,7773,483
+1824,donat rasa cookies,49720,17154,10931,824
+1825,donut krim dan cookies,9731,3322,1061,75
+1826,donat dengan topping biskuit,2118,519,222,17
+1827,bánh donut vị bánh quy,46816,16802,9624,838
+1828,cream cookie donut,23371,5527,1964,192
+1829,donut biskuit coklat,42214,7460,3425,197
+1830,donat rasa oreo,35349,13147,6452,545
+1831,donut topping cookies,17091,3806,1075,96
+1832,creamy cookie donut,45895,18003,9607,601
+1833,donut black and white,17838,5045,2877,170
+1834,truffle mac & cheese,41524,13858,7621,443
+1835,mac n cheese truffle,24697,7163,3501,246
+1836,macaroni truffle keju,16043,2543,1658,83
+1837,pasta keju truffle,16321,4606,1534,108
+1838,makaroni keju mewah,4220,1444,994,55
+1839,mac and cheese jamur truffle,36169,8490,5404,426
+1840,truffle creamy pasta,38373,11082,3776,179
+1841,mì ống phô mai nấm,38970,11289,6741,253
+1842,mac cheese premium,16474,3852,1463,140
+1843,mac and cheese dengan truffle,3698,667,463,23
+1844,cheesy truffle pasta,1027,368,115,9
+1845,macaroni cheese truffle,39567,11044,5574,316
+1846,banana nut french toast,9778,3546,1271,71
+1847,roti bakar pisang kacang,12922,2303,809,42
+1848,french toast pisang,43371,14107,7369,625
+1849,banana nut toast,20781,6461,4459,432
+1850,french toast dengan kacang pisang,2699,590,233,22
+1851,bánh mì kẹp chuối hạt nướng,27665,7152,2052,122
+1852,roti manis pisang kacang,41157,13460,5369,190
+1853,breakfast banana toast,26768,6960,2495,107
+1854,nutty banana french toast,37373,8033,3849,233
+1855,banana toast,12079,3288,2227,195
+1856,french toast kacang,48092,10008,5424,327
+1857,garlic bread,2230,398,171,13
+1858,roti bawang putih,35621,12113,8000,644
+1859,garlic toast,16526,5567,2479,191
+1860,garlic butter bread,6742,1204,543,50
+1861,roti panggang bawang putih,16487,4275,1697,117
+1862,bánh mì bơ tỏi,15269,3928,2092,169
+1863,roti keju garlic,46785,17646,5049,217
+1864,garlic loaf,4862,1754,1171,76
+1865,roti panggang garlic,47547,17716,9800,961
+1866,garlic slice bread,25458,7020,3232,316
+1867,roti panggang gurih,32607,11372,7292,598
+1868,garlic breadstick,29356,8978,5822,545
+1869,roti garlic klasik,19154,7339,3574,125
+1870,grilled salmon fillet,33068,5595,2255,132
+1871,salmon panggang,25731,7261,2959,172
+1872,fillet salmon bakar,21945,5215,2707,164
+1873,ikan salmon grill,1569,360,250,11
+1874,grilled fish fillet,32764,7818,5339,260
+1875,grilled salmon,30203,7981,4908,371
+1876,grilled ikan salmon,35013,8542,3060,243
+1877,salmon steak bakar,49444,11981,3664,171
+1878,cá hồi nướng,20864,6050,1941,73
+1879,salmon grilled fillet,1902,465,275,25
+1880,salmon fillet panggang,33868,12633,6467,435
+1881,pan-seared salmon,43797,15934,6642,268
+1882,grilled seafood,16964,5334,2533,177
+1883,salmon oven baked,8601,3140,1426,50
+1884,turnip cake,1446,311,208,14
+1885,kue lobak,15427,2450,1220,85
+1886,lo bak go,29220,10836,3785,374
+1887,steamed turnip cake,45138,13914,5082,446
+1888,radish cake,4097,764,445,33
+1889,lobak kukus,3885,1490,487,22
+1890,kue lobak goreng,22737,4291,1549,84
+1891,bánh củ cải,38717,7152,3481,184
+1892,dimsum turnip cake,32287,5864,1604,110
+1893,chinese turnip cake,42489,11950,7786,748
+1894,savory turnip cake,13850,3549,2024,197
+1895,fried radish cake,8310,1514,1013,57
+1896,lobak putih cake,43440,9711,3127,256
+1897,pan-fried turnip,18610,7332,3237,112
+1898,cornbread,45558,12924,4466,185
+1899,roti jagung,49652,14256,5087,321
+1900,kue jagung,32099,10404,3860,356
+1901,sweet cornbread,34158,7477,2592,173
+1902,buttered cornbread,42739,13501,8337,768
+1903,roti lembut jagung,40405,8297,4664,357
+1904,bánh bắp nướng,9680,2373,1581,89
+1905,roti kukus jagung,14482,4763,2322,182
+1906,corn muffin,14635,2989,1395,76
+1907,corn loaf,46587,14571,8562,747
+1908,savory cornbread,16201,5758,3676,284
+1909,honey cornbread,11843,1800,967,93
+1910,cornbread klasik,25294,7687,5365,258
+1911,southern style cornbread,39624,7712,5188,251
+1912,taco salad bowl,14275,4047,2715,207
+1913,salad taco,39280,10960,5381,197
+1914,taco bowl,42086,10192,6753,622
+1915,mangkuk salad taco,20608,5264,3552,140
+1916,taco rice bowl,29613,5837,2445,91
+1917,taco salad,18481,4981,3133,202
+1918,taco dengan sayur,16337,2695,1272,57
+1919,salad mangkuk meksiko,9449,2064,636,43
+1920,gỏi salad taco,17123,3817,963,50
+1921,mexican salad bowl,37357,7475,4613,159
+1922,taco veggie bowl,32621,8381,3459,260
+1923,salad isi daging,1032,362,242,18
+1924,taco beef salad,47234,7891,2897,238
+1925,healthy taco bowl,45007,16220,4677,327
+1926,miso soup,21892,4935,2191,109
+1927,sup miso,29135,9600,2654,260
+1928,kuah miso,29305,11192,6096,405
+1929,japanese miso soup,29847,5312,3710,145
+1930,miso broth,22710,7941,3681,151
+1931,sup jepang,44802,13745,5795,237
+1932,miso tofu soup,30958,12276,5069,342
+1933,canh miso nhật,6665,1256,360,25
+1934,miso soup klasik,49133,10072,6075,329
+1935,light miso soup,14730,5571,2698,126
+1936,miso soup with seaweed,48822,17946,9432,642
+1937,miso soup tahu,48610,13769,8844,417
+1938,kuah sup jepang,23054,5155,2989,286
+1939,coq au vin,46374,7061,4818,212
+1940,ayam coq au vin,29592,8948,3583,302
+1941,chicken red wine stew,1629,430,176,15
+1942,french chicken stew,9166,3344,1947,160
+1943,ayam rebus anggur,49210,12800,4765,475
+1944,ayam rebus gaya perancis,25539,8541,4866,254
+1945,ayam saus anggur merah,4990,1396,897,50
+1946,gà hầm rượu vang đỏ,9390,1714,859,34
+1947,ayam wine,35739,5941,3903,369
+1948,coq au vin klasik,26484,7224,3919,213
+1949,ayam rebus red wine,40529,11241,5542,239
+1950,ayam coq klasik,23155,7437,3314,128
+1951,ham & cheese bagel melt,8116,2751,1861,70
+1952,bagel ham keju,45166,14752,3978,265
+1953,bagel isi daging dan keju,19344,3472,1850,82
+1954,ham cheese bagel,32199,5470,3286,169
+1955,bagel melt,8246,1603,622,21
+1956,sandwich bagel ham,47163,11090,7409,370
+1957,bánh vòng thịt nguội phô mai,23190,5342,2290,96
+1958,bagel isi keju leleh,34091,6197,2411,215
+1959,bagel grilled cheese ham,10648,1884,867,41
+1960,roti bagel ham,48475,12326,6969,689
+1961,toasted bagel sandwich,36366,6078,1882,162
+1962,bagel isi daging asap,47035,9455,5778,350
+1963,house salad,49503,11250,2933,209
+1964,salad rumah,24203,4984,2264,162
+1965,house mix salad,27655,9196,3065,123
+1966,basic garden salad,37263,11362,6773,323
+1967,salad campur,3648,1207,462,31
+1968,side salad,12893,2494,665,62
+1969,salad sayur rumah,14891,3123,986,61
+1970,gỏi rau nhà làm,1710,674,311,12
+1971,mixed greens,23639,4767,1920,178
+1972,salad klasik,7836,1635,638,38
+1973,house blend salad,25381,6619,2923,118
+1974,salad standar,9570,3560,1919,161
+1975,salad sayuran campuran,37730,11749,4716,273
+1976,tartar sauce,11270,3761,2432,153
+1977,saus tartar,9455,1505,753,68
+1978,tartar mayo,19626,3044,1021,100
+1979,tartar dip,18744,5033,3287,222
+1980,dipping sauce tartar,33048,9153,5888,273
+1981,mayonnaise tartar,47182,16816,4275,312
+1982,tartar dressing,29579,6224,3411,179
+1983,nước sốt tartar,10182,2117,899,78
+1984,saus ikan,42344,10137,3923,158
+1985,tartar condiment,26984,4588,1345,86
+1986,creamy tartar sauce,16925,3998,1893,138
+1987,saus gurih tartar,45061,15216,9788,853
+1988,tartar klasik,48957,7432,3766,339
+1989,white fish sauce,44315,15994,11039,942
+1990,dragon roll,26110,5525,1701,113
+1991,dragon maki,31899,6778,4088,192
+1992,sushi dragon roll,49464,9924,4136,394
+1993,sushi gulung naga,7108,2250,823,80
+1994,gulungan sushi pedas,1575,427,239,17
+1995,dragon eel roll,23270,4142,2341,215
+1996,maki dragon,13527,3159,1560,123
+1997,bánh cuộn cá chình,21995,7479,4788,167
+1998,spicy dragon sushi,20019,5456,2598,142
+1999,eel and avocado roll,20073,5367,1372,129
+2000,unagi dragon roll,46889,14091,9291,360
+2001,dragon roll spicy,10022,3478,1838,84
+2002,sushi gulung panjang,2246,626,181,18
+2003,fancy sushi roll,40573,7373,2200,205
+2004,fried chicken wings (yangnyeom),26126,5367,1519,134
+2005,yangnyeom chicken wings,16793,4190,2385,138
+2006,korean spicy wings,18019,5902,1695,121
+2007,ayam goreng korea,33411,6487,3916,300
+2008,yangnyeom wings,38059,9768,5084,441
+2009,fried korean wings,40027,15702,4582,283
+2010,ayam pedas korea,36103,7312,2045,171
+2011,chicken wings pedas manis,49699,17791,5527,249
+2012,sayap ayam korea,27953,6526,2447,181
+2013,gà rán sốt cay Hàn Quốc,46461,15956,8720,593
+2014,spicy korean wings,46063,11499,5561,251
+2015,korean fried chicken,39793,9412,6404,414
+2016,sayap ayam goreng pedas,28531,5382,2329,152
+2017,wings korea manis,48664,15275,6303,568
+2018,pumpkin pie,20226,5877,2871,185
+2019,pai labu,17821,3760,1934,156
+2020,pie labu kuning,4874,1436,670,62
+2021,pumpkin dessert,25864,4869,2435,86
+2022,pumpkin tart,40371,11349,4930,265
+2023,bánh bí đỏ,12869,2116,969,79
+2024,pumpkin custard pie,36621,11127,5577,329
+2025,pai manis labu,43574,13454,5069,321
+2026,pumpkin pie klasik,8549,2204,1209,79
+2027,pumpkin spice pie,48962,11780,6456,613
+2028,kue pai labu,4215,1219,758,63
+2029,pai panggang labu,25768,7143,1859,105
+2030,sweet pumpkin slice,15232,5638,3756,170
+2031,pai musim gugur,32424,4904,1879,117
+2032,tofu veggie rice bowl,8197,2504,747,27
+2033,mangkuk nasi tahu sayur,37094,12703,6449,282
+2034,rice bowl tahu dan sayur,8292,2703,1525,108
+2035,tofu rice bowl,38957,8473,2573,157
+2036,rice bowl vegetarian,49751,12424,6577,288
+2037,tahu sayur,26534,5986,2282,177
+2038,vegetarian bowl tofu,14025,4779,2277,110
+2039,cơm đậu phụ rau củ,41627,14533,9008,351
+2040,rice tofu mix,44712,7028,3570,151
+2041,nasi tahu,49722,16699,8062,789
+2042,veggie rice with tofu,3349,725,312,19
+2043,tofu grain bowl,34550,8196,4841,259
+2044,mangkuk sehat tahu,1461,306,117,6
+2045,rice bowl plant-based,38297,9744,2506,113
+2046,chana masala,10226,1766,520,47
+2047,kari kacang arab,19578,3999,1758,64
+2048,chana kari india,26120,7469,4125,308
+2049,indian chickpea curry,15950,2589,1704,165
+2050,masala kacang,2002,800,362,27
+2051,chickpeas in curry,28871,8866,5203,314
+2052,kari chana,8126,1995,619,47
+2053,chana dal,6813,1568,488,41
+2054,đậu gà cà ri,47297,16206,4152,257
+2055,chana curry,38111,13493,7574,305
+2056,kacang masala india,12435,3426,2108,141
+2057,vegan chana curry,44125,8353,5328,200
+2058,chana masala klasik,16824,4827,2838,137
+2059,kari kacang india,27661,9537,5860,315
+2060,vegetarian ramen,35840,7618,2081,195
+2061,ramen vegetarian,9116,3372,1388,47
+2062,ramen sayur,43220,9809,4886,418
+2063,ramen tanpa daging,33287,9390,3160,261
+2064,mie ramen vegan,7166,2467,1031,38
+2065,veggie ramen,38925,15456,10726,916
+2066,mì ramen chay,40159,10045,3437,186
+2067,ramen nabati,17675,5897,1889,145
+2068,miso ramen vegan,6792,2230,992,93
+2069,vegetarian noodle soup,16195,4357,2304,188
+2070,mie ramen sayuran,48050,18777,10898,866
+2071,ramen hijau,20596,7198,2043,135
+2072,kuah ramen sayur,9790,3239,1578,156
+2073,classic beef hot dog,43100,8118,3628,183
+2074,hot dog daging sapi,2149,559,231,13
+2075,hotdog klasik,23050,5893,2342,201
+2076,hotdog sapi,12557,4800,2546,181
+2077,beef frankfurter,30004,5642,2017,160
+2078,sosis sapi panggang,1686,495,191,15
+2079,hot dog klasik sapi,9475,3238,821,34
+2080,bánh mì xúc xích bò,47780,15820,7254,484
+2081,beefy hotdog,43970,16498,11257,968
+2082,hotdog jumbo,46961,9802,5812,400
+2083,classic frank,20481,6323,3585,254
+2084,hotdog klasik daging,10505,2392,1447,129
+2085,hotdog beef bun,22406,7137,4793,252
+2086,onion rings,35650,8976,4189,352
+2087,cincin bawang goreng,17197,5158,3306,184
+2088,onion rings crispy,15527,3556,1489,54
+2089,gorengan bawang,3037,874,322,22
+2090,fried onion rings,18924,6888,2422,214
+2091,snack onion,38728,9227,2926,235
+2092,onion ring side,23739,4033,2034,91
+2093,bánh hành tây chiên,13120,4235,2858,116
+2094,side dish onion rings,24111,5207,3370,331
+2095,onion crispy,35145,6215,4312,253
+2096,onion appetizer,3517,982,592,55
+2097,crispy rings,43324,12458,7180,649
+2098,bawang goreng renyah,49678,9711,2874,173
+2099,snack bawang cincin,47915,12084,6200,447
+2100,shrimp har gow,2791,816,556,51
+2101,har gow udang,26722,4842,2356,215
+2102,dumpling udang kukus,20601,7046,4428,376
+2103,shrimp dimsum,32029,11415,7398,650
+2104,har gow,23777,5476,2347,227
+2105,bánh há cảo tôm,39605,6768,1975,175
+2106,dimsum udang,48769,9087,4874,280
+2107,pangsit kukus udang,48722,8991,5837,329
+2108,shrimp dumpling steamed,47640,9642,4203,281
+2109,har gao,26978,7308,3082,273
+2110,ha gow shrimp,46562,7008,2053,91
+2111,har gow klasik,23961,4160,1570,93
+2112,steamed shrimp wonton,28372,10898,6808,598
+2113,shrimp pho,26799,4415,1265,99
+2114,pho udang,10140,3943,1132,104
+2115,sup mie udang vietnam,1213,279,143,6
+2116,seafood pho,16528,2916,1869,77
+2117,pho tom,13545,4399,1992,109
+2118,shrimp noodle soup,11450,3268,2122,206
+2119,pho dengan udang,16314,5004,2740,207
+2120,bánh phở tôm,24962,5165,3042,268
+2121,vietnamese shrimp pho,18671,3574,1418,112
+2122,kuah pho seafood,34992,10292,2686,147
+2123,pho rasa udang,7107,1944,1256,44
+2124,pho kuah udang,32798,12780,3492,282
+2125,sup pho udang,32928,10273,6880,235
+2126,veggie shawarma bowl,19035,5303,2765,250
+2127,shawarma vegetarian,39654,9394,3429,178
+2128,mangkuk shawarma sayur,31174,7179,2759,255
+2129,veggie rice shawarma,33917,6834,4109,206
+2130,shawarma nabati,5016,1708,826,42
+2131,shawarma bowl tanpa daging,43232,8567,4397,363
+2132,salad shawarma veggie,2614,815,383,18
+2133,bánh shawarma chay,34761,13711,8719,733
+2134,healthy shawarma bowl,28081,10078,4685,172
+2135,veggie kebab bowl,45037,15946,4012,398
+2136,shawarma dengan sayuran,48538,15694,6023,454
+2137,sayur mangkuk shawarma,47581,13837,7932,472
+2138,veggie doner bowl,46423,8615,3675,362
+2139,vegetarian red curry,38542,7177,2318,185
+2140,red curry vegetarian,47040,14187,6313,304
+2141,kari merah vegetarian,8247,1592,882,63
+2142,kari merah sayur,13735,2328,931,81
+2143,thai red curry veggie,29986,6937,3201,245
+2144,kari merah tanpa daging,14872,4608,2463,225
+2145,red curry no meat,36584,11932,4314,319
+2146,cà ri đỏ chay,27298,8356,5662,426
+2147,red curry with tofu,42142,9936,3522,234
+2148,kari merah sayuran,31453,8118,3218,271
+2149,thai red curry veggie bowl,2579,811,263,15
+2150,red curry plant-based,19239,4640,1550,151
+2151,vegan red curry,43567,11582,6778,585
+2152,latte,33168,7620,3659,151
+2153,hot latte,11673,4371,2042,119
+2154,kopi latte,27198,8551,2388,91
+2155,coffee with milk,17533,3430,2199,148
+2156,caffe latte,36092,10855,7123,457
+2157,latte panas,11162,2678,1842,118
+2158,cafe latte,46053,9603,6692,576
+2159,iced latte,28378,9605,3781,181
+2160,milk coffee,7637,1812,749,62
+2161,creamy latte,26177,4274,1090,80
+2162,cà phê sữa,39353,14183,6067,480
+2163,kopi susu,3574,1184,701,53
+2164,kopi lembut,3062,497,198,19
+2165,espresso latte,13718,2118,944,36
+2166,morning latte,9303,2617,1628,155
+2167,kopi latte klasik,18165,3797,2032,109
+2168,grilled corn on the cob,18714,7402,2849,212
+2169,jagung bakar,5001,1348,542,38
+2170,corn on cob grilled,27435,9421,4458,283
+2171,roasted corn,42088,15857,10802,588
+2172,sweet corn grilled,28254,6145,1705,139
+2173,grilled corn,46317,8473,5342,344
+2174,grilled jagung,35490,10309,4462,267
+2175,bánh ngô nướng,49000,14724,9389,484
+2176,corn street food,47577,16153,7261,653
+2177,corn bbq,25693,7866,4678,403
+2178,corn grilled cob,47711,14112,7727,338
+2179,grilled sweetcorn,14449,3609,1795,148
+2180,grilled corn stick,45548,17080,4865,401
+2181,corn with butter,42462,11922,6009,550
+2182,mashed potatoes with gravy,38561,8534,5752,474
+2183,kentang tumbuk saus,16883,2933,1433,116
+2184,mashed potato gravy,48847,18573,12229,439
+2185,mashed potatoes,10908,1717,743,29
+2186,kentang lumat dengan saus,36987,11668,7007,584
+2187,kentang lenyek kuah,35424,10665,7307,252
+2188,mashed potato creamy,46328,7984,4714,312
+2189,khoai tây nghiền sốt,18316,3505,2068,114
+2190,kentang tumbuk gravy,2107,694,323,11
+2191,gravy potato mash,2823,773,304,13
+2192,mashed potato side,42702,16707,7219,699
+2193,kentang lembut saus,39241,11616,7370,454
+2194,pickled ginger,4439,1079,655,62
+2195,acar jahe,47691,8257,3545,191
+2196,jahe acar,24882,6299,3113,173
+2197,ginger slices,28187,7850,5186,198
+2198,ginger pickle,47783,8204,4566,442
+2199,sweet pickled ginger,24298,6797,4586,457
+2200,jahe merah acar,10272,3127,1820,137
+2201,gừng ngâm,40670,8097,2188,165
+2202,ginger topping,14827,5434,3719,157
+2203,sushi ginger,41912,7019,3396,312
+2204,ginger condiment,33972,6668,4636,296
+2205,acar sushi jahe,13423,2843,940,53
+2206,tangy ginger,41160,8892,5022,407
+2207,pickled ginger side,29371,11093,4534,360
+2208,jahe manis asin,5751,2273,1173,98
+2209,paratha,27229,7490,4142,197
+2210,roti paratha,19502,4430,3017,194
+2211,prata,40207,12099,7170,359
+2212,roti lapis india,27248,8502,2426,196
+2213,flatbread india,46538,14401,6361,618
+2214,indian paratha,48903,19010,5161,316
+2215,stuffed paratha,44234,13229,7955,314
+2216,bánh paratha,38249,11137,7310,491
+2217,roti goreng india,2818,1003,627,42
+2218,roti pipih,30368,11550,4314,296
+2219,pan-fried paratha,37603,13373,4767,391
+2220,paratha isi,36025,5783,1675,156
+2221,paratha klasik,30167,10969,5673,408
+2222,paratha roti,22613,6847,2474,246
+2223,roti india,10031,1832,552,22
+2224,classic fish & chips,9688,2357,624,21
+2225,fish and chips,6240,1692,572,48
+2226,ikan goreng kentang,45387,15895,4349,258
+2227,fish n chips,14760,4527,2793,105
+2228,ikan dan kentang goreng,12408,4386,1187,52
+2229,classic fried fish set,11244,2505,1177,69
+2230,ikan crispy,22188,4244,1287,110
+2231,cá chiên khoai tây,18520,6133,2353,82
+2232,fish fries,7717,1725,819,50
+2233,fish chips combo,34816,13395,5503,474
+2234,british fish & chips,16225,4346,2723,178
+2235,ikan kentang menu,20651,7814,4448,277
+2236,four cheese pizza,37104,13078,5475,425
+2237,pizza empat keju,49948,16692,4707,366
+2238,4 cheese pizza,10305,3494,1578,70
+2239,pizza keju mix,39706,13317,3972,261
+2240,pizza keju leleh,25630,4481,1936,100
+2241,pizza 4 jenis keju,32737,10803,3722,341
+2242,quattro formaggi,31686,4782,2918,146
+2243,bánh pizza bốn loại phô mai,31370,5091,1307,124
+2244,cheesy pizza,11397,3271,1844,137
+2245,cheese overload pizza,28674,9258,3180,196
+2246,four cheese slice,27838,7493,2350,83
+2247,cheesy delight pizza,23321,7418,4041,299
+2248,maple bacon donut,18424,5297,3643,131
+2249,donat bacon maple,48849,13220,5294,489
+2250,bacon donut,9545,2160,1229,48
+2251,maple glazed donut,19900,6623,3846,246
+2252,donat daging asap,30376,5145,1537,142
+2253,sweet bacon donut,18968,7456,2926,223
+2254,bacon sugar donut,39826,9870,2855,177
+2255,bánh donut thịt xông khói,34825,10853,6801,492
+2256,donut manis asin,40355,9622,4626,407
+2257,donut topping maple,39794,7644,3542,257
+2258,maple syrup donut,8496,2349,1067,57
+2259,maple meat donut,33424,5985,2609,226
+2260,strawberries & cream waffle,5973,1446,933,92
+2261,waffle stroberi krim,40622,11743,8211,292
+2262,waffle buah dan krim,33667,9806,5907,418
+2263,waffle cream strawberry,7811,2997,772,51
+2264,waffle stroberi lembut,18038,5618,1795,172
+2265,bánh waffle dâu kem,14617,3645,2499,231
+2266,strawberry waffle,24087,6674,2386,169
+2267,waffle topping buah,16595,3174,1561,130
+2268,waffle whipped cream,29020,10583,4968,280
+2269,waffle manis stroberi,28279,4923,2951,142
+2270,breakfast waffle strawberry,32883,5549,3415,278
+2271,fruit cream waffle,938,160,89,3
+2272,baklava,38519,14255,8495,785
+2273,kue baklava,30748,5192,3097,227
+2274,dessert timur tengah,19265,3186,1181,102
+2275,sweet pastry baklava,29141,6270,2074,136
+2276,kue kacang manis,43869,12932,6371,590
+2277,honey nut pastry,1534,439,294,10
+2278,bánh ngọt baklava,16356,2792,1723,140
+2279,baklava klasik,24008,7863,3917,258
+2280,kue lapis manis,16479,5884,1772,76
+2281,middle eastern dessert,45257,15270,4737,302
+2282,baklava layers,48706,9598,5269,311
+2283,sweet filo pastry,23522,3923,1569,143
+2284,pistachio baklava,29362,7582,4497,400
+2285,hot chocolate,37754,10445,5267,402
+2286,coklat panas,23104,8060,3354,192
+2287,minuman cokelat hangat,10826,3925,2742,105
+2288,hot cocoa,20378,4744,1578,88
+2289,hot choc,40933,12061,6141,334
+2290,chocolate drink,21259,8259,3788,314
+2291,susu coklat panas,21481,4558,1773,82
+2292,sô-cô-la nóng,12847,3853,2170,199
+2293,hot choco,45414,14609,7650,585
+2294,hot chocolate cup,42040,15854,6504,450
+2295,choco milk drink,41670,13917,8551,516
+2296,cocoa panas,7834,2662,1665,145
+2297,warm cocoa,33972,6616,3041,123
+2298,cocoa latte,45731,7196,3425,135
+2299,hot chocolate classic,39175,11185,6755,348
+2300,everything bagel,8831,3511,1636,73
+2301,bagel everything,2537,644,198,10
+2302,bagel campur,25683,9616,3354,284
+2303,bagel topping lengkap,18894,5032,2542,139
+2304,bagel mix,48924,9321,6423,469
+2305,roti bagel everything,7274,2703,1806,151
+2306,bánh vòng đủ vị,27479,9595,2750,114
+2307,everything bagel savory,43862,7193,2377,160
+2308,savory bagel,1705,384,167,8
+2309,all-topping bagel,14148,4194,2294,207
+2310,multiseed bagel,27292,8096,3522,227
+2311,classic everything bagel,11936,3551,2169,185
+2312,lamb shawarma wrap,39122,13377,7030,521
+2313,wrap domba shawarma,34048,12503,8540,354
+2314,shawarma kambing,1624,295,137,4
+2315,daging domba wrap,24817,8282,4542,263
+2316,lamb kebab wrap,13031,2218,1426,97
+2317,bánh cuộn thịt cừu shawarma,25792,4482,1931,159
+2318,shawarma wrap kambing,18105,3041,1183,51
+2319,lamb pita wrap,10501,1711,860,84
+2320,shawarma gulung domba,45629,9154,2749,165
+2321,grilled lamb wrap,4256,754,244,15
+2322,domba panggang gulung,38594,7724,2880,282
+2323,lamb doner wrap,2133,545,358,18
+2324,rasgulla,34332,8170,4286,422
+2325,dessert india rasgulla,26700,10357,4825,392
+2326,kue susu india,10695,2883,944,51
+2327,manisan bola susu,40360,13477,9218,725
+2328,sweet rasgulla,48593,11629,5053,375
+2329,rasgulla klasik,45188,15355,5001,434
+2330,bánh sữa Rasgulla,49944,8667,5938,281
+2331,bola susu manis,4314,971,510,43
+2332,bola putih gula,34459,13150,6444,270
+2333,dessert bola susu,46922,10382,7055,644
+2334,chenna sweet,34919,10872,3757,258
+2335,milk ball dessert,3928,843,384,35
+2336,indian syrup sweet,46486,10231,4982,177
+2337,kimchi,48070,8520,2660,187
+2338,kimchi korea,7778,2623,1195,89
+2339,acar korea,974,214,84,8
+2340,fermented cabbage,4479,813,475,37
+2341,spicy korean kimchi,45209,15553,6189,265
+2342,kubis fermentasi,15044,5018,2230,183
+2343,kimchi homemade,9654,1714,500,45
+2344,kim chi cay,6034,1617,733,67
+2345,korean pickled veggies,42262,15752,5057,380
+2346,kimchi klasik,28998,11129,6048,378
+2347,kimchi fermentasi,23594,8030,4983,375
+2348,korean side dish,17092,5562,2689,254
+2349,kimchi sayur,937,249,159,11
+2350,pulled pork sandwich,47245,18175,7564,577
+2351,sandwich babi suwir,19176,5242,2001,131
+2352,pulled pork bun,13621,4471,2248,211
+2353,roti isi babi,2391,592,294,21
+2354,sandwich daging suwir,23409,7842,3581,338
+2355,bánh mì thịt heo xé,5783,1192,687,65
+2356,pork bbq sandwich,46276,17930,12021,752
+2357,roti babi asap,6527,1395,364,25
+2358,pulled pork burger,32016,9044,5000,378
+2359,pork sandwich,37233,13926,5160,492
+2360,sandwich daging tarik,6837,2393,965,50
+2361,chicken shawarma wrap,11779,3612,1307,52
+2362,shawarma ayam gulung,8646,2233,628,26
+2363,wrap ayam shawarma,22049,6231,2888,217
+2364,shawarma ayam,26769,4499,2997,154
+2365,chicken wrap,36789,9496,2936,147
+2366,bánh cuộn gà shawarma,2118,808,363,22
+2367,chicken pita wrap,23528,9108,4783,469
+2368,shawarma grilled chicken,9858,3847,1091,48
+2369,wrap ayam panggang,27013,7608,4225,329
+2370,roti gulung ayam,33191,7187,2255,215
+2371,shawarma ayam klasik,39771,15416,10686,682
+2372,beef kabob platter,7477,2356,1617,111
+2373,platter daging kebab,24279,6441,3214,124
+2374,kabob sapi,21652,3328,2151,74
+2375,beef skewers plate,39424,7363,4409,339
+2376,daging sapi tusuk,668,179,120,9
+2377,piring daging kebab,620,159,51,4
+2378,bánh thịt xiên nướng,6814,1405,542,41
+2379,grilled beef platter,17242,5420,2344,218
+2380,beef satay plate,6408,2113,847,83
+2381,kabab daging sapi,28230,7547,2189,185
+2382,platter kebab klasik,17590,4896,2826,219
+2383,beef kebab rice,8814,1959,664,49
+2384,southwest chicken salad,13225,4260,2713,113
+2385,salad ayam southwest,2012,764,341,20
+2386,chicken salad pedas,48379,12465,5712,288
+2387,southwest style salad,33599,7604,3711,143
+2388,salad ayam dengan jagung,20743,6263,2793,168
+2389,salad sayur ayam,889,312,205,19
+2390,gỏi gà kiểu tây nam,11064,2730,1807,163
+2391,chicken salad mix,22358,7044,4592,273
+2392,grilled chicken salad,21247,4200,1608,121
+2393,salad ayam saus barat daya,30654,6625,1833,109
+2394,mexican chicken salad,38917,7196,2419,212
+2395,southwestern salad,46699,11617,7741,422
+2396,smoked sausage platter,35640,8681,4698,244
+2397,platter sosis asap,11866,3285,904,65
+2398,sosis panggang asap,12974,2722,1644,88
+2399,smoked sausage plate,24397,5223,3141,309
+2400,daging sosis asap,28780,10577,2956,140
+2401,smoked meat set,10652,1623,627,53
+2402,piring sosis asap,40543,14330,7973,359
+2403,xúc xích hun khói,18472,3142,1319,129
+2404,mixed sausage platter,4111,1035,691,54
+2405,bbq sausage plate,26550,6925,2923,218
+2406,smoked sausage combo,34914,7330,2424,237
+2407,sosis panggang set,8281,1248,826,76
+2408,smoked platter klasik,20144,3615,977,48
+2409,boneless wings combo,41517,8551,3590,329
+2410,sayap ayam tanpa tulang,42408,7118,3179,143
+2411,boneless chicken wings,42533,9783,4381,260
+2412,combo boneless wings,8762,2812,1774,154
+2413,wings combo,21641,3981,1241,63
+2414,ayam goreng boneless,20140,6379,3010,249
+2415,boneless wings set,45775,13306,5424,232
+2416,cánh gà không xương,37083,8590,4033,285
+2417,wings tanpa tulang kombo,32038,5734,3440,220
+2418,ayam boneless goreng,27469,10877,6072,482
+2419,spicy boneless wings,1444,554,244,13
+2420,boneless chicken bites,49021,12379,6459,374
+2421,thai iced tea,47393,15692,9712,527
+2422,thai tea dingin,4630,1187,474,41
+2423,es teh thai,22736,6517,2731,161
+2424,iced milk tea thai,16295,4851,1298,108
+2425,teh susu thailand,35246,10632,4024,303
+2426,thai milk tea,43507,7026,2620,219
+2427,trà sữa thái,41564,9383,4120,213
+2428,teh tarik thai,7361,2920,1920,174
+2429,thai tea klasik,3515,1391,471,16
+2430,es teh manis thailand,27417,9549,3477,342
+2431,teh krim thai,29840,10689,6370,514
+2432,thai chilled tea,23508,8470,3675,212
+2433,thai beverage,10418,4145,2766,249
+2434,detox green juice,38188,12298,3168,186
+2435,jus hijau detox,30591,5137,2293,173
+2436,detox drink,7977,2124,582,43
+2437,green cleanse juice,16988,3598,1388,103
+2438,jus sehat hijau,31592,7061,4547,160
+2439,green veggie juice,14931,3405,991,79
+2440,sayuran jus detox,9631,1990,685,37
+2441,nước ép rau xanh detox,21978,4153,2888,237
+2442,minuman sehat hijau,17974,4022,1344,66
+2443,detox juice cold pressed,41589,14912,9651,869
+2444,juice hijau sehat,1855,292,186,11
+2445,green blend detox,9868,3168,2096,137
+2446,whipped cream scoop,19203,3097,1423,114
+2447,whipped cream,8569,2865,1224,92
+2448,satu scoop krim kocok,49822,16692,7883,696
+2449,topping krim manis,38979,12785,7019,421
+2450,sendok whipped cream,43617,6926,3710,311
+2451,creamy whipped topping,8166,1460,374,37
+2452,whipped cream only,47906,12787,4255,340
+2453,krim putar,26977,4730,2842,126
+2454,kem đánh bông,29102,9273,4584,403
+2455,topping dessert krim,46279,14738,6832,394
+2456,krim manis lembut,33685,10338,3707,301
+2457,whipped cream side,30690,6957,3569,139
+2458,extra cream,48738,9323,2585,191
+2459,red bean sesame balls,2745,1013,427,30
+2460,bola wijen kacang merah,15513,5873,3086,178
+2461,onde-onde kacang merah,38208,12674,7319,691
+2462,sesame balls red bean,46493,15632,10849,483
+2463,fried sesame balls,29235,10050,5328,218
+2464,bánh mè đậu đỏ,5329,1490,891,36
+2465,mochi wijen isi kacang,27404,7574,2040,157
+2466,onde kacang merah,39970,8760,3968,241
+2467,red bean balls,44581,15757,8966,381
+2468,bola bijan goreng,20934,7320,2654,218
+2469,sesame mochi red bean,24981,5816,2898,142
+2470,sweet sesame dumpling,22242,8551,3218,192
+2471,spring rolls (2 pcs),46520,17861,10590,564
+2472,lumpia 2 pcs,35423,10240,5224,251
+2473,spring roll dua potong,7063,2320,1339,65
+2474,popiah goreng mini,11560,2558,1242,75
+2475,chả giò 2 cái,6087,1955,805,34
+2476,mini spring rolls,24890,7052,4514,280
+2477,fried lumpia,42808,13797,6021,356
+2478,spring roll kecil,38435,5824,2163,159
+2479,lumpia dua,42441,11449,4745,415
+2480,popiah kecil,19233,7579,3964,385
+2481,spring roll appetizer,12355,2392,1530,139
+2482,crispy roll 2 pcs,10878,2598,1704,149
+2483,spicy bbq wings (6 pcs),34162,11583,7352,666
+2484,wings bbq pedas 6 pcs,19819,5550,3054,189
+2485,sayap ayam bbq pedas,16555,5907,1549,153
+2486,spicy wings 6 pieces,22506,4428,2196,216
+2487,ayam goreng bbq 6,3851,593,343,33
+2488,cánh gà sốt BBQ cay,44219,10661,3112,195
+2489,hot bbq chicken wings,20038,3857,1035,54
+2490,wings pedas bbq,21246,7375,4859,214
+2491,bbq wings set,15436,3030,943,73
+2492,grilled bbq wings spicy,21255,7705,2998,235
+2493,6 wings pedas,4187,945,601,34
+2494,crinkle cut fries,19457,6038,2653,231
+2495,kentang goreng keriting,26216,5471,1485,124
+2496,fries potong zigzag,9480,2053,585,57
+2497,kentang crinkle,30101,8122,2733,168
+2498,curly fries,6461,1622,593,31
+2499,krinkle fries,12443,2935,1802,81
+2500,bánh khoai tây lượn sóng,8441,2803,945,34
+2501,wavy fries,45764,14844,5050,189
+2502,kentang bergelombang,34974,6425,2403,116
+2503,fries bentuk unik,21988,7170,3549,160
+2504,crinkly fries,12683,4811,3053,240
+2505,potato zigzag cut,19609,7442,3409,266
+2506,side crinkle fries,43792,12807,6646,477
+2507,baked beans,35391,12235,8284,706
+2508,kacang panggang,42705,16972,10840,1066
+2509,kacang rebus tomat,12140,2489,1673,145
+2510,baked beans classic,9880,1529,656,55
+2511,kacang tomat,14961,5734,1458,111
+2512,beans in sauce,29960,9010,4505,350
+2513,baked bean side,34927,13180,6548,330
+2514,đậu sốt cà,43325,7374,1845,136
+2515,beans breakfast style,20804,5356,3408,130
+2516,tomato beans,36222,12675,7410,609
+2517,side baked beans,818,219,93,7
+2518,baked beans manis,39090,12584,8414,414
+2519,canned beans warm,46798,8506,5169,305
+2520,berry almond salad,9118,1911,1127,107
+2521,salad beri almond,5084,1366,873,37
+2522,salad buah dengan kacang,4595,1516,924,68
+2523,mixed berry salad,34603,8315,4391,247
+2524,salad almond buah,10021,3356,1004,47
+2525,berry nut salad,7597,2027,1252,106
+2526,salad sehat buah kacang,39996,9173,2661,225
+2527,gỏi dâu hạnh nhân,38943,8590,3353,158
+2528,fresh berry salad,24511,4946,2033,69
+2529,berry mix salad,40081,6288,2971,192
+2530,salad kacang dan buah,31910,12409,7053,287
+2531,healthy fruit salad,37491,10029,3507,196
+2532,salad almond segar,38520,6020,3453,174
+2533,brisket pho,38199,10704,4121,150
+2534,pho brisket,17280,3705,943,89
+2535,pho daging brisket,8733,1949,799,34
+2536,vietnamese brisket noodle soup,21684,5483,1717,88
+2537,sup pho brisket,24001,7419,2180,89
+2538,bánh phở bò nạm,35715,9160,4469,431
+2539,pho sapi brisket,43151,8110,3385,213
+2540,brisket beef pho,2481,625,251,8
+2541,beef noodle pho brisket,12976,4186,2457,215
+2542,pho kuah daging,27966,4442,1761,144
+2543,brisket pho bowl,39636,6621,1891,110
+2544,pho klasik brisket,24753,6054,3046,246
+2545,bulgogi beef platter,46568,16137,6229,572
+2546,beef bulgogi set,13185,3678,972,89
+2547,platter daging bulgogi,33512,11243,5918,399
+2548,bulgogi bowl,37389,10748,5752,337
+2549,daging sapi bulgogi,33851,11972,7575,731
+2550,bulgogi panggang,17968,4016,2806,136
+2551,korean beef platter,26157,4143,1307,80
+2552,cơm thịt bò bulgogi,16347,4978,1847,79
+2553,korean bbq beef,28882,6670,3999,235
+2554,bulgogi rice plate,36009,11583,4248,215
+2555,nasi bulgogi daging,17406,6712,2752,168
+2556,bulgogi beef grilled,41356,8074,3272,238
+2557,bulgogi combo plate,36044,12650,5483,470
+2558,carnitas tacos,47115,7956,4452,255
+2559,taco carnitas,39585,15205,5268,382
+2560,pork carnitas tacos,4278,1362,495,19
+2561,taco babi suwir,7422,2158,564,55
+2562,daging babi lembut taco,27583,7505,5067,189
+2563,soft pork tacos,47365,11977,3102,176
+2564,bánh taco thịt heo hầm,28395,11256,4629,337
+2565,street tacos pork,44454,14799,8235,742
+2566,taco isi daging babi,37516,9547,4801,380
+2567,carnitas soft tacos,17695,5226,2936,194
+2568,mexican carnitas taco,49388,14621,5685,296
+2569,grilled pork taco,23783,7685,3644,340
+2570,chicken teriyaki poke bowl,34038,9221,4323,333
+2571,poke ayam teriyaki,35323,13401,8548,761
+2572,mangkuk poke ayam,36673,9264,2856,119
+2573,teriyaki chicken bowl,4623,1134,430,40
+2574,ayam teriyaki rice bowl,46855,8447,5276,440
+2575,poke bowl chicken,45145,13106,4825,237
+2576,ayam saus teriyaki poke,20474,4035,1340,115
+2577,poke ayam jepang,47613,13424,4746,276
+2578,bánh poke gà sốt teriyaki,9953,3095,1853,162
+2579,chicken poke rice,37710,5768,3230,218
+2580,poke bowl ayam teriyaki,4181,1449,903,38
+2581,poke teriyaki classic,9081,2746,1444,54
+2582,chirashi don,3405,1088,652,49
+2583,chirashi donburi,48010,10163,2787,104
+2584,nasi sashimi mangkuk,33511,13369,4535,409
+2585,chirashi bowl,9709,2770,1594,155
+2586,chirashi sushi rice,21763,5145,2409,199
+2587,assorted sashimi rice,9285,2519,1562,121
+2588,mangkuk chirashi,11123,2833,1661,110
+2589,cơm sashimi trộn,30970,5302,1760,164
+2590,rice bowl chirashi,23475,4204,2499,245
+2591,sushi bowl,30941,11420,5779,433
+2592,japanese sashimi bowl,17857,3542,1349,62
+2593,donburi chirashi,43615,11272,6185,524
+2594,rice sashimi mix,44071,13352,3833,204
+2595,key lime pie,11214,3300,1443,60
+2596,pai limau nipis,46998,17796,10274,991
+2597,pie jeruk nipis,44505,12342,6854,241
+2598,lime dessert pie,18788,4042,2176,90
+2599,key lime tart,4626,911,326,19
+2600,pai manis lime,10539,2418,1049,50
+2601,bánh chanh key lime,34288,12858,8913,540
+2602,sweet lime pie,41141,7929,3168,285
+2603,keylime pie classic,48358,11470,5876,419
+2604,pai jeruk manis,8932,1769,633,40
+2605,key lime custard pie,47348,15680,4363,247
+2606,tart limau,10380,2905,1157,50
+2607,lentil & beetroot salad,24053,4025,1216,66
+2608,salad lentil beet,15353,3584,2440,178
+2609,salad kacang dan bit,26077,9392,5950,387
+2610,beet lentil salad,15917,3984,1878,126
+2611,salad sehat bit,24145,4282,2390,131
+2612,salad vegan beet,15595,3842,1844,82
+2613,salad sayur bit dan lentil,32587,7995,3971,291
+2614,gỏi củ dền đậu lăng,9058,1368,711,56
+2615,beet salad mix,3205,978,323,21
+2616,kacang bit salad,42240,10047,4385,334
+2617,healthy lentil salad,16111,4248,1381,76
+2618,salad segar lentil beet,14239,3491,2103,131
+2619,roast beef & cheddar sandwich,7758,2178,1462,79
+2620,sandwich daging panggang keju,15026,3364,1634,81
+2621,sandwich roast beef,12305,3557,1713,118
+2622,roti isi beef cheddar,42113,6530,2147,168
+2623,sandwich keju dan daging,540,133,68,5
+2624,bánh mì thịt nướng phô mai,14815,4109,1559,121
+2625,cheddar roast sandwich,2403,364,164,6
+2626,sandwich sapi bakar keju,34792,6001,3967,277
+2627,grilled roast beef sandwich,23161,5078,2564,250
+2628,sandwich cheddar panggang,8495,3188,1113,95
+2629,savory bacon & egg waffle,32415,10218,3085,176
+2630,waffle bacon telur,4842,1782,617,45
+2631,waffle gurih,49349,8708,4857,336
+2632,waffle savory,35226,6034,3761,353
+2633,roti waffle isi bacon dan telur,41600,13660,9044,335
+2634,waffle sarapan,4551,909,593,57
+2635,waffle asin,2315,649,287,18
+2636,bánh waffle thịt xông khói trứng,25696,8551,2596,238
+2637,savory breakfast waffle,47417,10582,3008,113
+2638,waffle isi telur bacon,23335,5577,1583,92
+2639,bacon egg waffle meal,3729,1243,426,22
+2640,baked beans,18637,6448,2954,152
+2641,kacang panggang,48379,16999,9004,679
+2642,kacang rebus tomat,20808,7112,2520,142
+2643,baked beans classic,42465,12214,4120,174
+2644,kacang tomat,40310,13622,8540,461
+2645,beans in sauce,29314,10230,6647,436
+2646,baked bean side,37565,10765,3172,157
+2647,đậu sốt cà,44690,12315,6345,254
+2648,beans breakfast style,23894,6949,3367,255
+2649,tomato beans,30930,8372,4650,441
+2650,side baked beans,28975,6385,3048,226
+2651,baked beans manis,9362,2516,1472,87
+2652,canned beans warm,37691,12113,4182,211
+2653,brisket pho,3987,1388,359,34
+2654,pho brisket,29272,11231,3071,229
+2655,pho daging brisket,39422,12554,7393,401
+2656,vietnamese brisket noodle soup,22387,8357,2505,220
+2657,sup pho brisket,15002,2692,1863,172
+2658,bánh phở bò nạm,15806,5505,2967,286
+2659,pho sapi brisket,38587,9067,2809,135
+2660,brisket beef pho,31041,7563,2251,177
+2661,beef noodle pho brisket,8348,1422,915,69
+2662,pho kuah daging,35697,12402,4591,289
+2663,brisket pho bowl,9161,2407,1247,77
+2664,pho klasik brisket,14867,5380,3203,298
+2665,key lime pie,17187,5947,3509,320
+2666,pai limau nipis,12251,4169,1523,117
+2667,pie jeruk nipis,29085,7746,5053,437
+2668,lime dessert pie,15064,2849,1893,113
+2669,key lime tart,853,245,143,5
+2670,pai manis lime,40413,6393,4294,226
+2671,bánh chanh key lime,9235,3056,1907,120
+2672,sweet lime pie,5798,2198,997,63
+2673,keylime pie classic,9056,1937,1107,49
+2674,pai jeruk manis,13643,2904,932,68
+2675,key lime custard pie,9620,2475,1577,132
+2676,tart limau,9802,1802,476,34
+2677,lentil & beetroot salad,25187,7428,3046,256
+2678,salad lentil beet,13170,4855,1880,94
+2679,salad kacang dan bit,19287,5092,1404,121
+2680,beet lentil salad,35250,6866,3969,234
+2681,salad sehat bit,4945,1084,670,50
+2682,salad vegan beet,30029,11271,5940,334
+2683,salad sayur bit dan lentil,11475,3936,1681,82
+2684,gỏi củ dền đậu lăng,34193,13663,5953,399
+2685,beet salad mix,35928,8586,2923,258
+2686,kacang bit salad,4823,999,414,18
+2687,healthy lentil salad,22974,7955,3274,163
+2688,salad segar lentil beet,38830,13047,5480,415
+2689,roast beef & cheddar sandwich,48614,7803,5295,372
+2690,sandwich daging panggang keju,47032,9683,6092,342
+2691,sandwich roast beef,30869,5973,2166,115
+2692,roti isi beef cheddar,46660,13912,8444,763
+2693,sandwich keju dan daging,29348,6794,3640,225
+2694,bánh mì thịt nướng phô mai,46273,14819,5347,240
+2695,cheddar roast sandwich,45482,8902,5524,312
+2696,sandwich sapi bakar keju,39546,6240,1907,98
+2697,grilled roast beef sandwich,13160,2581,1581,86
+2698,sandwich cheddar panggang,3962,1228,730,53
+2699,bbq tempeh salad,24419,7787,3341,260
+2700,salad tempeh bbq,46215,17111,4395,250
+2701,salad vegetarian tempeh,37768,6981,2828,220
+2702,tempe bbq salad,6022,1935,498,34
+2703,grilled tempe salad,12694,4219,2338,106
+2704,salad tempeh panggang,4631,1439,993,34
+2705,gỏi tempe nướng BBQ,21495,4436,2544,113
+2706,vegan bbq salad,14050,3917,2167,186
+2707,salad protein nabati,19287,6883,3709,348
+2708,bbq soy tempeh salad,30940,8304,5481,346
+2709,salad sehat tempeh,18574,5903,1734,171
+2710,tempe salad mix,19630,4415,2483,241
+2711,chicken dumplings (8),39689,13016,4625,185
+2712,dumpling ayam 8 pcs,14975,3518,1983,83
+2713,pangsit ayam,40852,6518,4222,218
+2714,chicken gyoza,9512,2913,1834,71
+2715,dumpling isi ayam,30267,11454,7979,736
+2716,dumpling ayam kukus,962,210,65,5
+2717,bánh bao gà hấp,26452,4114,2085,149
+2718,8 chicken dumplings,41197,12345,4000,398
+2719,chicken wonton,26653,9162,3411,195
+2720,pangsit ayam goreng,35170,10346,5765,241
+2721,ayam dumpling kombo,11235,1751,745,43
+2722,dumpling isi daging ayam,21660,5825,2540,185
+2723,classic belgian waffle,29244,4517,1255,94
+2724,waffle belgian klasik,28501,7790,2945,113
+2725,belgian waffle,46376,11852,3177,266
+2726,waffle klasik,25000,8425,4585,358
+2727,waffle belgia,21197,3669,2430,229
+2728,sweet belgian waffle,13898,3407,2088,159
+2729,bánh waffle Bỉ,39122,6791,1725,111
+2730,belgian breakfast waffle,19227,4913,2612,169
+2731,waffle lembut belgia,44870,16545,6087,588
+2732,crispy belgian waffle,40779,7048,4920,419
+2733,breakfast waffle,17265,5500,2786,211
+2734,waffle manis belgia,4144,1571,575,43
+2735,crepe ice cream roll,10828,1935,605,57
+2736,gulungan es krim crepe,46951,9414,3297,300
+2737,es krim lipat crepe,24725,9741,2946,110
+2738,rolled ice cream crepe,44602,8136,3990,286
+2739,crepe roll dessert,32199,8456,5813,304
+2740,bánh crepe cuộn kem,25688,5158,2322,92
+2741,crepe dingin isi es krim,16383,4891,3314,274
+2742,rolled dessert crepe,14097,3815,1715,103
+2743,ice cream crepe,37274,14371,8531,404
+2744,sweet crepe roll,8247,1440,752,28
+2745,crepe beku,35874,8846,4067,246
+2746,dessert lipat es krim,1301,262,129,10
+2747,honey mustard dressing,41278,14358,8240,540
+2748,saus madu mustard,586,211,103,4
+2749,honey mustard sauce,49399,16326,11157,470
+2750,honey mustard,18054,3414,1937,82
+2751,dressing madu mustard,24304,9504,5977,332
+2752,saus salad manis pedas,35774,13959,6940,340
+2753,nước sốt mật ong mù tạt,2618,515,343,32
+2754,saus mustard manis,33313,12046,3514,203
+2755,honey mustard dip,32503,9682,4266,162
+2756,mustard dressing,36648,11669,5253,340
+2757,madu mustard salad,33755,8293,3146,311
+2758,lemon iced tea,45007,17926,7825,645
+2759,teh lemon dingin,40560,10529,2924,134
+2760,es teh lemon,24828,6377,2570,106
+2761,iced lemon tea,14240,2606,1543,83
+2762,lemon tea cold,11313,4126,1957,188
+2763,minuman teh lemon,46366,8524,5721,202
+2764,teh rasa lemon,15134,4046,2695,202
+2765,trà chanh đá,42415,8544,2466,174
+2766,lemon tea fresh,23070,8498,3877,201
+2767,cold lemon tea,18770,6603,1767,73
+2768,teh lemon es,14437,4997,2976,128
+2769,lemon iced beverage,14114,3269,1058,78
+2770,refreshing lemon tea,24255,8489,2870,190
+2771,nachos with salsa,19847,4551,2781,207
+2772,nachos salsa,13362,4257,1096,41
+2773,tortilla chips salsa,22994,8750,2683,200
+2774,keripik nacho dengan salsa,9868,2404,1264,96
+2775,nacho snack,32313,7615,4932,329
+2776,salsa and chips,41699,15871,7456,717
+2777,bánh ngô với sốt salsa,24289,5272,3293,252
+2778,salsa dipping nachos,6341,2209,1058,36
+2779,nachos classic,40331,14452,9969,975
+2780,spicy nacho dip,19350,4153,2173,75
+2781,mexican chips salsa,22318,6213,3448,301
+2782,side nacho salsa,10690,2608,943,64
+2783,nacho sauce dip,28481,5655,1727,78
+2784,potato chips,3177,1087,459,31
+2785,keripik kentang,18405,5359,2328,188
+2786,potato crisps,1059,258,96,9
+2787,kentang renyah,11114,2709,1044,48
+2788,kentang goreng kering,1221,306,141,4
+2789,snack chips kentang,35967,10541,6108,224
+2790,khoai tây chiên giòn,24190,9095,4793,411
+2791,crispy potato chips,31215,5840,3970,219
+2792,kentang slice snack,16307,3096,1753,173
+2793,fried potato chips,16332,2485,633,39
+2794,potato snack pack,11806,2714,1852,121
+2795,keripik asin kentang,25971,5231,3000,226
+2796,spicy pork rice bowl,13060,3677,1117,97
+2797,nasi babi pedas,43900,10907,5703,340
+2798,mangkuk nasi babi pedas,15506,5325,2275,135
+2799,spicy pork bowl,45661,7727,3939,152
+2800,rice bowl pork spicy,14879,5908,2788,121
+2801,babi pedas rice,45393,8154,2621,207
+2802,pork stir-fry rice bowl,37171,12991,5670,269
+2803,cơm thịt heo cay,10936,2789,822,55
+2804,spicy grilled pork rice,35463,6137,3284,233
+2805,pork don pedas,47498,14871,8613,620
+2806,mangkuk daging babi pedas,33212,12273,3530,284
+2807,steak burrito,23640,5669,2062,189
+2808,burrito steak,20874,6909,2072,88
+2809,burrito daging panggang,42144,11736,4744,437
+2810,burrito isi steak,39830,13780,8669,824
+2811,steak wrap,21242,7395,2979,189
+2812,bánh burrito bò bít tết,36041,9881,6325,525
+2813,grilled beef burrito,9603,1855,536,23
+2814,steak beef wrap,43202,7189,4204,217
+2815,burrito sapi panggang,24751,7705,2306,159
+2816,steak meat burrito,20072,6907,2218,77
+2817,burrito panggang daging,10202,4015,1956,150
+2818,steak burrito klasik,25903,7116,4199,241
+2819,al pastor tacos,13387,4113,2394,163
+2820,taco al pastor,7119,1897,1117,94
+2821,pork taco,22049,3724,1322,88
+2822,taco babi panggang,40784,12529,8340,667
+2823,taco babi manis,24468,3814,1431,98
+2824,grilled pork taco,19378,7029,4627,338
+2825,taco daging asap,24045,6315,3217,141
+2826,taco khas meksiko,46441,7577,3621,189
+2827,alpastor tacos,14633,5299,2669,189
+2828,gambas al ajillo (garlic shrimp),12054,2591,703,52
+2829,gambas garlic,36621,7961,5228,261
+2830,udang bawang putih,10130,3781,1142,62
+2831,garlic shrimp,28690,5867,1621,159
+2832,spanish garlic shrimp,47511,18400,10676,484
+2833,udang saus bawang,27602,4580,1314,120
+2834,gambas goreng,45294,15151,10093,437
+2835,spicy garlic prawns,26849,6613,2007,155
+2836,udang panggang bawang,20554,6630,3432,334
+2837,garlic mashed potatoes,11240,3723,1756,87
+2838,mashed garlic potatoes,4962,785,322,18
+2839,kentang tumbuk bawang,48215,18438,12222,976
+2840,mashed potato garlic,13676,5139,2590,244
+2841,kentang lembut,17407,5842,3263,166
+2842,garlic mash,37507,9404,3378,171
+2843,creamy mashed potatoes,7639,3012,1300,114
+2844,kentang halus bawang,6372,2201,1208,84
+2845,mango chutney,49022,18199,11972,1089
+2846,chutney mangga,16776,3971,2560,142
+2847,saus mangga,19228,4884,2215,206
+2848,sambal manis mangga,34907,6185,2336,175
+2849,mango dip,1475,567,391,29
+2850,mango sauce,31202,7812,2288,133
+2851,chutney buah,34598,13722,4757,338
+2852,chutney manis,38695,15173,8443,782
+2853,pancit bihon with shrimp,40179,11448,5388,265
+2854,pancit bihon udang,15319,3395,1862,127
+2855,mie bihon udang,31950,10078,6826,535
+2856,bihon shrimp,35600,12316,7332,330
+2857,filipino shrimp noodles,46672,9654,4243,394
+2858,pancit udang,30909,5693,3003,137
+2859,pancit goreng udang,34861,13909,9136,512
+2860,pancit seafood,38529,13063,7108,272
+2861,bihon mie,45041,17677,12103,667
+2862,pepperoni pizza slice,48849,17101,6308,375
+2863,pepperoni pizza,6127,1015,331,19
+2864,pizza daging,39290,10255,3257,134
+2865,pizza slice,45425,17019,7364,539
+2866,pepperoni slice,27695,8175,4011,244
+2867,slice pizza daging,36562,11724,8093,277
+2868,pizza topping pepperoni,30391,10872,5029,430
+2869,pizza potong pepperoni,32708,9833,6806,293
+2870,root beer float,18868,6429,4193,186
+2871,minuman root beer,31716,5197,2918,216
+2872,root beer dan es krim,25100,10024,3460,130
+2873,float soda,31153,8886,6022,280
+2874,soda ice cream float,43978,8000,3962,215
+2875,rootbeer float,47379,12255,5203,409
+2876,root beer dessert,24356,6545,3421,162
+2877,soda vanilla float,11705,3813,1704,77
+2878,spicy shrimp tacos,41914,7752,4295,299
+2879,shrimp taco pedas,37825,8333,5025,224
+2880,taco udang pedas,27255,6597,4067,381
+2881,spicy taco udang,45150,8855,4073,144
+2882,hot shrimp taco,2198,341,197,13
+2883,taco seafood pedas,12306,3033,1878,131
+2884,taco udang,2764,512,269,12
+2885,shrimp tacos,6804,1240,441,16
+2886,udang pedas wrap,42707,11535,7936,349
+2887,vegetable korma,20834,4271,1792,163
+2888,kari sayur,23532,8204,5612,335
+2889,veggie korma,32675,7778,3742,359
+2890,korma vegetarian,44563,13049,4425,230
+2891,kari india sayur,24118,5836,3501,191
+2892,vegetable curry,28331,9613,5572,410
+2893,korma nabati,4791,1498,640,51
+2894,korma sayuran,28487,5290,2933,223
+2895,kari creamy,42637,8249,3279,236
+2896,vietnamese pho with beef,38785,14906,5971,414
+2897,pho bo,37942,12152,3722,150
+2898,pho daging,33607,8571,3532,191
+2899,beef pho,9932,3037,1110,51
+2900,sup pho vietnam,32875,12480,8328,721
+2901,pho sapi,47774,15468,6387,530
+2902,pho vietnamese beef,19564,5728,1724,143
+2903,beef noodle soup,36178,13081,6267,488
+2904,pho vietnam klasik,33289,11801,5570,549
+2905,strawberry protein smoothie,16038,5841,3878,360
+2906,smoothie stroberi protein,31155,6642,2503,223
+2907,protein shake strawberry,21965,4128,2467,194
+2908,stroberi smoothie,24682,5399,1446,84
+2909,minuman sehat stroberi,30230,10322,5929,532
+2910,protein drink,17049,2860,1001,65
+2911,strawberry shake,32556,8242,4594,258
+2912,smoothie buah protein,37050,9267,5494,544
+2913,healthy berry smoothie,46974,10675,3188,251
+2914,spicy wontons in chili oil,30179,7116,3400,116
+2915,wonton pedas,48188,18621,9100,688
+2916,chili oil dumplings,49986,13983,5020,239
+2917,wonton spicy sauce,24723,6552,3042,237
+2918,wonton chili,28942,11494,3509,214
+2919,dumpling chili oil,6969,1422,847,46
+2920,wonton sambal,30896,12280,8317,588
+2921,spicy chinese dumplings,47184,8602,3447,154
+2922,wonton saus pedas,6185,1142,591,25
+2923,seasoned curly fries,4590,958,336,17
+2924,curly fries,38078,12628,4861,480
+2925,kentang curly,23730,5373,3340,169
+2926,fries spiral,35517,9782,2662,191
+2927,kentang goreng bumbu,29151,8917,4548,199
+2928,spiral fries,32940,8027,3884,291
+2929,bumbu kentang goreng,17052,3583,2233,137
+2930,wavy fries,6753,2596,1093,57
+2931,kentang renyah spiral,29958,8374,4607,441
+2932,greek salad with feta,41222,6212,3802,286
+2933,greek salad,15678,3261,1955,74
+2934,salad feta,11916,2355,1032,46
+2935,salad yunani,8695,1617,1044,99
+2936,salad mediterranean,22336,7692,4320,282
+2937,salad keju feta,25786,7961,3822,290
+2938,feta veggie salad,34525,8489,5924,530
+2939,gỏi hy lạp,32531,8464,4272,311
+2940,salad fresh feta,12199,2905,893,76
+2941,granola yogurt parfait,32345,8345,3987,231
+2942,parfait granola yogurt,13888,4371,1535,107
+2943,yogurt dengan granola,8890,1864,1071,63
+2944,granola bowl,25144,9675,4225,165
+2945,breakfast parfait,16709,5319,1683,61
+2946,healthy yogurt bowl,43868,16992,4462,319
+2947,granola fruit yogurt,2606,653,218,14
+2948,greek yogurt granola,17364,3066,1733,94
+2949,yogurt topping granola,6574,2410,1412,88
+2950,freshly brewed coffee,23743,7552,2889,257
+2951,kopi seduh,37150,10529,2634,121
+2952,hot coffee,27004,8302,2747,259
+2953,brewed coffee,10750,4045,1872,158
+2954,kopi panas,21732,5371,2879,113
+2955,kopi segar,43551,11850,4614,343
+2956,fresh coffee cup,8415,2387,988,34
+2957,black coffee,31395,10070,4210,220
+2958,kopi klasik,36509,6787,3328,314
+2959,chicken karaage ramen,45411,15131,9116,450
+2960,ramen ayam goreng,21102,5348,3477,179
+2961,ramen karaage,24123,9487,4183,379
+2962,ayam goreng jepang ramen,22511,7824,2685,153
+2963,karaage noodle bowl,12349,2189,720,63
+2964,mie ramen ayam,49085,17959,9471,561
+2965,chicken fried ramen,18035,4715,1691,146
+2966,ramen ayam jepang,32995,8951,4251,193
+2967,ramen ayam crispy,48453,8013,4990,182
+2968,cappuccino,6690,1427,596,44
+2969,hot cappuccino,4403,996,359,14
+2970,coffee foam,23884,3966,2139,196
+2971,kopi cappuccino,15249,5877,2526,125
+2972,cappuccino klasik,22910,6056,1979,87
+2973,espresso milk foam,29613,8364,3290,121
+2974,coffee capp,11261,1979,1011,97
+2975,cappuccino cup,7522,2620,948,50
+2976,beef ramen bowl,5959,1469,691,32
+2977,ramen sapi,28449,9239,2822,144
+2978,mie ramen daging,28185,6408,1666,138
+2979,beef noodle bowl,48752,12851,8554,719
+2980,ramen daging,35489,13961,4594,449
+2981,mie sapi ramen,32451,10177,4547,213
+2982,ramen beef bowl,25811,8626,2378,154
+2983,beef japanese noodle,10652,2281,1085,98
+2984,sup mie sapi,16071,3914,2146,173
+2985,baba ghanoush with pita,43948,14249,7820,326
+2986,baba ghanoush,24384,7701,4333,293
+2987,eggplant dip,30611,9850,5458,423
+2988,baba pita,36206,7467,2501,206
+2989,arabic dip,26761,7868,2157,121
+2990,baba ganoush,14154,4140,1538,86
+2991,terong tumbuk,22937,7832,2524,137
+2992,bánh mì kèm baba,35124,9016,5167,220
+2993,roasted eggplant spread,16418,2700,1096,79
+2994,baba classic dip,5223,1805,1045,43
+2995,tuna melt,914,185,106,4
+2996,sandwich tuna,14910,5332,3431,239
+2997,tuna cheese melt,29606,10328,5275,287
+2998,grilled tuna sandwich,40241,8078,4074,388
+2999,roti isi tuna keju,21847,6366,2571,181
+3000,hot tuna melt,25305,6133,1596,55
+3001,bánh mì cá ngừ phô mai,30115,6913,4720,278
+3002,tuna toastie,36002,9771,6239,440
+3003,thai fish cakes,49431,9852,3301,268
+3004,fish cake thai,31961,5857,2558,105
+3005,fish patty,11634,2003,1041,56
+3006,kue ikan thailand,47687,15701,7864,457
+3007,tod mun pla,25294,9349,5335,352
+3008,thai seafood cake,27781,6913,3849,373
+3009,bánh cá thái,31254,7191,2571,234
+3010,fish fritters,16087,2429,1475,146
+3011,ikan goreng thai,29120,10228,5397,428
+3012,seaweed salad,25183,9913,2614,196
+3013,salad rumput laut,43619,8901,3752,357
+3014,seaweed bowl,47336,13650,4099,267
+3015,salad wakame,15561,4386,3001,194
+3016,japanese seaweed salad,26480,4910,1417,100
+3017,salad laut,18476,3583,2216,80
+3018,gỏi rong biển,36944,11478,6891,477
+3019,seaweed appetizer,41363,10628,3633,253
+3020,seafood paella,18044,6826,3883,270
+3021,paella seafood,8967,3288,2243,141
+3022,nasi paella laut,30047,8484,4233,318
+3023,paella mix seafood,37914,8588,4646,409
+3024,spanish seafood rice,42222,8165,3626,352
+3025,paella udang,46366,9402,3408,159
+3026,cơm hải sản tây ban nha,34594,7620,2301,140
+3027,paella klasik,1600,454,257,16
+3028,pad thai with chicken,36823,12859,8103,801
+3029,pad thai ayam,21987,8772,5167,413
+3030,chicken pad thai,812,237,155,10
+3031,padthai with meat,44546,8687,2512,235
+3032,mie pad thai ayam,49802,13370,8310,750
+3033,thai noodle chicken,36152,10147,5835,536
+3034,phở xào kiểu Thái gà,43198,7834,2992,236
+3035,pad thai goreng ayam,6910,1825,1099,48
+3036,olive mix,12425,3347,905,54
+3037,campuran zaitun,37878,14552,7041,306
+3038,mixed olives,46336,18485,8498,615
+3039,olive snack,25093,9084,3750,348
+3040,salad olive,7234,2867,726,53
+3041,zaitun mix,32641,11103,5212,213
+3042,snack zaitun,19847,6588,3785,135
+3043,mixed olive bowl,29441,5747,3484,174
+3044,assorted olives,9591,3303,2119,166
+3045,new york style dog,35747,10926,4752,211
+3046,new york hotdog,1100,225,89,4
+3047,hotdog ny,35705,8857,3439,124
+3048,sosis gaya new york,7751,2415,1007,40
+3049,hot dog classic,41236,11827,4913,344
+3050,nyc street dog,21216,3909,2126,102
+3051,hotdog original,45763,12726,5015,403
+3052,bánh xúc xích kiểu Mỹ,13913,2143,825,78
+3053,grilled veggie panini,2098,430,293,23
+3054,panini sayur bakar,31752,5123,2305,110
+3055,veggie panini,12079,2312,1195,75
+3056,grilled vegetable sandwich,42751,11918,5043,427
+3057,sandwich sayur,30622,7732,2308,134
+3058,bánh mì nướng rau củ,49719,9990,5526,285
+3059,grilled panini veggie,49570,18570,7678,676
+3060,roasted veggie panini,35310,10375,4662,430
+3061,chorizo & egg breakfast taco,20629,7740,5359,513
+3062,chorizo taco,30290,8881,5206,483
+3063,egg taco,37255,8168,3990,222
+3064,taco sarapan,5792,1404,643,46
+3065,breakfast wrap,39348,10606,5459,388
+3066,taco isi chorizo,45870,14476,4337,192
+3067,spicy breakfast taco,2493,855,577,37
+3068,taco chorizo telur,29607,9082,5675,548
+3069,chorizo egg wrap,36755,11177,5787,542
+3070,buttermilk pancakes,38165,11757,7065,500
+3071,pancake buttermilk,6904,2506,1705,108
+3072,fluffy pancakes,30028,9620,2651,145
+3073,pancake lembut,38051,11629,7041,672
+3074,buttermilk breakfast,43596,13378,6374,477
+3075,pancake klasik,27713,4296,2545,231
+3076,bánh kếp bơ sữa,38393,10553,3545,126
+3077,sweet breakfast pancake,35521,12510,3607,165
+3078,4-piece chicken meal,23073,7542,3002,290
+3079,4pcs ayam,39577,15194,6097,256
+3080,ayam goreng 4 potong,33321,7534,4497,251
+3081,chicken box meal,38178,12300,5992,237
+3082,ayam 4 pcs,44624,11666,4028,202
+3083,fried chicken combo,28306,9967,6556,484
+3084,4pc chicken set,21711,4342,2308,230
+3085,makanan ayam lengkap,20259,5118,3423,324
+3086,avocado kale salad,45879,9943,5199,314
+3087,salad alpukat kale,32234,7027,2563,196
+3088,salad sehat,48906,11369,3888,136
+3089,avocado salad,45142,14821,8207,674
+3090,kale salad,31284,7758,5135,301
+3091,green bowl,2729,538,349,16
+3092,salad sayuran hijau,34449,8761,2667,169
+3093,gỏi bơ cải xoăn,7752,1868,1010,35
+3094,vegan salad bowl,13534,4992,2865,143
+3095,classic buffalo wings (6 pcs),29751,11665,3682,213
+3096,buffalo wings,38156,9121,2854,172
+3097,sayap pedas,19635,3280,1064,92
+3098,hot wings,17536,4436,2303,138
+3099,wings 6 pcs,25973,9562,6117,522
+3100,buffalo chicken wings,42809,7981,2800,188
+3101,wings klasik,24927,6369,4222,302
+3102,spicy chicken wings,30401,9942,6901,627
+3103,ayam goreng buffalo,27677,6652,2788,116
+3104,filet mignon,23144,6538,3511,262
+3105,steak filet,18167,5927,2618,161
+3106,tenderloin steak,46677,14768,6068,551
+3107,daging sapi premium,26675,5823,3524,131
+3108,filet sapi,46612,12582,3637,132
+3109,grilled filet,21004,3738,1547,71
+3110,bít tết thăn nội,21879,8424,2567,244
+3111,steak mewah,28741,6850,2033,125
+3112,filet steak,41983,10734,4200,376
+3113,green tea,43662,12471,8012,494
+3114,teh hijau,48119,11579,7930,733
+3115,iced green tea,29651,4853,3248,192
+3116,hot green tea,26267,7011,4385,346
+3117,matcha tea,46273,7904,4753,393
+3118,teh dingin hijau,33952,7400,4231,373
+3119,trà xanh,32210,6553,3174,245
+3120,teh hijau klasik,5716,901,596,22
+3121,green tea cup,31778,6136,1874,140
+3122,pork & chive dumplings (6),37988,12630,4014,268
+3123,dumpling babi daun kucai,19219,2964,1335,106
+3124,pork chive dumplings,8513,1708,994,89
+3125,pangsit babi kucai,2509,786,339,19
+3126,dumpling 6 pcs,19934,5503,1396,93
+3127,dumpling isi babi,40298,14696,8370,559
+3128,bánh há cảo heo hẹ,24362,6302,1876,157
+3129,dumpling goreng babi,23394,5812,3054,158
+3130,seafood laksa noodles,22017,8051,2229,83
+3131,laksa seafood,4461,683,435,26
+3132,laksa mie,22150,5444,2829,96
+3133,spicy laksa,11904,4147,1682,160
+3134,mie kari seafood,27453,8020,4517,233
+3135,laksa udang,37925,11101,4478,297
+3136,seafood noodle soup,36728,11179,5273,415
+3137,mie kuah laksa,48478,15649,8247,525
+3138,seaweed salad,44834,17197,10523,675
+3139,salad rumput laut,10636,2391,1146,91
+3140,seaweed bowl,39243,6190,3689,251
+3141,salad wakame,47178,11604,6983,563
+3142,japanese seaweed,16358,5194,1520,120
+3143,gỏi rong biển,9663,2522,650,26
+3144,salad laut,18996,4771,3078,307
+3145,wakame appetizer,41826,15079,6134,498
+3146,sesame tofu bowl,30296,8863,3561,169
+3147,tofu wijen,46618,8417,5327,514
+3148,tofu rice bowl,43622,12098,6872,412
+3149,mangkuk tofu,15504,3401,1136,59
+3150,sesame tofu rice,35716,7540,4551,282
+3151,tofu vegetarian bowl,44906,17308,7847,389
+3152,tofu salad bowl,25050,7458,2774,183
+3153,tofu grain bowl,44114,12983,4963,471
+3154,shawarma fries,21940,8049,2158,132
+3155,kentang goreng shawarma,36631,12229,8154,559
+3156,fries topping shawarma,9653,2787,1375,65
+3157,shawarma loaded fries,32333,8416,5330,329
+3158,shawarma snack,28902,4559,2313,228
+3159,fries daging shawarma,40943,14200,8802,394
+3160,shawarma kentang,2137,692,313,13
+3161,loaded meat fries,5147,1142,402,31
+3162,tofu poke bowl,35706,12711,6755,571
+3163,poke tofu,31175,6445,1624,71
+3164,mangkuk poke tofu,28014,9782,2979,161
+3165,vegan poke,16857,4216,2324,166
+3166,tofu rice bowl,19087,5314,2293,192
+3167,tofu salad bowl,19287,7524,3280,159
+3168,poke vegetarian,33077,10064,4108,166
+3169,tofu bowl,42533,9261,6169,320
+3170,sparkling water,29947,6893,3947,289
+3171,air soda,39604,9771,2930,276
+3172,air berkarbonasi,29054,11110,6090,309
+3173,sparkling drink,29835,5485,3040,193
+3174,soda water,13218,4296,1581,101
+3175,minuman sparkling,13725,3485,2063,170
+3176,nước có ga,21964,4405,2303,104
+3177,soda plain,35215,9214,2884,150
+3178,smoked turkey leg,30502,4886,2867,236
+3179,paha kalkun asap,38397,8575,2264,116
+3180,turkey leg,37723,13575,7196,719
+3181,smoked leg turkey,37410,7518,4529,340
+3182,daging kalkun asap,17149,6002,2009,84
+3183,drumstick kalkun,15674,3301,2146,146
+3184,smoked poultry leg,38455,11730,7510,491
+3185,kalkun panggang,33175,6843,3375,226
+3186,paneer tikka masala,7434,1313,690,38
+3187,kari paneer,24519,5371,2846,242
+3188,paneer masala,7942,1427,784,28
+3189,paneer curry,26643,5924,1578,137
+3190,indian cheese curry,30710,5265,2890,143
+3191,paneer pedas,43553,16633,5843,488
+3192,paneer tikka,45437,10213,6952,373
+3193,masala keju,39058,13119,4012,359
+3194,horchata,9454,2973,1388,72
+3195,susu horchata,15769,3316,1222,114
+3196,cinnamon rice drink,25154,8513,3973,306
+3197,horchata klasik,1294,485,250,10
+3198,minuman manis kayu manis,33423,6996,2224,209
+3199,horchata dingin,26273,5926,3124,267
+3200,horchata milk,5782,1480,385,34
+3201,agua de horchata,27441,10161,2971,144
+3202,gyoza (5 pcs),33793,9925,4488,308
+3203,gyoza ayam,49437,13153,4021,237
+3204,dumpling gyoza,35353,9228,3657,318
+3205,pangsit jepang,49604,8154,5376,531
+3206,gyoza goreng,26028,4370,1889,153
+3207,gyoza 5pcs,39766,8218,3061,145
+3208,gyoza isi daging,37035,11437,5815,527
+3209,japanese dumpling,12136,4633,1184,46
+3210,grilled chicken rice bowl,39105,9157,4984,370
+3211,chicken rice bowl,2786,512,173,9
+3212,mangkuk ayam panggang,5386,2125,1315,124
+3213,ayam grilled rice,35987,8652,4157,351
+3214,rice bowl ayam,47735,14248,4728,292
+3215,ayam panggang dengan nasi,5465,845,506,40
+3216,grilled chicken bowl,47016,14065,4027,145
+3217,rice chicken grill,39040,7588,4307,429
+3218,garlic sauce,17170,5149,2444,168
+3219,saus bawang putih,31429,11925,6542,401
+3220,garlic dip,7717,1196,428,14
+3221,sambal garlic,2492,735,314,11
+3222,garlic mayo,38049,6040,2206,146
+3223,saus putih bawang,42809,12140,4963,231
+3224,garlic aioli,12173,2249,637,47
+3225,garlic condiment,7011,2609,684,26
+3226,basmati rice,48282,12120,4924,220
+3227,nasi basmati,15700,5451,1486,111
+3228,aromatic rice,1182,195,101,6
+3229,beras india,48194,12872,5333,205
+3230,indian rice,7361,1571,508,30
+3231,steamed basmati,35865,9791,2511,121
+3232,basmati plain,32482,6386,3231,220
+3233,nasi wangi,27689,6804,3100,224
+3234,acai bowl,14844,4730,2938,206
+3235,smoothie acai,16244,3181,1573,93
+3236,acai fruit bowl,15305,2438,1435,108
+3237,mangkuk buah acai,5991,1571,1036,75
+3238,acai blend,49771,9624,4103,219
+3239,acai mix bowl,37968,7689,2279,113
+3240,healthy berry bowl,16705,6329,2055,166
+3241,acai granola bowl,2952,1149,413,38
+3242,tofu poke bowl,39881,6097,3404,193
+3243,poke tofu,24325,8242,2612,247
+3244,tofu rice bowl,4690,1546,461,34
+3245,vegan poke,35145,9023,4571,391
+3246,tofu salad bowl,13547,4329,1770,100
+3247,tofu grain bowl,19905,3284,1678,58
+3248,tofu bowl,6929,2409,901,81
+3249,mangkuk tofu,6853,1336,821,46
+3250,sparkling water,27321,5129,3385,279
+3251,air soda,16419,4539,2295,186
+3252,soda water,39316,11442,5976,240
+3253,carbonated water,25255,5790,2712,171
+3254,sparkling drink,49975,12722,4404,353
+3255,air berkarbonasi,14423,4899,2667,251
+3256,water with gas,17207,3428,2168,187
+3257,sparkling mineral,35269,11401,7563,645
+3258,smoked turkey leg,21226,3880,2435,142
+3259,turkey leg,8235,3011,814,53
+3260,kalkun asap,15918,3310,957,93
+3261,turkey drumstick,38492,6449,3034,159
+3262,smoked drumstick,34510,5436,2906,219
+3263,kalkun panggang,3014,576,302,28
+3264,paha kalkun,45727,10292,3626,353
+3265,turkey meat leg,16680,2662,1591,148
+3266,paneer tikka masala,17186,3738,2534,130
+3267,paneer masala,3733,799,282,11
+3268,paneer curry,16015,4686,2250,151
+3269,indian paneer,23750,4423,1141,83
+3270,kari paneer,43740,9634,4126,306
+3271,masala keju,35175,7664,3039,156
+3272,paneer tikka,35709,12342,7206,553
+3273,indian cheese curry,22280,3425,2180,125
+3274,horchata,8316,2369,846,71
+3275,rice milk drink,36468,12755,5875,244
+3276,cinnamon milk,8577,1326,895,51
+3277,horchata drink,31874,7124,1936,131
+3278,agua de horchata,39476,11936,3723,332
+3279,horchata dingin,10151,3495,1529,130
+3280,sweet horchata,25932,6615,2821,144
+3281,mexican milk drink,1428,539,251,15
+3282,gyoza (5 pcs),45768,8627,4583,262
+3283,gyoza dumpling,2488,726,291,12
+3284,dumpling jepang,7150,2719,982,61
+3285,gyoza ayam,42035,6893,4220,245
+3286,gyoza goreng,526,179,100,6
+3287,japanese dumpling,29344,6536,4168,156
+3288,gyoza isi daging,22143,7829,3281,323
+3289,5 pcs gyoza,11883,3918,1927,158
+3290,grilled chicken rice bowl,33479,7898,3569,151
+3291,chicken rice bowl,20464,3961,1248,62
+3292,rice bowl ayam,3861,1255,490,26
+3293,ayam panggang rice,25798,5547,3313,150
+3294,grilled chicken bowl,30275,7784,2637,194
+3295,ayam grilled bowl,2236,814,312,21
+3296,nasi ayam panggang,42102,13161,7038,607
+3297,garlic sauce,28505,5964,3460,230
+3298,saus bawang putih,23510,8677,5483,211
+3299,garlic dip,10100,2729,1122,91
+3300,garlic mayo,36164,9267,2902,108
+3301,garlic aioli,11423,2288,805,28
+3302,white sauce,31599,10865,6616,494
+3303,garlic condiment,9900,2804,1133,84
+3304,garlic spread,2540,502,225,12
+3305,basmati rice,1053,209,89,6
+3306,nasi basmati,47710,9858,2494,126
+3307,indian rice,16624,4434,2007,112
+3308,steamed basmati,41643,13625,6901,670
+3309,aromatic rice,35661,6530,3668,360
+3310,plain basmati,23052,3647,2375,198
+3311,white basmati,15932,3011,1286,59
+3312,beras basmati,5951,1162,512,25
+3313,acai bowl,48086,18484,7075,317
+3314,smoothie bowl,555,203,135,11
+3315,acai fruit bowl,17361,3581,1054,60
+3316,healthy bowl,9927,2457,785,53
+3317,berry bowl,39838,12009,4983,200
+3318,acai granola,7379,2764,1263,113
+3319,acai mix,27093,6029,1521,144
+3320,mangkuk acai,6411,1424,441,25
+3321,massaman curry,4178,799,277,27
+3322,kari massaman,5270,820,457,28
+3323,thai curry,15907,5301,2643,260
+3324,massaman beef,20089,8027,3347,196
+3325,curry kacang,24401,8456,2970,260
+3326,massaman chicken,36220,12165,4216,223
+3327,kari thailand,44618,14642,8763,397
+3328,massaman pedas,20244,7823,4607,202
+3329,supreme pizza,35268,11290,2990,208
+3330,pizza komplit,26113,5542,2933,142
+3331,pizza topping lengkap,30121,10174,5525,320
+3332,pizza supreme slice,671,194,120,4
+3333,pizza daging sayur,11011,2169,773,55
+3334,pizza special,44860,15780,6080,571
+3335,all-in pizza,34936,11198,6503,478
+3336,pizza kombo,35150,13177,9038,657
+3337,mixed grill platter,35583,9507,5848,445
+3338,grilled meat mix,48012,14258,9478,712
+3339,platter panggang,19089,3870,2021,143
+3340,mixed meat plate,32117,5161,3324,184
+3341,combo grill,29707,7440,4191,153
+3342,daging bakar mix,30480,8473,3175,270
+3343,bbq platter,44177,14540,8700,830
+3344,grill komplit,29657,9209,2991,141
+3345,fresh orange juice,35362,12448,6841,595
+3346,jus jeruk segar,29882,5165,1466,68
+3347,orange juice,28418,10909,2972,138
+3348,jus jeruk,21922,7092,3971,268
+3349,perasan jeruk,45036,14596,4612,319
+3350,minuman jeruk segar,7144,1115,553,55
+3351,jus buah jeruk,20139,4297,1616,103
+3352,jus jeruk dingin,20353,7729,2935,197
+3353,grilled lamb chops,34845,6471,3442,211
+3354,domba bakar,17690,3394,1503,78
+3355,lamb chops,18685,4891,2612,197
+3356,grilled lamb,23843,9514,2433,189
+3357,iga domba,42582,14146,5288,185
+3358,lamb steak,5250,918,289,24
+3359,panggang domba,31916,10933,3650,192
+3360,lamb chop platter,28668,8679,2726,246
+3361,thai pad see ew,774,176,69,5
+3362,pad see ew,11836,1854,1099,39
+3363,mie thailand,29217,9734,5599,300
+3364,thai soy noodles,49530,9903,6026,414
+3365,pad see ew ayam,5957,1807,1233,88
+3366,pad see ew sapi,30627,9985,2922,252
+3367,mie goreng thai,43138,14234,5035,312
+3368,pad see ew klasik,13732,4134,1593,148
+3369,edamame with sea salt,6913,2162,1057,75
+3370,edamame,24666,5508,1760,86
+3371,edamame asin,27786,6895,2058,95
+3372,kacang jepang,23580,5148,2266,93
+3373,salted edamame,41457,7056,2196,101
+3374,edamame rebus,24856,4199,1429,62
+3375,edamame snack,14271,3349,2037,175
+3376,kacang rebus asin,45863,11701,6978,629
+3377,blue cheese burger,40066,8243,4721,436
+3378,burger keju biru,23799,7548,2739,259
+3379,blue cheese beef,19617,7734,2628,112
+3380,gourmet burger,47009,7351,4409,247
+3381,burger premium,18081,5205,3075,195
+3382,burger special,38708,8856,3310,127
+3383,beef blue cheese,7828,2293,1268,66
+3384,burger mewah,40980,10497,3954,326
+3385,lumpiang shanghai,24859,8029,3989,197
+3386,lumpia goreng,3919,959,543,42
+3387,filipino spring roll,3747,1104,276,13
+3388,lumpia daging,46965,14377,6435,585
+3389,lumpia kecil,49560,16919,4772,288
+3390,shanghai roll,48361,16364,7433,381
+3391,lumpia mini,34027,9184,3766,161
+3392,spring roll filipina,13890,2397,1031,62
+3393,egg & cheese bagel,10655,2049,1403,122
+3394,bagel telur keju,44324,14333,5156,274
+3395,sandwich bagel,16254,5969,3179,284
+3396,bagel breakfast,17180,4241,1091,85
+3397,bagel isi telur,15700,3186,1019,49
+3398,roti bagel keju,11260,2998,961,71
+3399,bagel telur,22058,6884,3121,158
+3400,egg cheese sandwich,49732,18643,5127,334
+3401,goan prawn curry,23125,8740,2823,202
+3402,curry udang goa,19217,5932,1646,72
+3403,prawn curry,4713,1645,932,43
+3404,kari udang india,20646,4251,1955,107
+3405,spicy prawn curry,2069,746,375,13
+3406,goan curry,26503,7024,3441,142
+3407,curry seafood,40543,10875,7007,463
+3408,udang kari,8961,3536,1992,163
+3409,turkey club sandwich,28204,6213,4006,319
+3410,sandwich turkey,24411,7183,2831,150
+3411,club sandwich,13017,2430,1598,115
+3412,roti isi turkey,15154,3589,1792,170
+3413,triple decker sandwich,19730,7486,3671,224
+3414,turkey sandwich,31037,7526,4208,198
+3415,sandwich daging asap,8797,2333,1588,78
+3416,portobello mushroom burger,22468,4503,1462,81
+3417,mushroom burger,11871,4672,2991,258
+3418,burger jamur,39575,9529,4424,291
+3419,portobello burger,20649,4020,1218,102
+3420,veggie burger,32662,5169,3020,248
+3421,burger vegetarian,21398,7171,3794,243
+3422,jamur panggang burger,30088,10674,2913,281
+3423,mini waffle sundae,32917,7293,4328,302
+3424,waffle sundae,32232,12586,8483,524
+3425,sundae mini,10484,3292,1391,66
+3426,waffle es krim,17444,3233,1244,90
+3427,dessert waffle,48167,9821,6742,413
+3428,mini dessert,46367,14651,5806,305
+3429,waffle manis,19463,6575,3538,338
+3430,waffle ice cream,32552,7469,3717,310
+3431,butter chicken with rice,41238,7799,4249,161
+3432,butter chicken,27981,6383,3965,219
+3433,ayam mentega nasi,13653,3773,2221,90
+3434,curry ayam mentega,29677,11790,4922,318
+3435,chicken masala rice,16061,3968,1895,156
+3436,ayam saus butter,22143,4842,3234,274
+3437,nasi kari ayam,34633,12805,7211,420
+3438,blueberry oat smoothie,43729,9226,5872,451
+3439,smoothie blueberry oat,43986,8643,2942,113
+3440,oat smoothie,25681,5626,3459,181
+3441,blueberry shake,36032,8640,3026,171
+3442,minuman oat buah,47685,11669,8036,407
+3443,smoothie sehat,38972,14710,6244,268
+3444,smoothie oat dingin,33247,8458,4370,364
+3445,chicken & waffles,5353,1268,761,68
+3446,ayam waffle,42831,8556,2994,265
+3447,chicken waffle combo,28159,5405,2382,144
+3448,fried chicken waffle,42635,10457,4712,252
+3449,waffles with chicken,14152,3309,1381,94
+3450,brunch waffle ayam,11241,2739,796,40
+3451,waffle gurih,2148,850,518,28
+3452,factory special burger,34724,11072,4415,370
+3453,special burger,36854,14595,6159,210
+3454,burger spesial,32464,7286,4414,167
+3455,burger pabrik,555,97,24,1
+3456,house burger,38294,11795,3759,200
+3457,signature burger,36965,8429,2511,225
+3458,burger komplit,17912,4842,1741,59
+3459,burger lengkap,39938,11309,7359,537
+3460,hummus & pita,44285,10920,6266,480
+3461,hummus pita,21100,8171,2899,247
+3462,hummus platter,48691,17172,10910,1031
+3463,roti dengan hummus,12812,3745,2027,135
+3464,hummus snack,48682,12261,5015,238
+3465,dip hummus,21214,6781,4042,218
+3466,pita bread hummus,19515,3564,1219,72
+3467,hummus klasik,43590,13227,3470,296
+3468,tabbouleh salad,41630,6871,3055,257
+3469,salad tabbouleh,24968,4889,3270,231
+3470,salad timur tengah,39676,8765,4118,339
+3471,arab salad,48893,8733,2328,207
+3472,salad bulgur,45989,17577,9110,643
+3473,salad segar,29479,11406,3438,184
+3474,tabbouleh bowl,31458,8762,3209,170
+3475,salad parsley,29673,6149,2187,192
+3476,falafel bowl with hummus,36371,6621,4573,368
+3477,falafel hummus bowl,32330,10526,4182,369
+3478,falafel rice bowl,48700,11096,6105,533
+3479,falafel mix,30759,5002,2545,118
+3480,vegan bowl,44260,7835,3498,190
+3481,falafel platter,14420,5012,2860,203
+3482,hummus bowl,22226,7033,3856,365
+3483,falafel veggie,37143,7454,3465,137
+3484,bbq short ribs (galbi),46104,12016,5049,256
+3485,galbi,28715,5198,2618,153
+3486,short ribs,43926,8121,2156,200
+3487,iga bakar korea,31023,6694,2599,191
+3488,korean bbq ribs,3700,1273,772,76
+3489,beef galbi,44327,8703,3542,331
+3490,ribs panggang,19747,7698,2729,249
+3491,bbq beef ribs,7906,2365,1640,95
+3492,berry compote french toast,44280,16729,10314,494
+3493,french toast berry,9106,3440,1854,168
+3494,toast buah,41328,6436,1965,83
+3495,berry toast,41842,15886,7823,702
+3496,roti panggang manis,31704,11965,3282,139
+3497,breakfast toast,43652,15683,9567,511
+3498,sweet toast,9632,3299,1695,148
+3499,berry topping toast,21697,6009,3161,220
+3500,salmon nigiri (5 pcs),36159,7580,3121,299
+3501,nigiri salmon,10001,1679,572,47
+3502,sushi salmon,25210,4006,1126,94
+3503,5 pcs nigiri,38300,7480,2358,122
+3504,salmon sushi,4571,1439,729,40
+3505,nigiri set,14237,4377,2303,97
+3506,sashimi salmon,1081,344,138,4
+3507,salmon nigiri platter,39981,8950,3046,216
+3508,spicy garlic udon,46878,10524,4152,166
+3509,udon pedas,1521,608,284,18
+3510,garlic udon,26914,6582,2996,225
+3511,udon sambal,38981,12372,5653,475
+3512,mie udon pedas,10890,3066,1455,68
+3513,spicy noodle bowl,20447,7923,4087,259
+3514,udon kuah pedas,13445,2139,1234,60
+3515,udon bawang,33228,6169,3825,371
+3516,crab cake burger,678,163,96,4
+3517,burger crab,17267,6301,2540,142
+3518,crab patty,16469,4420,2072,164
+3519,seafood burger,12704,2626,1369,97
+3520,burger kepiting,1148,295,106,3
+3521,crab sandwich,5832,2135,1338,105
+3522,burger laut,10944,3817,1918,140
+3523,crab cake sandwich,9335,2772,1775,66
+3524,malai kofta,1565,573,210,11
+3525,kofta kari,8492,2871,1804,174
+3526,malai curry,22968,9115,2283,118
+3527,indian veggie curry,6817,2311,729,25
+3528,bola sayur india,46304,10700,4505,276
+3529,kari krim,19234,5101,1375,67
+3530,malai balls,20048,3149,1430,58
+3531,vegetarian kofta,33896,11227,7020,619
+3532,pecan pie slice,29813,10773,7498,467
+3533,pie pecan,11462,4035,1545,123
+3534,pecan dessert,44658,17851,6640,483
+3535,pecan tart,17823,4214,2759,129
+3536,pecan slice,36408,13171,8745,527
+3537,sweet pie,18785,2831,1773,105
+3538,kue pecan,21316,7083,4783,169
+3539,dessert slice,25727,4565,2446,158
+3540,steamed vegetables,16395,2555,994,53
+3541,sayuran kukus,14361,5526,3743,365
+3542,steamed veggies,21575,7463,2635,256
+3543,veggie side,39117,11939,6941,674
+3544,sayur sehat,38005,11709,6699,667
+3545,vegetables plain,46736,12784,6140,316
+3546,sayur rebus,34395,11939,3645,277
+3547,healthy veggie mix,41922,13948,8560,764
+3548,grilled ribeye steak,16231,3051,1489,91
+3549,ribeye steak,42714,16970,7879,314
+3550,daging ribeye,16307,2844,998,79
+3551,steak panggang,38378,11171,5805,550
+3552,grilled beef steak,45227,14891,9629,910
+3553,rib eye grilled,38055,9975,5090,507
+3554,steak sapi,44620,15988,4548,369
+3555,premium steak,23262,8539,4470,234
+3556,spicy chicken tenders,6773,2262,571,56
+3557,chicken tenders,46618,11705,7585,704
+3558,ayam goreng pedas,20915,6024,1835,76
+3559,hot chicken strips,49801,8155,5314,449
+3560,spicy strips,18250,3303,1749,172
+3561,chicken fingers,49501,12318,5543,420
+3562,crispy tenders,42616,16862,6585,478
+3563,chicken spicy bites,22085,6371,3289,301
+3564,zucchini noodle salad,26078,7786,2652,131
+3565,salad zucchini,47959,19073,11653,759
+3566,spiral veggie salad,24867,5017,1899,109
+3567,zucchini salad,22871,3821,2641,104
+3568,zoodle salad,20742,7724,2950,229
+3569,healthy veggie bowl,30574,8838,3932,274
+3570,zucchini noodles,28551,7274,2310,189
+3571,salad sayur,13812,3571,2337,194
+3572,chicken feet in black bean sauce,31655,8858,3999,343
+3573,chicken feet,34060,9110,4739,295
+3574,ceker ayam saus kacang,29432,11245,4871,387
+3575,dimsum chicken feet,15930,3915,1810,85
+3576,ceker saus hitam,22699,8313,4192,358
+3577,spicy chicken feet,18980,5204,3009,259
+3578,black bean chicken feet,49155,9356,4157,188
+3579,braised chicken feet,41506,15823,4054,319
+3580,lebanese pickles,16111,5359,2451,111
+3581,acar lebanon,30582,11506,7485,731
+3582,arabic pickles,28011,5110,1472,119
+3583,middle eastern pickles,45362,12553,4118,258
+3584,pickled veggies,11652,3900,2066,88
+3585,sour pickles,8282,2771,1665,71
+3586,acar arab,36203,7279,2743,190
+3587,lebanese veggie mix,23266,5840,4043,323
+3588,vietnamese iced coffee,5887,1459,684,62
+3589,ca phe sua da,34567,12335,8253,384
+3590,kopi vietnam,33072,10255,6208,416
+3591,iced vietnamese coffee,12700,3658,1748,146
+3592,vietnam coffee,46503,17217,6346,553
+3593,kopi susu vietnam,33712,10113,4862,220
+3594,vietnamese coffee cold,2588,496,239,17
+3595,es kopi vietnam,29918,7820,2435,202
+3596,texas toast pulled pork,2966,777,480,24
+3597,pulled pork toast,31095,12413,3585,124
+3598,roti babi asap,10773,2427,1119,87
+3599,texas pulled pork,23677,4410,2955,138
+3600,bbq pork toast,21044,4789,1960,125
+3601,sandwich pulled pork,40144,10126,4982,472
+3602,texas pork melt,45888,11758,4999,258
+3603,toast bbq pork,2056,680,237,23
+3604,crunchy taco combo,47162,18209,5730,435
+3605,taco crunchy,14356,2366,1253,68
+3606,taco combo,23560,5105,1489,144
+3607,crispy taco set,40606,15845,9313,778
+3608,taco kombo,28010,11156,4084,241
+3609,taco renyah,20152,4662,1913,179
+3610,taco set menu,27119,4536,1281,115
+3611,combo taco pack,14016,2756,823,72
+3612,grilled cod with lemon butter,9728,1966,726,27
+3613,cod lemon butter,32928,11727,5881,540
+3614,ikan cod panggang,46939,18754,6745,388
+3615,grilled codfish,45714,15469,10727,856
+3616,cod fillet,37976,13604,7787,414
+3617,ikan lemon grilled,18145,5767,1763,129
+3618,buttered cod,32941,5642,2952,121
+3619,lemon fish grill,26246,10498,6263,285
+3620,gulab jamun,15387,5362,3044,239
+3621,dessert india,23426,5620,2423,182
+3622,bola manis,30758,11674,4674,316
+3623,gula jamun,23192,6967,2711,213
+3624,indian sweet,37591,10082,4502,319
+3625,milk ball dessert,23147,7789,2312,141
+3626,sirup bola susu,49012,13464,8798,684
+3627,gulab balls,16561,2914,1297,96
+3628,blueberry pie,25925,4838,1518,73
+3629,pie blueberry,9546,1589,1052,102
+3630,blueberry dessert,13205,4607,3007,186
+3631,tart buah biru,32736,11393,3553,326
+3632,sweet pie,30549,5095,2808,204
+3633,blueberry slice,42417,6479,3831,293
+3634,blueberry pastry,45811,8925,2692,205
+3635,pie buah,42453,8995,3032,301
+3636,lotus leaf sticky rice,20625,3447,1869,180
+3637,sticky rice lotus,2143,618,181,13
+3638,nasi ketan daun teratai,14473,4173,2591,222
+3639,lo mai gai,6352,1161,772,54
+3640,rice dumpling,10441,2831,866,32
+3641,lotus rice wrap,17195,5907,2955,245
+3642,sticky rice dimsum,10293,3335,1860,182
+3643,nasi ketan kukus,11555,4121,1841,181
+3644,hawaiian pizza,12311,4584,2982,165
+3645,pizza hawaii,34113,13335,6713,254
+3646,pizza nanas,14865,5864,1704,85
+3647,pineapple pizza,23345,6046,2377,87
+3648,sweet savory pizza,46719,14789,7094,604
+3649,pizza topping ham,3847,940,425,19
+3650,hawaiian slice,27804,8898,6095,418
+3651,pizza tropical,2178,482,298,15
+3652,goan fish curry,38575,14675,3806,240
+3653,kari ikan goa,25909,5201,1312,98
+3654,fish curry india,18129,5605,1471,142
+3655,spicy fish curry,36022,13579,7059,448
+3656,goan curry,18786,4319,2797,270
+3657,goan seafood,14321,2886,1167,65
+3658,kari ikan pedas,2089,694,220,10
+3659,indian fish curry,21288,7398,2525,152
+3660,beef burrito,32309,10127,6962,316
+3661,burrito sapi,2378,477,196,12
+3662,daging burrito,25854,8843,2364,139
+3663,burrito isi daging,47291,13913,7482,507
+3664,beef wrap,21545,7043,4742,198
+3665,mexican beef burrito,9911,1877,930,85
+3666,spicy beef burrito,2283,624,273,23
+3667,burrito classic,6078,1470,1022,97
+3668,cheesy smash burger,27271,7237,4215,180
+3669,smash burger,42400,15540,8959,798
+3670,burger keju,21096,5388,3486,198
+3671,burger daging tipis,37873,14243,6816,264
+3672,cheesy burger,24278,6455,1798,65
+3673,burger meleleh,25859,5305,2325,225
+3674,burger panggang keju,20579,8226,2961,113
+3675,burger juicy,16462,3355,1908,171
+3676,ratatouille,24750,6843,3437,230
+3677,ratatouille classic,1312,488,136,8
+3678,sayur panggang,23273,9046,4990,429
+3679,vegetable stew,7601,1504,440,25
+3680,french veggie dish,24175,3683,1575,105
+3681,ratatouille veggie,42696,11837,5450,188
+3682,tian sayur,43769,13837,8995,651
+3683,tumis sayur mediterania,47718,9837,3612,223
+3684,bbq chicken pizza,38190,14945,8588,401
+3685,pizza ayam bbq,11356,2692,1657,63
+3686,chicken pizza,20484,7693,4348,220
+3687,bbq pizza,9794,2064,804,42
+3688,pizza ayam bakar,28422,11165,3329,229
+3689,pizza saus bbq,20376,8011,5134,227
+3690,ayam pizza,32493,11649,6977,695
+3691,pizza grilled chicken,8490,1406,966,91
+3692,spicy sausage pizza,8883,2234,1240,118
+3693,pizza sosis pedas,30150,7509,3345,122
+3694,sausage pizza,16814,3039,1475,145
+3695,spicy pizza,12387,2260,1236,95
+3696,pizza daging pedas,9969,1969,512,28
+3697,pizza topping sosis,14833,5903,2415,97
+3698,hot sausage pizza,46709,14168,7147,318
+3699,pizza sosis,1298,342,226,19
+3700,steamed bbq pork buns,25411,6319,4260,300
+3701,bakpao babi bbq,27208,10419,5217,393
+3702,bao babi kukus,40844,12939,6958,340
+3703,pork bun bbq,47232,9115,5500,399
+3704,char siu bao,10295,3673,1730,94
+3705,dimsum pork bun,19594,6797,3247,282
+3706,bánh bao xá xíu,12147,3460,1601,119
+3707,bbq pork bao,39091,6492,2562,123
+3708,orange juice,11857,3075,1630,123
+3709,jus jeruk,36931,7931,2892,161
+3710,orange drink,24075,8538,5729,474
+3711,fresh orange,20770,6259,3448,240
+3712,perasan jeruk,19427,5323,2441,149
+3713,minuman jeruk,2756,1044,484,22
+3714,jus buah jeruk,26553,7436,2363,85
+3715,jus segar,2440,838,405,21
+3716,beef street tacos (3 pcs),48536,12141,6759,369
+3717,beef tacos,42486,13600,7880,759
+3718,street tacos,46829,17378,8163,312
+3719,taco sapi,49042,15578,6565,623
+3720,3 pcs tacos,34550,13583,5889,407
+3721,taco daging,43900,13148,5081,411
+3722,small beef tacos,17761,3427,2254,103
+3723,tacos klasik,44489,13502,3640,168
+3724,tuna sashimi (5 pcs),29842,9489,6102,608
+3725,sashimi tuna,12744,3343,1124,96
+3726,tuna slices,14504,5357,2093,85
+3727,raw tuna,25138,9311,3589,324
+3728,5 pcs sashimi,3307,890,323,23
+3729,tuna sashimi plate,45253,9814,4784,342
+3730,sashimi set,30501,6974,4038,160
+3731,tuna sashimi klasik,49445,7860,3193,212
+3732,bbq bacon burger,7083,2291,1151,99
+3733,bacon burger,23431,7040,4896,291
+3734,burger bbq,26810,6013,3150,127
+3735,burger daging asap,17860,4852,2056,172
+3736,smoky bacon burger,7194,1860,739,39
+3737,bbq beef burger,25392,5493,2209,129
+3738,burger panggang bacon,38322,6051,2291,194
+3739,burger grilled,27916,10886,7575,447
+3740,avocado veggie burger,36675,11776,5174,316
+3741,veggie burger,16040,5216,3037,147
+3742,burger alpukat,32317,6022,1617,150
+3743,vegan burger,23304,4786,1442,95
+3744,burger sayur,41300,7705,3401,227
+3745,burger sehat,33580,12299,8401,623
+3746,avocado burger,49499,18921,11785,1101
+3747,burger vegetarian,27490,7017,1844,107
+3748,strawberries & cream crepe,2380,425,269,23
+3749,crepe stroberi krim,45451,10682,7077,555
+3750,sweet crepe,14715,3065,1678,121
+3751,crepe dessert,30528,8403,2941,288
+3752,crepe buah,31298,11985,3149,141
+3753,crepe manis,4499,1634,413,38
+3754,crepe dengan krim,37301,11768,6992,534
+3755,crepe stroberi,21725,5599,3147,227
+3756,green detox smoothie,35325,8891,2894,124
+3757,smoothie hijau,24847,5221,1650,72
+3758,detox drink,21390,8319,4570,455
+3759,green juice,22972,8182,3622,191
+3760,green smoothie,41967,16060,4118,365
+3761,minuman sehat,18457,6875,3376,134
+3762,green blend,28762,6781,2956,190
+3763,smoothie sehat,17072,6108,3293,315
+3764,chicken alfredo crepe,21703,7833,3647,228
+3765,crepe ayam alfredo,7289,1496,885,33
+3766,creamy chicken crepe,33567,6839,2731,196
+3767,chicken pasta crepe,11044,2837,1710,133
+3768,crepe savory,41772,14859,5276,324
+3769,crepe ayam saus putih,29497,11785,6257,409
+3770,crepe gurih ayam,22229,8123,2453,199
+3771,ayam crepe creamy,20333,4034,2335,205
+3772,chicken fajita burrito,24203,8144,5333,332
+3773,burrito ayam fajita,45313,14535,5728,211
+3774,burrito ayam,1688,566,353,31
+3775,burrito pedas ayam,42018,15974,4026,163
+3776,chicken wrap,39961,10230,2678,94
+3777,fajita burrito,5741,2033,777,77
+3778,burrito grilled chicken,14238,4495,2151,203
+3779,burrito isi ayam,25689,9399,2934,176
+3780,steamed jasmine rice,45035,14393,5750,382
+3781,nasi jasmine,15589,3914,2449,97
+3782,nasi putih wangi,22224,4340,2349,122
+3783,jasmine rice,27279,9583,4285,386
+3784,nasi kukus,49731,8939,6145,523
+3785,rice plain jasmine,18343,4265,2454,153
+3786,beras harum kukus,17727,5318,2071,137
+3787,rice bowl jasmine,8293,3297,2167,194
+3788,cinnamon pizza bites,11928,4027,1213,108
+3789,pizza cinnamon,18112,6406,4379,307
+3790,cinnamon bites,13562,5049,2251,130
+3791,dessert pizza,13929,2112,595,29
+3792,pizza manis,20717,3411,1505,113
+3793,sweet pizza bites,44968,11195,3690,274
+3794,cinnamon snacks,29785,10521,5123,433
+3795,pizza mini manis,15946,5514,3623,142
+3796,chorizo in red wine,25994,4199,2655,126
+3797,chorizo wine,32600,6761,3145,278
+3798,chorizo merah,3864,716,324,30
+3799,spanish sausage,23213,3749,2398,227
+3800,chorizo stew,23963,8032,4605,378
+3801,chorizo sauce,37324,12705,4746,230
+3802,chorizo tapas,28947,9654,3985,241
+3803,chorizo red sauce,19116,3831,1989,180
+3804,asian sesame chicken salad,21927,8473,3987,206
+3805,chicken sesame salad,48084,16613,9490,486
+3806,asian salad,16449,4275,1993,69
+3807,salad ayam asia,24731,9053,3029,300
+3808,sesame salad,17720,5779,1497,100
+3809,salad ayam wijen,25606,7904,4311,308
+3810,chicken slaw asia,35344,6212,4072,196
+3811,salad segar ayam,8466,2833,1712,118
+3812,pancit bihon guisado,25071,6152,3784,256
+3813,pancit bihon,43537,8956,3345,324
+3814,bihon goreng,36182,10160,3330,155
+3815,filipino noodles,12799,5063,3490,126
+3816,pancit sayur,15799,2619,1331,59
+3817,mie bihon filipina,6037,1973,835,32
+3818,bihon guisado,10060,1509,1038,72
+3819,pancit mie halus,12733,4191,1059,82
+3820,shrimp teriyaki bowl,32960,8319,3784,242
+3821,teriyaki udang,17324,5788,3071,303
+3822,shrimp rice bowl,29473,8877,3650,238
+3823,udang saus teriyaki,8166,1275,450,15
+3824,shrimp teriyaki rice,22022,6882,2363,159
+3825,udang bowl,32854,8577,3496,180
+3826,mangkuk udang manis,23880,9102,2640,221
+3827,teriyaki seafood,44066,12611,4517,206
+3828,shrimp po' boy sandwich,2311,898,459,24
+3829,po boy udang,14361,3636,1007,53
+3830,shrimp sandwich,44636,8526,5632,201
+3831,sandwich seafood,29221,9816,5699,415
+3832,roti isi udang,9844,3463,1279,107
+3833,udang goreng sandwich,26124,8788,5321,514
+3834,shrimp sub,16680,4793,1767,108
+3835,po boy classic,46578,12991,7138,658
+3836,peanut butter power smoothie,39705,13406,3893,256
+3837,smoothie kacang,43773,15992,9660,401
+3838,power smoothie,33744,12850,5034,209
+3839,peanut shake,47883,9806,5325,303
+3840,smoothie protein,1667,618,342,14
+3841,minuman sehat kacang,17293,4930,1532,60
+3842,smoothie energi,49104,10754,4813,406
+3843,smoothie butter,27587,7493,3296,322
+3844,tofu stir fry,43787,16921,6578,266
+3845,tumis tahu,15906,5836,3733,205
+3846,tofu mix veggie,13688,3340,1578,135
+3847,tahu goreng sayur,15589,4259,1402,118
+3848,stir fry vegetarian,39786,11148,4804,314
+3849,tahu saus,37649,12196,6014,531
+3850,tofu healthy bowl,45995,12989,6450,328
+3851,stirfried tofu,48139,11523,6877,669
+3852,beef brisket plate,39577,7509,4704,321
+3853,brisket beef,30755,10426,5946,420
+3854,daging brisket,8624,3100,942,71
+3855,beef bbq plate,43276,6828,2081,145
+3856,platter brisket,5783,2203,872,60
+3857,brisket set,44837,13500,6834,610
+3858,bbq daging,43239,7741,3070,288
+3859,brisket sapi,48523,7565,3273,145
+3860,beef slow cook,46344,14088,6741,295
+3861,vegetarian burrito bowl,22259,8713,5011,180
+3862,burrito bowl vegan,3950,1244,500,48
+3863,veggie burrito bowl,32859,7290,2725,211
+3864,burrito tanpa daging,10973,1988,713,39
+3865,healthy burrito,23437,3684,2058,140
+3866,salad burrito bowl,32104,10909,5891,284
+3867,rice bowl vegetarian,3855,1484,720,35
+3868,burrito sayur,43105,16288,4928,365
+3869,albóndigas (meatballs),24391,6990,3923,344
+3870,albondigas,34459,5734,2665,124
+3871,meatballs,27688,9915,4307,203
+3872,bakso spanyol,24570,5591,3782,269
+3873,spanish meatballs,9663,1719,1048,75
+3874,albondigas klasik,13485,4566,1360,82
+3875,bola daging,19358,3411,1455,70
+3876,meatball dish,47413,13046,4407,421
+3877,soup meatballs,546,162,50,2
+3878,spicy falafel pita,45562,17392,4604,440
+3879,falafel pedas,25922,9887,4466,423
+3880,pita falafel,31594,9682,2807,198
+3881,falafel wrap,2193,616,171,16
+3882,spicy pita,17712,6792,2126,142
+3883,roti isi falafel,15688,3908,1340,115
+3884,hot falafel,10832,2716,1045,103
+3885,falafel sandwich,34691,7106,2070,134
+3886,ahi tuna poke bowl,20168,3147,1693,159
+3887,tuna poke,21296,3359,1511,80
+3888,poke bowl tuna,24995,6488,3418,213
+3889,ahi poke,44002,8929,4888,193
+3890,raw tuna bowl,33588,11234,3351,139
+3891,mangkuk tuna,36888,11100,3605,183
+3892,poke seafood,13205,5017,1943,173
+3893,ahi bowl,22601,4531,2732,260
+3894,stuffed bell peppers,46720,12911,8773,803
+3895,paprika isi,37357,5604,1974,102
+3896,stuffed peppers,29736,5536,1523,120
+3897,bell pepper dish,30858,6462,2065,88
+3898,baked stuffed peppers,7490,1917,823,38
+3899,sayur isi,27426,5327,1624,74
+3900,stuffed veggie peppers,36588,7710,2160,77
+3901,roasted bell peppers,22074,7404,2248,172
+3902,2-piece fried chicken,42714,8428,4008,163
+3903,ayam goreng 2 pcs,1523,540,197,10
+3904,chicken 2pcs,18849,3011,882,62
+3905,chicken combo,33419,11200,6661,314
+3906,fried chicken,32117,6736,2106,183
+3907,2 pc meal,33263,9966,4382,207
+3908,ayam goreng set,21830,4162,1548,134
+3909,ayam goreng klasik,49917,15010,9600,447
+3910,lychee iced tea,6381,1396,866,76
+3911,es teh leci,48899,9396,5273,460
+3912,lychee tea,23733,6022,1927,118
+3913,iced tea buah,32419,10666,5493,333
+3914,teh leci dingin,7770,1275,493,19
+3915,minuman teh leci,34108,12605,7671,740
+3916,fruity iced tea,8386,1837,1037,59
+3917,lychee cold drink,49460,10350,6113,304
+3918,crème brûlée,9000,1974,1374,130
+3919,dessert brûlée,43338,9738,5598,392
+3920,custard brûlée,37693,10651,6150,561
+3921,krim karamel,37857,9503,2747,217
+3922,creamy brûlée,28698,6070,2568,183
+3923,french dessert,33941,7455,2706,199
+3924,brûlée klasik,14614,2807,1550,101
+3925,dessert hangus manis,13471,2057,797,53
+3926,spanish tortilla,30713,8167,3278,129
+3927,tortilla spanyol,17377,5180,3274,197
+3928,egg potato omelet,4822,1258,365,19
+3929,spanish omelette,48149,10220,3166,118
+3930,tortilla telur kentang,32774,6270,3883,259
+3931,spanish egg dish,17414,3042,1252,53
+3932,omelet kentang,6693,2402,1045,79
+3933,tortilla klasik,17456,6521,1808,149
+3934,patatas bravas,14768,3661,1870,164
+3935,kentang bravas,24035,9336,6346,273
+3936,spicy potatoes,32727,13072,7004,350
+3937,spanish potatoes,45248,14066,9835,616
+3938,kentang saus pedas,42271,7308,3088,300
+3939,tapas kentang,32368,7812,2450,237
+3940,bravas sauce,20000,3824,1949,163
+3941,kentang goreng pedas,799,184,65,6
+3942,chicken sandwich,44909,13013,4243,251
+3943,sandwich ayam,43754,10334,4511,336
+3944,roti isi ayam,21675,7132,3377,326
+3945,grilled chicken sandwich,40081,6412,3534,306
+3946,ayam sandwich,36195,9138,4858,480
+3947,chicken sub,28589,6369,1706,133
+3948,chicken toastie,1943,554,220,11
+3949,ayam roti,26846,9852,4057,178
+3950,classic falafel plate,28016,10073,5600,450
+3951,falafel plate,20717,8027,3251,179
+3952,falafel klasik,24929,5406,2368,173
+3953,falafel dengan salad,45462,14861,7193,562
+3954,vegan plate,8118,2827,1638,132
+3955,falafel combo,40509,11074,4124,184
+3956,roti falafel,5376,1344,542,24
+3957,falafel lengkap,49121,7708,5295,493
+3958,meat lovers pizza,10215,4056,2669,94
+3959,pizza daging,3461,1324,487,19
+3960,pizza meat lover,1248,229,79,6
+3961,pizza komplit daging,6267,1061,427,26
+3962,meat pizza,1726,616,192,12
+3963,all meat pizza,42072,10006,5922,587
+3964,pizza topping daging,44625,13266,7712,596
+3965,pizza lover,38131,13110,8788,693
+3966,vegetable dumplings (6),23577,4294,2458,202
+3967,dumpling sayur,12724,4603,2072,171
+3968,veggie dumplings,3952,939,498,17
+3969,dumpling 6 pcs,44255,13322,5537,538
+3970,dumpling isi sayur,43803,16870,5144,251
+3971,pangsit sayur,47987,11978,6185,616
+3972,steamed veggie dumplings,13772,2456,1294,101
+3973,dumpling vegetarian,28868,8981,6124,264
+3974,sesame peanut noodles,18739,3812,1005,66
+3975,mie kacang wijen,35843,9007,4520,186
+3976,peanut noodles,7971,2551,767,65
+3977,mie saus kacang,42996,9926,6444,411
+3978,sesame noodles,12329,3276,1670,140
+3979,spicy peanut noodles,24652,7534,3710,323
+3980,noodle salad kacang,21321,3373,2043,161
+3981,mie dingin kacang,24115,5612,1591,98
+3982,cornbread muffin,14375,5175,1819,121
+3983,muffin jagung,39015,11672,4824,173
+3984,roti jagung,41384,14698,10145,743
+3985,cornbread cup,3690,1217,555,48
+3986,baked cornbread,4767,1088,360,20
+3987,sweet cornbread,23979,4866,2886,278
+3988,muffin manis jagung,33124,5046,3329,250
+3989,snack cornbread,6035,1324,633,51
+3990,leche flan,6237,1793,1034,41
+3991,caramel flan,35672,12742,7373,352
+3992,flan filipina,41565,13112,6971,266
+3993,egg custard flan,17709,4412,3024,258
+3994,dessert flan,17199,6181,3213,156
+3995,kue flan,17175,3231,1107,106
+3996,flan klasik,32145,5165,2405,133
+3997,flan susu,1738,448,238,16
+3998,thai spring rolls,14986,3156,1206,47
+3999,lumpia thai,23293,6027,2247,112
+4000,thai rolls,19584,3989,2143,146
+4001,fresh spring rolls,42202,11619,5189,481
+4002,popiah thai,15248,3911,1184,101
+4003,spring roll sayur,36078,14075,6598,345
+4004,thai fresh rolls,31513,11733,6735,230
+4005,lumpia segar,40827,10961,6754,420
+4006,falafel & eggplant sandwich,13045,2752,825,36
+4007,falafel eggplant,39611,8801,5312,187
+4008,sandwich vegan,49635,14124,6062,349
+4009,falafel sandwich,15480,3305,2187,103
+4010,sandwich terong,47666,14154,6205,517
+4011,pita falafel terong,44045,11936,5144,211
+4012,roti isi falafel,12265,4893,2021,183
+4013,sandwich sayur,44732,14802,5039,229
+4014,spicy jalapeño dog,44332,15272,10121,808
+4015,hotdog jalapeno,48398,8578,5686,460
+4016,sosis pedas,3059,845,534,25
+4017,spicy hot dog,22790,6971,3893,307
+4018,jalapeno frank,43837,16265,6484,426
+4019,jalapeno sausage,46065,7148,2511,98
+4020,hotdog pedas,3371,1261,539,19
+4021,frankfurter pedas,23395,9245,2776,143
+4022,fountain drink,3115,707,420,21
+4023,minuman soda refill,5602,1381,653,37
+4024,soda fountain,38113,13889,7155,598
+4025,fountain cup,29679,7490,2522,152
+4026,minuman isi ulang,17128,5229,3341,281
+4027,drink station,15377,3468,1004,65
+4028,soft drink,3561,590,367,33
+4029,soda klasik,42216,14939,9667,391
+4030,tropical citrus blend,45531,10793,4220,197
+4031,jus tropis,21068,3436,1909,190
+4032,citrus blend,14220,4506,1351,107
+4033,tropical juice,22065,8274,4751,425
+4034,mixed fruit juice,36935,9510,3973,151
+4035,citrus smoothie,37351,7506,3706,359
+4036,tropical mix,39395,14919,6434,303
+4037,minuman buah tropis,30012,9275,3232,305
+4038,tofu teriyaki bowl,29254,11374,5061,244
+4039,teriyaki tofu,14679,3434,1140,51
+4040,tofu rice bowl,34174,10111,6119,211
+4041,tofu mangkuk,7611,2036,1251,56
+4042,vegan teriyaki bowl,26329,8974,3052,135
+4043,tofu grilled,4476,1251,594,21
+4044,tofu teriyaki rice,48033,8908,4229,220
+4045,bowl vegetarian,9584,2961,1369,49
+4046,lemon herb rice,9182,2228,1513,79
+4047,nasi lemon,49582,19447,12813,782
+4048,herbed rice,28381,9492,5679,380
+4049,lemon rice,588,224,75,4
+4050,nasi wangi lemon,25270,7419,3495,202
+4051,rice with herbs,10595,1908,629,31
+4052,citrus rice,45156,11575,7975,288
+4053,nasi bumbu lemon,14534,3562,1568,94
+4054,pico de gallo,1991,387,221,13
+4055,salsa segar,3999,769,260,12
+4056,mexican salsa,8572,1386,403,35
+4057,tomato salsa,37894,14145,7028,331
+4058,pico classic,26644,7388,4397,186
+4059,sambal tomat segar,10068,2502,1250,64
+4060,fresh salsa,6109,1150,704,66
+4061,salad tomat,9341,1815,1166,90
+4062,chocolate glazed donut,23921,4263,2875,196
+4063,donat coklat,15310,5322,2662,90
+4064,donut cokelat,15602,2380,1031,102
+4065,chocolate donut,38543,11280,5288,301
+4066,donut glaze,43558,10641,6177,528
+4067,donut manis,45511,15805,8350,580
+4068,donat topping coklat,33041,5747,3115,114
+4069,sweet choco donut,34579,6604,1891,152
+4070,beef teriyaki bowl,41489,11398,2952,112
+4071,teriyaki beef,40672,6696,3526,168
+4072,beef rice bowl,29569,4982,2185,171
+4073,daging sapi teriyaki,4145,858,437,36
+4074,mangkuk sapi,21103,6876,3656,251
+4075,rice bowl daging,40080,11812,6697,325
+4076,beef teriyaki rice,7299,2317,1267,76
+4077,grilled beef bowl,12062,4033,1393,98
+4078,spinach & ricotta ravioli,5172,1191,530,20
+4079,ravioli bayam,8282,2136,649,44
+4080,ravioli keju,31884,6834,2040,98
+4081,spinach ravioli,34336,8504,3758,254
+4082,ricotta pasta,20025,5895,2104,168
+4083,stuffed pasta,43509,13178,5990,340
+4084,ravioli isi keju,17048,6394,4340,301
+4085,pasta vegetarian,34628,11570,6922,464
+4086,whole grain roll,22747,6141,3867,251
+4087,roti gandum,31267,7773,5373,367
+4088,whole wheat roll,46986,12235,5159,399
+4089,grain bun,47817,17425,4761,351
+4090,roti sehat,32409,11494,7548,330
+4091,roti gandum utuh,16760,6229,3037,226
+4092,grain bread,35822,10545,2903,282
+4093,roti sandwich sehat,45947,13584,7052,252
+4094,coleslaw,46442,13430,4359,410
+4095,salad kol,28259,7419,4968,188
+4096,kubis parut,19666,7413,4403,195
+4097,cabbage slaw,19573,5976,3274,287
+4098,salad mayo,44129,15114,10412,674
+4099,side salad,39788,10845,3882,206
+4100,classic slaw,4298,1224,419,27
+4101,salad segar kubis,2469,431,233,23
+4102,tom yum soup,5366,1012,490,25
+4103,sup tom yum,42019,11434,6864,558
+4104,thai spicy soup,42009,9243,4637,384
+4105,tom yam,16944,4055,2059,143
+4106,soup pedas thailand,24097,6652,3973,283
+4107,sup asam pedas,26092,6327,3177,211
+4108,tom yum klasik,43136,13807,5955,250
+4109,seafood tom yum,41487,7533,2820,106
+4110,salmon poke bowl,13089,3682,2458,108
+4111,poke salmon,46448,8184,4049,216
+4112,salmon rice bowl,43551,14001,7943,373
+4113,salmon bowl,2205,571,347,13
+4114,poke ikan,30498,9130,3395,142
+4115,bowl ikan segar,48434,12930,4891,448
+4116,mangkuk salmon,40129,8272,2133,167
+4117,sushi bowl salmon,38390,12752,8208,704
+4118,jasmine iced tea,19311,5086,3318,253
+4119,es teh jasmine,24756,4199,1341,55
+4120,jasmine tea,9600,1862,646,26
+4121,iced jasmine,29272,4865,2817,275
+4122,teh wangi dingin,11197,4227,2715,263
+4123,cold jasmine tea,1511,508,189,16
+4124,floral iced tea,37622,14189,4192,318
+4125,jasmine brew,46839,11404,7809,679
+4126,cold brew coffee,47746,17806,11975,1027
+4127,kopi cold brew,21326,8331,2990,191
+4128,cold coffee,45172,17787,8349,319
+4129,brewed coffee dingin,7243,1857,1144,59
+4130,cold drip coffee,44457,13196,6997,390
+4131,kopi dingin,48152,7653,3023,252
+4132,iced black coffee,45895,14134,4020,237
+4133,kopi tanpa susu,10156,1734,527,34
+4134,peach cobbler waffle,21064,6582,3906,238
+4135,waffle peach,19629,7549,4154,273
+4136,dessert waffle,13179,3002,1920,77
+4137,waffle buah persik,28889,10953,7023,626
+4138,peach waffle,35102,9675,5459,253
+4139,waffle manis,5983,1922,904,45
+4140,cobbler waffle,41288,15431,10514,683
+4141,sweet peach waffle,29742,6124,3017,240
+4142,beef vindaloo,32248,7672,4565,249
+4143,vindaloo sapi,45761,14651,7543,360
+4144,spicy beef curry,36728,6416,3708,177
+4145,kari pedas india,35149,7762,2554,91
+4146,indian beef curry,37794,6362,4163,271
+4147,beef masala,14737,3588,968,87
+4148,vindaloo curry,14280,3249,2137,169
+4149,vindaloo daging,16012,2782,1570,151
+4150,craft soda,952,150,64,2
+4151,soda artisan,10065,1561,713,58
+4152,soda unik,21979,3675,2436,124
+4153,soft drink craft,45884,12444,5756,490
+4154,soda premium,24215,9547,4709,449
+4155,handmade soda,7252,1316,694,54
+4156,fizzy craft drink,46955,15190,7487,295
+4157,soda lokal,46074,8246,2594,212
+4158,tonkotsu ramen,14738,4328,2087,101
+4159,ramen tonkotsu,21605,6618,3506,297
+4160,ramen pork,41892,15903,7811,565
+4161,ramen kuah kental,27195,4195,2471,175
+4162,japanese pork ramen,8402,1593,785,43
+4163,mie ramen babi,20794,7092,4471,241
+4164,rich broth ramen,16971,5732,3053,126
+4165,ramen creamy,38102,12706,8113,330
+4166,grilled chicken burger,19003,3275,1017,97
+4167,burger ayam panggang,48087,11370,3393,281
+4168,chicken burger,34831,13391,4266,230
+4169,grilled burger,34873,6544,3583,193
+4170,ayam grilled sandwich,22692,8248,3943,309
+4171,burger ayam,40229,12846,3761,288
+4172,burger sehat ayam,16945,3054,1506,56
+4173,grilled chicken bun,10932,3427,1789,116
+4174,matcha latte,43663,7373,1917,75
+4175,teh matcha,6507,2576,746,44
+4176,matcha susu,6546,1394,826,72
+4177,green tea latte,10985,2596,702,64
+4178,iced matcha,49272,10388,3006,215
+4179,hot matcha latte,44708,16542,4768,238
+4180,matcha dingin,35850,8283,3726,234
+4181,minuman matcha,21575,8003,4546,197
+4182,tuna poke with avocado,10739,1969,785,52
+4183,poke tuna alpukat,14411,4905,1920,107
+4184,avocado tuna poke,25146,5768,3851,260
+4185,poke bowl tuna,46663,10849,5947,409
+4186,tuna sashimi bowl,33716,6223,4188,254
+4187,poke ikan alpukat,38896,10020,2835,249
+4188,healthy poke,10922,2672,934,55
+4189,mangkuk poke,34339,7524,1957,138
+4190,chimichurri flank steak,47279,11928,8237,390
+4191,steak chimichurri,1914,335,105,9
+4192,flank steak,10662,3313,2163,90
+4193,grilled beef chimichurri,16075,4090,1951,97
+4194,daging panggang saus hijau,48966,9004,2591,197
+4195,steak daging sapi,17528,2987,909,86
+4196,chimichurri beef,31563,9817,2900,122
+4197,grilled flank,35269,12640,7589,603
+4198,herbed chicken breast,48950,15531,4997,380
+4199,chicken herbs,35689,8518,4284,267
+4200,grilled chicken breast,42312,9763,4206,161
+4201,ayam panggang rempah,1291,232,138,5
+4202,chicken fillet herbs,26464,5333,2003,80
+4203,ayam herba,22526,4880,1763,123
+4204,ayam panggang sehat,45162,16346,11027,403
+4205,chicken breast grill,27966,8405,4741,428
+4206,manchego cheese plate,4653,1841,804,46
+4207,cheese platter,21227,8350,5298,298
+4208,manchego plate,37633,12550,3935,209
+4209,spanish cheese,22967,4773,1542,122
+4210,cheese board,29098,6472,2213,172
+4211,keju manchego,17106,4475,3031,301
+4212,assorted cheese,47753,16569,4889,487
+4213,tapas cheese,25481,6810,4381,207
+4214,mint yogurt drink,18274,6177,2934,171
+4215,yogurt mint,39858,7574,5145,409
+4216,minuman yogurt mint,30376,6217,4063,190
+4217,lassi mint,6886,2711,1744,125
+4218,yogurt segar,39606,13649,6233,354
+4219,yogurt herba,29639,4473,2968,225
+4220,minty drink,17993,3832,2608,181
+4221,mint yogurt smoothie,29015,4921,2650,187
+4222,bibimbap bowl,15751,4590,1388,96
+4223,bibimbap,42554,12211,7893,684
+4224,korean rice bowl,17390,3904,2192,159
+4225,mixed rice bowl,32664,10337,5844,340
+4226,mangkuk korea,33073,8912,5359,284
+4227,bibimbap classic,17317,3936,1224,57
+4228,nasi campur korea,36146,14002,9721,636
+4229,rice veggie bowl,37010,8607,3902,242
+4230,miso soup,21526,7446,3603,173
+4231,sup miso,8630,3413,1154,90
+4232,miso broth,1127,239,134,11
+4233,japanese soup,530,150,99,7
+4234,kuah miso,39662,10099,6286,335
+4235,miso tofu soup,2896,769,414,33
+4236,miso klasik,26562,8665,3294,148
+4237,soup jepang,22457,8469,3493,240
+4238,coleslaw,33258,6873,1785,125
+4239,salad kol,11417,3497,1539,58
+4240,kubis parut,40430,12896,8848,823
+4241,cabbage salad,33573,8208,5195,381
+4242,salad mayo,20753,3457,1285,84
+4243,classic slaw,30892,10665,6225,391
+4244,slaw side,49244,12653,5422,509
+4245,salad creamy,42309,16778,5455,351
+4246,mango banana smoothie,8603,3145,1796,163
+4247,smoothie mangga pisang,5421,1108,454,34
+4248,tropical smoothie,44768,14173,5075,285
+4249,banana mango blend,29052,5078,1409,62
+4250,smoothie buah,21420,6595,4410,215
+4251,mango banana shake,2713,823,494,23
+4252,healthy fruit smoothie,35286,6837,2164,181
+4253,smoothie mix,36491,13374,4638,259
+4254,bbq chicken wings,7474,1284,350,22
+4255,chicken wings,25570,9339,2644,238
+4256,sayap ayam bbq,47337,7501,4900,424
+4257,wings ayam panggang,23338,8621,5720,325
+4258,ayam saus bbq,28995,9835,2725,126
+4259,bbq wings,13540,4277,2979,278
+4260,grilled wings,16607,4286,2953,222
+4261,spicy chicken wings,41774,9209,5086,230
+4262,elote (mexican street corn),21461,6551,2536,147
+4263,elote,12386,4808,1240,122
+4264,jagung mexico,23978,6835,4011,255
+4265,mexican corn,44165,14408,5656,459
+4266,street corn,15250,5755,2000,90
+4267,grilled corn,9469,1870,946,38
+4268,jagung bakar pedas,39974,9582,4745,213
+4269,corn with cheese,11368,2153,1216,88
+4270,elote klasik,46728,14767,4751,200
+4271,chicken teriyaki bowl,15757,3571,2487,234
+4272,teriyaki ayam,4460,1506,1024,82
+4273,rice bowl chicken,34466,12419,5724,264
+4274,ayam teriyaki bowl,23242,4168,2494,238
+4275,grilled chicken teriyaki,48877,8209,4245,393
+4276,mangkuk ayam,45570,9547,2706,135
+4277,teriyaki rice,32900,7301,4168,408
+4278,ayam saus manis,32104,12718,5304,257
+4279,seaweed salad,9942,3453,971,37
+4280,salad rumput laut,43245,13436,3484,272
+4281,wakame salad,6340,2420,945,49
+4282,japanese seaweed,15175,2859,1778,140
+4283,seaweed bowl,21818,4135,1510,142
+4284,gỏi rong biển,24664,8280,4365,284
+4285,salad laut,24066,5872,3124,131
+4286,seaweed mix,10781,2234,880,47
+4287,lamb gyro wrap,33046,7504,4323,301
+4288,gyro domba,47183,18863,8689,357
+4289,wrap lamb,48181,14667,6188,454
+4290,lamb pita,34958,7823,4445,408
+4291,gyro wrap,32982,5951,2031,199
+4292,greek wrap,21534,6703,3685,280
+4293,roti gulung domba,47347,15213,5900,389
+4294,lamb sandwich,7937,2945,1817,75
+4295,pesto chicken pizza,2689,460,306,27
+4296,pizza ayam pesto,14100,3090,1746,101
+4297,chicken pesto,11061,1936,1213,86
+4298,pizza green sauce,25462,5069,3140,172
+4299,pizza ayam saus hijau,24434,7693,2898,274
+4300,pesto slice,34760,11447,2932,246
+4301,pesto pizza,47992,11993,3270,232
+4302,teriyaki salmon rice bowl,30653,9999,5692,517
+4303,salmon teriyaki bowl,9697,2014,1277,88
+4304,rice bowl salmon,49467,13981,5371,439
+4305,grilled salmon bowl,32572,6095,3961,387
+4306,teriyaki fish rice,12212,4584,2902,134
+4307,mangkuk salmon,2676,564,253,19
+4308,salmon rice,32189,10624,4086,237
+4309,grilled veggie wrap,33472,6601,4046,366
+4310,veggie wrap,17213,6165,3405,123
+4311,sayur panggang wrap,48334,8742,3385,206
+4312,roasted veggie wrap,1823,516,263,16
+4313,wrap vegetarian,49358,18383,8751,509
+4314,grilled wrap,9584,3571,2032,201
+4315,wrap sehat,36318,7316,4812,205
+4316,wrap sayuran,21715,6613,1721,145
+4317,veggie lovers pizza,49857,16123,6232,404
+4318,pizza vegetarian,15714,3869,2093,179
+4319,veggie pizza,29966,8945,3919,201
+4320,pizza sayur,45655,13851,7639,515
+4321,veggie slice,16113,3795,2156,141
+4322,pizza tanpa daging,10877,3689,1470,106
+4323,pizza sehat,44090,7692,3938,390
+4324,veggie topping pizza,48751,13530,5725,458
+4325,fettuccine alfredo,47752,13994,7783,345
+4326,pasta alfredo,11736,4095,2003,87
+4327,fettuccine creamy,36239,10739,5547,241
+4328,alfredo sauce pasta,36108,6936,2197,200
+4329,pasta keju krim,3311,1119,749,33
+4330,italian fettuccine,46410,15174,9953,524
+4331,creamy pasta,46720,17192,6810,292
+4332,alfredo klasik,29664,10562,6804,669
+4333,3-bean veggie chili,31194,9811,4119,152
+4334,chili tiga kacang,43689,14085,9645,760
+4335,veggie chili,9052,2190,947,78
+4336,vegetarian chili,38426,9774,4368,267
+4337,bean stew,11749,3355,2347,214
+4338,chili sehat,40573,8771,5046,487
+4339,spicy veggie chili,12419,4921,3272,211
+4340,chili kacang,11188,1816,965,50
+4341,vegan buddha bowl,38823,13518,5484,354
+4342,buddha bowl,44870,12001,3389,220
+4343,vegan bowl,11305,2862,1019,83
+4344,rice veggie bowl,6223,1608,700,53
+4345,healthy plant bowl,47829,7558,3054,270
+4346,grain bowl,41949,12962,5189,302
+4347,bowl nabati,20045,6407,3441,241
+4348,mangkuk vegan,8213,1827,1185,98
+4349,palak paneer,3723,562,185,11
+4350,curry palak paneer,20423,4432,1951,166
+4351,spinach paneer,18909,7267,4247,344
+4352,kari bayam india,9788,3235,1947,70
+4353,indian spinach curry,7670,1800,694,57
+4354,paneer hijau,40416,15680,9673,966
+4355,saag paneer,35474,8474,4519,427
+4356,kari keju bayam,33051,6273,2457,178
+4357,vegan tofu pho,2624,655,164,10
+4358,pho tofu,33777,12181,4871,209
+4359,pho vegan,44930,11877,4399,385
+4360,tofu noodle soup,42394,13948,9672,966
+4361,vegan pho bowl,34451,11021,5146,439
+4362,sup pho vegetarian,7197,1148,418,33
+4363,pho tanpa daging,26689,9193,3022,104
+4364,tofu vietnamese pho,45371,11638,5132,389
+4365,chicken biryani,45548,16113,4365,164
+4366,nasi biryani ayam,43311,16429,6742,424
+4367,biryani ayam,33364,12907,3735,333
+4368,indian chicken rice,17998,7182,3468,320
+4369,ayam kari biryani,11357,4312,2367,156
+4370,chicken spiced rice,33446,6489,2524,127
+4371,biryani klasik,18098,5820,1717,163
+4372,ayam berbumbu,23917,3986,1438,98
+4373,crispy chicken strips,11458,2464,1213,43
+4374,chicken strips,34267,10520,2942,208
+4375,ayam goreng crispy,28137,10544,4202,298
+4376,chicken tenders,15421,4401,1620,61
+4377,ayam renyah,40276,15672,5026,437
+4378,chicken fingers,36415,14141,4094,165
+4379,ayam crunchy,44139,10928,6169,616
+4380,ayam strip goreng,15356,2925,1356,111
+4381,mediterranean quinoa salad,37039,13483,3988,148
+4382,quinoa salad,43072,8687,6024,513
+4383,salad sehat,1178,247,69,2
+4384,salad quinoa,12928,3553,1173,87
+4385,mediterranean salad,31546,6665,3189,213
+4386,veggie quinoa bowl,29250,7741,2677,101
+4387,grain salad,10158,2751,1550,86
+4388,salad sayur sehat,11351,2060,542,39
+4389,savory ham & cheese crepe,28830,4932,1317,113
+4390,crepe ham keju,13043,4747,1753,110
+4391,savory crepe,13635,4177,1607,152
+4392,ham cheese wrap,48413,13579,8826,575
+4393,crepe asin,15656,2371,746,37
+4394,crepe daging dan keju,21158,4592,3022,212
+4395,breakfast crepe,7048,1064,676,43
+4396,crepe isi,21312,5915,2947,121
+4397,loaded nachos,39857,12919,5869,262
+4398,nachos topping,4957,1226,315,11
+4399,nachos komplit,752,224,102,5
+4400,cheesy nachos,42343,12091,7861,521
+4401,nachos daging,34722,12952,4934,399
+4402,snack nachos,22408,4760,2215,110
+4403,nachos besar,18761,6544,2568,192
+4404,loaded chips,9490,2044,527,24
+4405,grilled kofta skewers,44777,16728,4189,208
+4406,kofta panggang,11653,2100,815,28
+4407,kofta skewers,13257,4154,2294,150
+4408,beef kebab,21583,4477,1837,112
+4409,meat skewers,6110,2196,664,42
+4410,tusuk daging,11727,4153,1855,64
+4411,grilled kebab,15288,3715,2100,118
+4412,kofta sticks,802,136,80,6
+4413,fresh lemon mint cooler,45878,15903,4450,303
+4414,lemon mint drink,11668,3041,1061,58
+4415,mint cooler,21973,8590,3824,177
+4416,minuman lemon mint,12198,4843,2663,119
+4417,lemon soda,32271,7471,4380,215
+4418,citrus mint,7102,2327,773,48
+4419,air lemon segar,46782,8677,3145,261
+4420,soda herbal,40830,6920,3073,233
+4421,chicken tinga tacos,48270,12828,4112,267
+4422,taco tinga ayam,32106,12826,6190,240
+4423,ayam tinga,43959,15830,8904,420
+4424,shredded chicken tacos,49434,17494,9545,398
+4425,taco pedas ayam,8088,1368,349,15
+4426,mexican chicken taco,40378,10567,6936,549
+4427,tinga taco,35960,10536,6664,402
+4428,taco ayam suwir,14880,3018,1408,91
+4429,loaded chili nachos,47090,18783,6848,484
+4430,nachos chili,45973,9064,3872,155
+4431,cheesy chili nachos,30103,9086,5593,336
+4432,loaded nacho bowl,33966,10697,5836,276
+4433,spicy nachos,13519,3688,1568,146
+4434,nachos daging pedas,18940,7491,4736,410
+4435,beef chili nachos,14347,3616,1805,156
+4436,nachos komplit,33733,5618,1982,179
+4437,house brewed coffee,24009,3663,1726,91
+4438,kopi seduh rumah,8803,2065,669,43
+4439,brewed coffee,38906,12151,4372,374
+4440,house coffee,19809,6619,4279,311
+4441,kopi panas,48602,13934,7143,705
+4442,coffee classic,6172,1801,1189,111
+4443,kopi manual,21166,6505,3007,118
+4444,black coffee,18190,4446,1937,147
+4445,crab mac & cheese,22191,5290,1623,78
+4446,mac and cheese crab,49750,14660,6916,538
+4447,crab pasta,39970,15086,3902,164
+4448,seafood mac,29577,10110,3939,331
+4449,mac cheesy crab,47120,12302,5603,442
+4450,pasta keju kepiting,17050,5242,3222,132
+4451,crab macaroni,33472,7530,1909,94
+4452,crab cheesy bowl,7697,2341,778,74
+4453,steak sandwich,25523,8086,2677,243
+4454,sandwich steak,32580,8889,3981,280
+4455,beef sandwich,18022,3849,2450,187
+4456,roti isi daging,44229,7214,2118,109
+4457,grilled steak sandwich,42929,15815,4313,417
+4458,steak sub,40354,8103,2836,230
+4459,sandwich daging sapi,31965,10423,2711,144
+4460,steak hoagie,35365,10897,6393,341
+4461,black garlic ramen,31008,10114,3253,203
+4462,ramen black garlic,43857,8796,4244,201
+4463,ramen bawang hitam,17893,6573,3510,275
+4464,japanese ramen garlic,49580,12427,7386,540
+4465,black broth ramen,15309,3083,1563,85
+4466,ramen kuah pekat,41589,7613,2760,169
+4467,mie hitam ramen,20702,7743,3062,281
+4468,ramen bold flavor,39057,11129,4128,229
+4469,peppercorn sirloin,27024,9522,3739,233
+4470,steak peppercorn,1486,382,98,8
+4471,sirloin steak,24624,5274,2269,206
+4472,daging sirloin,7756,1576,708,36
+4473,pepper steak,2366,595,380,22
+4474,sirloin panggang,21403,7155,3838,188
+4475,sirloin black pepper,36662,11718,3813,168
+4476,steak lada hitam,44272,15051,5159,427

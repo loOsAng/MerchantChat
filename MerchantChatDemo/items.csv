@@ -1,0 +1,401 @@
+item_id,cuisine_tag,item_name,item_price,merchant_id
+1,Side,Fried Spring Rolls,3.5,1d4f2
+2,American,Lemon Pepper Wings (6 pcs),7.75,8d5f9
+3,Asian,General Tso’s Chicken,9.5,1a3f7
+4,American,Bacon Wrapped Dog,5.25,d3b6a
+5,Dessert,Kulfi,3.75,a3e8b
+6,Seafood,Fried Fish Sandwich,8.5,b9e5f
+7,Indian,Garlic Naan,2.5,c5e2a
+8,Fried Chicken,Hot Wings (6 pcs),8,0e1b3
+9,Burgers,Double Patty Burger,9,2e8a5
+10,French,Mushroom & Herb Crepe,7.5,e7a2f
+11,French,Nutella & Banana Crepe,6.75,0e7a4
+12,Beverage,Lemonade,2.5,6d0f7
+13,Tex-Mex,Chili Cheese Fries,6,6d0f7
+14,Asian,Beef Bulgogi Rice Bowl,9.5,7f4d2
+15,Fried Chicken,Bucket of Wings (10 pcs),11.5,7c1a9
+16,Mediterranean,Beef Shawarma Plate,9.75,1c2e6
+17,Italian,Classic Cheese Pizza,8,7c5b9
+18,Italian,Spaghetti Bolognese,9.5,d4f0a
+19,Burgers,Classic Cheeseburger,7.5,2e8a5
+20,Filipino,Pancit Palabok,8.5,8f7c2
+21,Steak,Beef Striploin Bowl,10.75,4c9a2
+22,Side,Celery & Ranch,2,8d5f9
+23,Healthy,Grilled Chicken Caesar Salad,8.5,4d9f1
+24,Japanese,Spicy Salmon Roll,7,5b8d2
+25,Japanese,Shoyu Ramen,9.25,4f0c5
+26,Japanese,Unagi Nigiri (2 pcs),5.5,a9f4e
+27,Korean,Spicy Tofu Stew (Soondubu),9.5,2d7a9
+28,Tex-Mex,Chili Dog,6.75,6d0f7
+29,Vietnamese,Pho Ga (Chicken Pho),8.5,1d4f2
+30,Japanese,Avocado Cucumber Roll,6,5b8d2
+31,Side,Fries,2.5,2e8a5
+32,Asian,Noodle Stir Fry with Chicken,9,b7a3e
+33,French,Duck Confit,14.75,2f3d7
+34,Mediterranean,Falafel Wrap,7.5,d1e9b
+35,Breakfast,Blueberry Pancakes,6.75,3c7e9
+36,Dessert,Strawberry Frosted Donut,2,3b7f0
+37,Side,Stuffed Grape Leaves,4,6a9c1
+38,Indian,Jeera Rice,2.75,b2d8e
+39,Side,Grilled Asparagus,4,4a3e6
+40,Seafood,Garlic Butter Shrimp,12,a6c9f
+41,Breakfast,Nutella Banana Waffle,7.5,5d9e3
+42,Indian,Chicken Tikka Masala,10.5,b2d8e
+43,Indian,Lamb Curry,11.75,6a0c3
+44,Beverage,Plum Soda,2.75,3d9c8
+45,Japanese,Ebi Tempura Roll,7.25,8f2a6
+46,Healthy,Spinach & Strawberry Salad,8.25,9f6b0
+47,American,Caprese Baguette,7.75,0c6e4
+48,Contemporary,Seared Tuna Steak,14,4a3e6
+49,BBQ,BBQ Ribs Full Rack,18,e8c2b
+50,Beverage,Chai Latte,3,8b7a3
+51,Korean,Spicy Pork Belly BBQ,13,c5a8e
+52,Mexican,Spicy Chicken Burrito,8.75,9f4a2
+53,Tea,Jasmine Tea Pot,2.5,7d4e1
+54,Chinese,Beef & Onion Dumplings (8),6.25,b0e7f
+55,Hawaiian,Spicy Salmon Poke,10.75,4a7c1
+56,Vegetarian,Lentil Shepherd’s Pie,9,9a8c5
+57,Side,Mac & Cheese,3.5,e8c2b
+58,Burgers,Bacon Mushroom Burger,8.5,2e8a5
+59,American,Chicago Dog,4.5,d3b6a
+60,Healthy,Roasted Veggie Salad Bowl,8.25,4d9f1
+61,Japanese,California Roll,6.5,8f2a6
+62,Mexican,Barbacoa Soft Tacos,7.75,a5c3b
+63,Side,Sautéed Mushrooms,3.25,4c9a2
+64,Side,Potato Wedges,3,0c2d7
+65,Japanese,Spicy Chicken Teriyaki,9,3d9c8
+66,Breakfast,Chocolate Chip Pancakes,6.75,3c7e9
+67,Burgers,Vegan Black Bean Burger,8,0c5d8
+68,American,Garlic Parmesan Wings (6 pcs),7.75,8d5f9
+69,Mexican,Birria Quesa Tacos,9.25,7d3c1
+70,Mediterranean,Grilled Chicken Shawarma Plate,9.25,8e9a0
+71,Asian,Vegetable Chow Mein,8,1a3f7
+72,Tex-Mex,Spicy Turkey Chili,7,9d5f2
+73,Seafood,Beer-Battered Haddock,11,9b4c2
+74,Dessert,Mini Donuts,4,5c1f8
+75,Burgers,Truffle Burger,11,4e2d1
+76,Side,Pickled Cabbage,2,7f2c1
+77,Thai,Pineapple Fried Rice,9.25,f1c7a
+78,Thai,Green Curry with Jasmine Rice,9.5,7a8e0
+79,Side,Rainbow Slaw,3.25,9a8c5
+80,Italian,Margherita Personal Pizza,7.5,3f7e4
+81,Chinese,Fried Shrimp Dumplings (6),6.5,b0e7f
+82,Indian,Lamb Rogan Josh,11,b9e8c
+83,Indian,Butter Chicken,10.25,a3e8b
+84,Breakfast,Smoked Salmon Bagel,7,3e2b6
+85,Beverage,Kombucha,3.75,5b3d8
+86,Mediterranean,Falafel & Couscous Bowl,8.75,1f5b7
+87,Beverage,Sangria (non-alcoholic),3.5,2a3e9
+88,Beverage,Coconut Water,3.5,3b1c6
+89,Breakfast,Classic French Toast,6.5,6f1c4
+90,Dessert,Cherry Pie,4.75,9c8e2
+91,Side,Cheesy Breadsticks,4,3f7e4
+92,Japanese,Tempura Udon,8.25,5b8d2
+93,Vietnamese,House Special Pho,9.75,c8d3e
+94,Filipino,Pancit Sotanghon,8.25,8f7c2
+95,Japanese,Spicy Miso Ramen,9.75,4f0c5
+96,Contemporary,Gourmet Grilled Cheese,8,b0a4f
+97,Mexican,Breakfast Burrito,7.5,9f4a2
+98,Breakfast,Classic Bagel with Cream Cheese,4.5,3e2b6
+99,Japanese,Salmon Teriyaki,10,3d9c8
+100,American,Chili Cheese Dog,5,a4f0b
+101,Seafood,Classic Fish & Chips,10,5f1d3
+102,Burgers,Spicy Jalapeno Burger,9,4e2d1
+103,Japanese,Spicy Tuna Roll,7.5,b3e8f
+104,Healthy,Superfood Power Bowl,9.75,9f6b0
+105,Vietnamese,Pho Bo (Beef Noodle Soup),9,1d4f2
+106,Japanese,Volcano Roll,8.75,a9f4e
+107,Side,Guacamole & Chips,3.5,9f4a2
+108,Indian,Vegetable Biryani,8.75,a3e8b
+109,Filipino,Pancit Malabon,9,f7d1a
+110,Side,Guacamole,2.5,a5c3b
+111,Dessert,Vanilla Custard Donut,2.5,3b7f0
+112,Asian,Soy Braised Beef Noodles,9.75,9b5a0
+113,Chinese,Pork Siu Mai,5,0e1f9
+114,Dessert,Mango Pudding,3.5,0e1f9
+115,Filipino,Pancit Canton with Chicken,8,f7d1a
+116,Breakfast,Bagel with Peanut Butter & Banana,4.75,2b5d7
+117,Dessert,Cookies & Cream Donut,2.75,3b7f0
+118,Contemporary,Truffle Mac & Cheese,9.5,b0a4f
+119,Breakfast,Banana Nut French Toast,7.75,6f1c4
+120,Side,Garlic Bread,3,d4f0a
+121,Seafood,Grilled Salmon Fillet,13,a6c9f
+122,Chinese,Turnip Cake,4.25,7d4e1
+123,Side,Cornbread,2.5,7c1a9
+124,Mexican,Taco Salad Bowl,8.25,7d3c1
+125,Side,Miso Soup,2.5,b3e8f
+126,French,Coq au Vin,13.5,2f3d7
+127,Breakfast,Ham & Cheese Bagel Melt,5.5,2b5d7
+128,Side,House Salad,3.75,6f5a0
+129,Side,Tartar Sauce,0.75,9b4c2
+130,Japanese,Dragon Roll,9.25,b3e8f
+131,Korean,Fried Chicken Wings (Yangnyeom),8.75,2d7a9
+132,Dessert,Pumpkin Pie,5,8b7a3
+133,Asian,Tofu Veggie Rice Bowl,8.25,7f4d2
+134,Indian,Chana Masala,8.25,b2d8e
+135,Japanese,Vegetarian Ramen,8.75,2f7b5
+136,American,Classic Beef Hot Dog,4,a4f0b
+137,Side,Onion Rings,3.25,0c5d8
+138,Chinese,Shrimp Har Gow,5.5,0e1f9
+139,Vietnamese,Shrimp Pho,10,c8d3e
+140,Mediterranean,Veggie Shawarma Bowl,8.25,1c2e6
+141,Thai,Vegetarian Red Curry,8.75,7a8e0
+142,Beverage,Latte,3,0e7a4
+143,BBQ,Grilled Corn on the Cob,3,e8c2b
+144,Side,Mashed Potatoes with Gravy,3.25,0e1b3
+145,Side,Pickled Ginger,1.5,a9f4e
+146,Side,Paratha,2.5,2a9c5
+147,Seafood,Classic Fish & Chips,10.5,9b4c2
+148,Italian,Four Cheese Pizza,9.75,4b1d7
+149,Dessert,Maple Bacon Donut,2.75,e9a1c
+150,Breakfast,Strawberries & Cream Waffle,7.25,e3b2d
+151,Dessert,Baklava,3.5,8e9a0
+152,Beverage,Hot Chocolate,2.75,3b7f0
+153,Breakfast,Everything Bagel,3.5,2b5d7
+154,Mediterranean,Lamb Shawarma Wrap,9.25,1a5f4
+155,Dessert,Rasgulla,3.25,b2d8e
+156,Side,Kimchi,2,c5a8e
+157,BBQ,Pulled Pork Sandwich,9,2a1c4
+158,Mediterranean,Chicken Shawarma Wrap,8.5,1c2e6
+159,Mediterranean,Beef Kabob Platter,11.5,1f5b7
+160,Healthy,Southwest Chicken Salad,8.75,6d8e2
+161,BBQ,Smoked Sausage Platter,11,e8c2b
+162,American,Boneless Wings Combo,8.25,6c3f2
+163,Beverage,Thai Iced Tea,3.25,f1c7a
+164,Beverage,Detox Green Juice,4,6d8e2
+165,Side,Whipped Cream Scoop,1.25,9c8e2
+166,Dessert,Red Bean Sesame Balls,3.25,b0e7f
+167,Side,Spring Rolls (2 pcs),3.25,b7a3e
+168,American,Spicy BBQ Wings (6 pcs),7.5,6c3f2
+169,Side,Crinkle Cut Fries,2.75,a4f0b
+170,Healthy,Berry Almond Salad,9.25,6d8e2
+171,Hawaiian,Chicken Teriyaki Poke Bowl,9.5,4a7c1
+172,Japanese,Chirashi Don,12,a9f4e
+173,Mexican,Carnitas Tacos,7.5,f3b8d
+174,Breakfast,Savory Bacon & Egg Waffle,8.25,5d9e3
+175,Korean,Bulgogi Beef Platter,12.5,c5a8e
+176,Healthy,Lentil & Beetroot Salad,8.5,6d8e2
+177,Vietnamese,Brisket Pho,9.25,c8d3e
+178,Side,Baked Beans,2.75,f8a3d
+179,American,Roast Beef & Cheddar Sandwich,8.25,8a2c6
+180,Dessert,Key Lime Pie,5,9c8e2
+181,Beverage,Lemon Iced Tea,2.75,5f1d3
+182,Dressing,Honey Mustard Dressing,0.75,4d9f1
+183,Side,Nachos with Salsa,4,b4a8f
+184,Dessert,Crepe Ice Cream Roll,5.5,e7a2f
+185,Mexican,Steak Burrito,9,9f4a2
+186,Breakfast,Classic Belgian Waffle,6.5,e3b2d
+187,Asian,Spicy Pork Rice Bowl,9.25,d6e4a
+188,Healthy,BBQ Tempeh Salad,8.75,9f6b0
+189,Side,Potato Chips,2,0c6e4
+190,Chinese,Chicken Dumplings (8),6,b0e7f
+191,Asian,Soba Noodles with Veggies,8.5,d4f7a
+192,Fried Chicken,Fried Chicken Sandwich,7.75,7c1a9
+193,Dessert,Boston Cream Donut,2.25,e9a1c
+194,Indian,Chicken Tikka Masala,10.5,6a0c3
+195,BBQ,BBQ Bacon Cheeseburger,11.5,f8a3d
+196,Tex-Mex,Classic Beef Chili,6.75,9d5f2
+197,Dessert,Apple Crumble Pie,4.5,8b7a3
+198,American,Korean Fried Wings (6 pcs),8,6c3f2
+199,Asian,Kung Pao Chicken,9.25,1a3f7
+200,French,Spinach & Feta Crepe,7.25,0e7a4
+201,Italian,Mushroom & Truffle Pizza,10.75,6f5a0
+202,Seafood,Shrimp Basket,9.5,b9e5f
+203,Mexican,Veggie Tacos with Black Beans,6.75,e8b3c
+204,Breakfast,Chicken & Waffles,9,e3b2d
+205,American,Chicken Pesto Sandwich,8.5,8a2c6
+206,Side,Garlic Mashed Potatoes,4,a1b5e
+207,Side,Mango Chutney,1.75,b9e8c
+208,Mexican,Spicy Shrimp Tacos,8,f3b8d
+209,Filipino,Pancit Bihon with Shrimp,8.5,f7d1a
+210,Asian,Vietnamese Pho with Beef,10,d4f7a
+211,Mexican,Al Pastor Tacos,7.75,7d3c1
+212,Beverage,Root Beer Float,3.5,d3b6a
+213,Spanish,Gambas al Ajillo (Garlic Shrimp),7.5,2a3e9
+214,Indian,Vegetable Korma,8.75,b9e8c
+215,Italian,Pepperoni Pizza Slice,3,3f7e4
+216,Beverage,Cappuccino,3.25,6f1c4
+217,Chinese,Spicy Wontons in Chili Oil,6.25,7f2c1
+218,Side,Seasoned Curly Fries,3.5,b9e5f
+219,Healthy,Greek Salad with Feta,8.5,3b1c6
+220,Japanese,Chicken Karaage Ramen,9.75,2f7b5
+221,Beverage,Strawberry Protein Smoothie,6.5,5e7b2
+222,Beverage,Freshly Brewed Coffee,2.5,3e2b6
+223,Snack,Granola Yogurt Parfait,4.25,c9f0b
+224,Asian,Beef Ramen Bowl,9.75,b7a3e
+225,Mediterranean,Baba Ghanoush with Pita,6,6a9c1
+226,Mexican,Chorizo & Egg Breakfast Taco,6.5,a5c3b
+227,Side,Seaweed Salad,3,8f2a6
+228,Side,Thai Fish Cakes,4,d4f7a
+229,American,Tuna Melt,7.25,0c6e4
+230,Thai,Pad Thai with Chicken,9,7a8e0
+231,Seafood,Seafood Paella,14.5,a6c9f
+232,American,Grilled Veggie Panini,7.75,8a2c6
+233,Side,Olive Mix,2.25,5e0b4
+234,American,New York Style Dog,4.25,d3b6a
+235,Breakfast,Buttermilk Pancakes,6,3c7e9
+236,Asian,Seafood Laksa Noodles,10.25,9b5a0
+237,Asian,Sesame Tofu Bowl,8.5,d6e4a
+238,American,Classic Buffalo Wings (6 pcs),7.5,8d5f9
+239,Mediterranean,Shawarma Fries,7.5,1a5f4
+240,Chinese,Pork & Chive Dumplings (6),5.5,7f2c1
+241,Steak,Filet Mignon,18.75,a1b5e
+242,Fried Chicken,4-Piece Chicken Meal,9.5,0c2d7
+243,Beverage,Green Tea,2,5b8d2
+244,Side,Seaweed Salad,3.25,f9e4c
+245,Healthy,Avocado Kale Salad,9.25,3b1c6
+246,Hawaiian,Tofu Poke Bowl,9.25,f9e4c
+247,Indian,Paneer Tikka Masala,9,c5e2a
+248,Side,Basmati Rice,2.5,6a0c3
+249,Beverage,Horchata,2.75,f3b8d
+250,Asian,Grilled Chicken Rice Bowl,8.75,7f4d2
+251,Side,Garlic Sauce,1,1c2e6
+252,Side,Gyoza (5 pcs),4,4f0c5
+253,Snack,Acai Bowl,7,5e7b2
+254,BBQ,Smoked Turkey Leg,10,f8a3d
+255,Beverage,Sparkling Water,2.5,7c5b9
+256,Thai,Massaman Curry,10,f1c7a
+257,Italian,Supreme Pizza,10.5,4b1d7
+258,Mediterranean,Mixed Grill Platter,11.5,1a5f4
+259,Beverage,Fresh Orange Juice,3,3c7e9
+260,Contemporary,Grilled Lamb Chops,15,4a3e6
+261,Asian,Thai Pad See Ew,9.5,d4f7a
+262,Side,Edamame with Sea Salt,3,4a7c1
+263,Burgers,Blue Cheese Burger,8.75,0c5d8
+264,Side,Lumpiang Shanghai,4.25,f7d1a
+265,Breakfast,Egg & Cheese Bagel,5,3e2b6
+266,Indian,Goan Prawn Curry,12,a3e8b
+267,American,Turkey Club Sandwich,7.5,0c6e4
+268,Contemporary,Portobello Mushroom Burger,9.25,b0a4f
+269,Dessert,Mini Waffle Sundae,5.5,5d9e3
+270,Indian,Butter Chicken with Rice,10,c5e2a
+271,Beverage,Blueberry Oat Smoothie,6,c9f0b
+272,Fried Chicken,Chicken & Waffles,10,0c2d7
+273,Burgers,Factory Special Burger,10,5c1f8
+274,Mediterranean,Hummus & Pita,5,8e9a0
+275,Side,Tabbouleh Salad,3.75,d1e9b
+276,Mediterranean,Falafel Bowl with Hummus,8,d1e9b
+277,Korean,BBQ Short Ribs (Galbi),14.75,c5a8e
+278,Breakfast,Berry Compote French Toast,7.25,6f1c4
+279,Japanese,Salmon Nigiri (5 pcs),8,b3e8f
+280,Asian,Spicy Garlic Udon,8.5,b7a3e
+281,Seafood,Crab Cake Burger,10.75,b9e5f
+282,Indian,Malai Kofta,9.25,2a9c5
+283,Dessert,Pecan Pie Slice,5.25,9c8e2
+284,Side,Steamed Vegetables,3,7e2d8
+285,Steak,Grilled Ribeye Steak,16.5,a1b5e
+286,Fried Chicken,Spicy Chicken Tenders,8,0c2d7
+287,Vegetarian,Zucchini Noodle Salad,7.75,9a8c5
+288,Chinese,Chicken Feet in Black Bean Sauce,5.25,7d4e1
+289,Side,Lebanese Pickles,2.25,1f5b7
+290,Beverage,Vietnamese Iced Coffee,3.25,c8d3e
+291,BBQ,Texas Toast Pulled Pork,9.5,f8a3d
+292,Mexican,Crunchy Taco Combo,6.75,a5c3b
+293,Seafood,Grilled Cod with Lemon Butter,12,9b4c2
+294,Dessert,Gulab Jamun,3,c5e2a
+295,Dessert,Blueberry Pie,4.75,8b7a3
+296,Chinese,Lotus Leaf Sticky Rice,6,7d4e1
+297,Italian,Hawaiian Pizza,9,7c5b9
+298,Indian,Goan Fish Curry,11.5,2a9c5
+299,Mexican,Beef Burrito,8.5,b4a8f
+300,Burgers,Cheesy Smash Burger,9.25,5c1f8
+301,French,Ratatouille,11,2f3d7
+302,Italian,BBQ Chicken Pizza,8.5,3f7e4
+303,Italian,Spicy Sausage Pizza,9.25,6f5a0
+304,Chinese,Steamed BBQ Pork Buns,4.75,0e1f9
+305,Beverage,Orange Juice,3,2b5d7
+306,Mexican,Beef Street Tacos (3 pcs),7.5,e8b3c
+307,Japanese,Tuna Sashimi (5 pcs),9,8f2a6
+308,Burgers,BBQ Bacon Burger,9.5,0c5d8
+309,Burgers,Avocado Veggie Burger,8.5,4e2d1
+310,French,Strawberries & Cream Crepe,6.5,e7a2f
+311,Beverage,Green Detox Smoothie,6,5e7b2
+312,French,Chicken Alfredo Crepe,8,e7a2f
+313,Mexican,Chicken Fajita Burrito,8.25,b4a8f
+314,Side,Steamed Jasmine Rice,2.25,1a3f7
+315,Dessert,Cinnamon Pizza Bites,4,4b1d7
+316,Spanish,Chorizo in Red Wine,6.75,2a3e9
+317,Healthy,Asian Sesame Chicken Salad,8.75,3b1c6
+318,Filipino,Pancit Bihon Guisado,7.75,8f7c2
+319,Japanese,Shrimp Teriyaki Bowl,9.75,3d9c8
+320,Seafood,Shrimp Po' Boy Sandwich,9.75,5f1d3
+321,Beverage,Peanut Butter Power Smoothie,6.75,c9f0b
+322,Vegetarian,Tofu Stir Fry,8.5,9a8c5
+323,BBQ,Beef Brisket Plate,12,2a1c4
+324,Mexican,Vegetarian Burrito Bowl,7.75,b4a8f
+325,Spanish,Albóndigas (Meatballs),6.5,5e0b4
+326,Mediterranean,Spicy Falafel Pita,7.75,d1e9b
+327,Hawaiian,Ahi Tuna Poke Bowl,11,4a7c1
+328,Vegetarian,Stuffed Bell Peppers,8.25,5b3d8
+329,Fried Chicken,2-Piece Fried Chicken,6.5,0e1b3
+330,Beverage,Lychee Iced Tea,3,d6e4a
+331,Dessert,Crème Brûlée,5.5,2f3d7
+332,Spanish,Spanish Tortilla,5.5,5e0b4
+333,Spanish,Patatas Bravas,5,2a3e9
+334,Fried Chicken,Chicken Sandwich,7,0e1b3
+335,Mediterranean,Classic Falafel Plate,8.25,6a9c1
+336,Italian,Meat Lovers Pizza,10,7c5b9
+337,Chinese,Vegetable Dumplings (6),5,7f2c1
+338,Asian,Sesame Peanut Noodles,8.25,9b5a0
+339,Side,Cornbread Muffin,2.5,9d5f2
+340,Dessert,Leche Flan,3.75,8f7c2
+341,Side,Thai Spring Rolls,3.5,7a8e0
+342,Mediterranean,Falafel & Eggplant Sandwich,7.5,6a9c1
+343,American,Spicy Jalapeño Dog,4.75,a4f0b
+344,Beverage,Fountain Drink,2.25,6c3f2
+345,Beverage,Tropical Citrus Blend,6.25,c9f0b
+346,Japanese,Tofu Teriyaki Bowl,8.25,7e2d8
+347,Side,Lemon Herb Rice,3.25,a6c9f
+348,Side,Pico de Gallo,2,7d3c1
+349,Dessert,Chocolate Glazed Donut,2,e9a1c
+350,Japanese,Beef Teriyaki Bowl,9.25,7e2d8
+351,Italian,Spinach & Ricotta Ravioli,10.25,d4f0a
+352,Side,Whole Grain Roll,1.5,9f6b0
+353,Side,Coleslaw,2.5,2a1c4
+354,Thai,Tom Yum Soup,7.5,f1c7a
+355,Hawaiian,Salmon Poke Bowl,10.5,f9e4c
+356,Beverage,Jasmine Iced Tea,2.75,9b5a0
+357,Beverage,Cold Brew Coffee,3,e9a1c
+358,Breakfast,Peach Cobbler Waffle,7.75,5d9e3
+359,Indian,Beef Vindaloo,10.75,2a9c5
+360,Beverage,Craft Soda,3,4e2d1
+361,Japanese,Tonkotsu Ramen,10.25,4f0c5
+362,Burgers,Grilled Chicken Burger,8,5c1f8
+363,Beverage,Matcha Latte,3.25,2f7b5
+364,Hawaiian,Tuna Poke with Avocado,11,f9e4c
+365,Steak,Chimichurri Flank Steak,11.25,4c9a2
+366,Contemporary,Herbed Chicken Breast,12.5,4a3e6
+367,Spanish,Manchego Cheese Plate,7,5e0b4
+368,Beverage,Mint Yogurt Drink,3.25,1a5f4
+369,Korean,Bibimbap Bowl,10,2d7a9
+370,Side,Miso Soup,2.25,7f4d2
+371,Side,Coleslaw,2.5,8a2c6
+372,Beverage,Mango Banana Smoothie,5.5,5e7b2
+373,BBQ,BBQ Chicken Wings,8.5,2a1c4
+374,Side,Elote (Mexican Street Corn),3.5,e8b3c
+375,Japanese,Chicken Teriyaki Bowl,8.75,7e2d8
+376,Side,Seaweed Salad,3,2d7a9
+377,Mediterranean,Lamb Gyro Wrap,8.5,8e9a0
+378,Italian,Pesto Chicken Pizza,9.75,6f5a0
+379,Asian,Teryaki Salmon Rice Bowl,10,d6e4a
+380,Vegetarian,Grilled Veggie Wrap,7.5,5b3d8
+381,Italian,Veggie Lovers Pizza,9.25,4b1d7
+382,Italian,Fettuccine Alfredo,10,d4f0a
+383,Tex-Mex,3-Bean Veggie Chili,6.25,9d5f2
+384,Vegetarian,Vegan Buddha Bowl,8.75,5b3d8
+385,Indian,Palak Paneer,9.25,6a0c3
+386,Vietnamese,Vegan Tofu Pho,8.75,1d4f2
+387,Indian,Chicken Biryani,9.5,b9e8c
+388,Fried Chicken,Crispy Chicken Strips,7.25,7c1a9
+389,Healthy,Mediterranean Quinoa Salad,9,4d9f1
+390,French,Savory Ham & Cheese Crepe,7.5,0e7a4
+391,Mexican,Loaded Nachos,7.75,f3b8d
+392,Mediterranean,Grilled Kofta Skewers,10.75,1f5b7
+393,Beverage,Fresh Lemon Mint Cooler,3.75,b0a4f
+394,Mexican,Chicken Tinga Tacos,7.25,e8b3c
+395,Tex-Mex,Loaded Chili Nachos,7.5,6d0f7
+396,Beverage,House Brewed Coffee,2.5,e3b2d
+397,Seafood,Crab Mac & Cheese,11.25,5f1d3
+398,Steak,Steak Sandwich,9.5,4c9a2
+399,Japanese,Black Garlic Ramen,10.5,2f7b5
+400,Steak,Peppercorn Sirloin,15.25,a1b5e
