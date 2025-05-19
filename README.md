@@ -1,6 +1,9 @@
 # MerchantChat
 这是一个 Streamlit 应用，用于分析商家数据并通过 AI（DeepSeek）提供洞察
 
+#数据集下载（download dataset）
+https://drive.google.com/drive/folders/1pi-p5SWN9rGHuhoF9HvV8kLskGRfyrUi?usp=sharing
+
 
 # Grab MEX AI Assistant 🚀
 
